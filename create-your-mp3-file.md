@@ -1,3 +1,4 @@
 # Create Your MP3 File
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+Once your audio is complete, the first step to publishing is to encode it to an MP3 file.
+
