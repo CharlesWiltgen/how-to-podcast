@@ -1,5 +1,5 @@
 # Summary
 
 * [Welcome!](README.md)
-* [First Chapter](chapter1.md)
+* [Create Your MP3 File](create-your-mp3-file.md)
 
