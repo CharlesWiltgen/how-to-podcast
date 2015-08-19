@@ -9,3 +9,9 @@ Skype is the most popular way to do remote interviews, and include other non-loc
 * **DO** use a wired connection. Connect your PC or laptop to your router or cable modem with a good ol' Ethernet cable to prevent wireless interference and other issues from ruining your interview.
 
 * **DO** insist that remote participants use a mic or headset. Happily, good headsets are amazingly inexpensive — the [**Plantronics .Audio 326**](http://www.amazon.com/gp/product/B001S2RCXW) is only 9 bucks as I write this.
+
+* **DO** ask participants to pause any large file transfers (via Dropbox, BitTorrent, etc.) during the call, because it can make them sound like drunk robots.
+
+
+
+
