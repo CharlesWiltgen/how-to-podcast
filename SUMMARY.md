@@ -4,5 +4,5 @@
 * [Using Skype](using-skype.md)
 * [Create Your MP3 File](create-your-mp3-file.md)
 * [Grow Your Audience](grow-your-audience.md)
-* Colophon & Credits
+* [Colophon & Credits](colophon.md)
 
