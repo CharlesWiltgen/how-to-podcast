@@ -3,7 +3,9 @@ Grow Your Audience
 
 The constant challenge of podcasters is finding and growing their audience.
 
-## 50 Ways to Grow Your Audience
+## 50 Ways to Help Grow Your Audience
+
+1. Know who your audience is.
 
 1. Apply for inclusion in [**Google News**](https://partnerdash.google.com/partnerdash/d/news#p:id=pfehome).
 
@@ -11,6 +13,10 @@ The constant challenge of podcasters is finding and growing their audience.
 
 1. Join [**LinkedIn**](linkedin.com) groups related to your podcast. Check in regularly and contribute to conversations.
 
-1. 
+1. Put out episodes regularly. One per week (or more) is ideal, but one every two weeks is fine.
+
+1.
+
+
 
 
