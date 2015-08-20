@@ -5,6 +5,10 @@ Using Skype
 
 ## Recording
 
+### Single-enders vs. multi-enders
+
+*(TBD)*
+
 ### Software (Mac)
 
 * [**Ecamm Call Recorder for Skype**](http://www.ecamm.com/mac/callrecorder/) (Mac, $30) — This Skype plug-in can record your own microphone input and the output of your Skype call as separate tracks in a single QuickTime movie. An included utility allows you to split that file into separate files for each track, and convert them to other formats.
