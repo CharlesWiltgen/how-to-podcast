@@ -17,3 +17,6 @@ The constant challenge of podcasters is finding and growing their audience.
 
 1. Make your podcast title more discoverable with keywords. Bad: "Close Call". Good: "Close Call - Funny Phone Calls with Our Neighbors"
 
+1. Make episode titles descriptive instead of "cute". They're an opportunity to use keywords that you want to be assocated with your podcast.
+
+
