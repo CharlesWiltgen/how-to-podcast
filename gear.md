@@ -5,4 +5,6 @@ Gear
 
 ## Headphones
 
+## Mixers
+
 ## Recording devices
