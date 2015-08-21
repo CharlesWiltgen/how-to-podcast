@@ -1,6 +1,7 @@
 # Summary
 
 * [Welcome!](README.md)
+* [Identity](identity.md)
 * [Gear](gear.md)
 * [Microphones](mics.md)
 * [Recording](recording.md)
@@ -10,5 +11,4 @@
 * [Marketing](marketing.md)
 * [Colophon & Credits](colophon.md)
 * [Editing](editing.md)
-* [Identity](identity.md)
 
