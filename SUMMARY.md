@@ -8,6 +8,6 @@
 * [Create Your MP3](mp3.md)
 * [Hosting](hosting.md)
 * [Grow Your Audience](grow-your-audience.md)
-* [Colophon & Credits](colophon.md)
 * [Marketing](marketing.md)
+* [Colophon & Credits](colophon.md)
 
