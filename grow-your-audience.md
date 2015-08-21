@@ -21,13 +21,15 @@ You'll find a million articles on the web about content marketing. Here's a big 
 
 1. Some podcasts hosts (like [LibSyn](https://www.libsyn.com/custom-mobile-apps/)) allow you to turn your podcast into an app dedicated to your podcast.  This can help people find you via the iTunes and Google app stores.
 
+1. Make business cards.  Good ones — like, [**Moo**](http://moo.com/) good. You never know when you'll meet a potential listener, advertiser or sponsor.  A card is the best way to help someone find you after a meetup, flight, trade show, etc.
+
 #### Spread infectious enthusiasm
 
 1. Offer to speak at a [**Meetup**](meetup.com).  If you travel, offer to speak at Meetup groups in cities that you visit. Create your own Meetup related to the topic of your podcast. 
 
 1. Join [**LinkedIn**](linkedin.com) groups related to your podcast topic.  Check in regularly and contribute to conversations.  Try to resist plugging your podcast, except when a link to an episode would be a legitimately-helpful resource.
 
-1. Put out episodes regularly. One per week (or more) is ideal, but one every two weeks is fine.
+1. Put out episodes regularly.  One per week (or more) is ideal, but one every two weeks is fine.
 
 1. Make your podcast title more discoverable with keywords.  Bad: *"Close Call"*.  Good: *"Close Call – Funny Phone Calls with Our Neighbors"*.
 
