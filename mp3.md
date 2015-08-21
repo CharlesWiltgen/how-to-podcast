@@ -9,7 +9,7 @@ Don't care about the details? Use [**iTunes**](http://www.apple.com/itunes/downl
 
 ![iTunes MP3 Encoder Settings](iTunes-MP3-Encoder-Settings.png)
 
-## Choosing the encoder
+## MP3 encoders
 
 The two popular MP3 encoders are (1) a commercial MP3 encoder made by **Fraunhofer** (the inventor of the MP3 format), and (2) the open source **LAME** encoder.
 
