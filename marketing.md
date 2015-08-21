@@ -3,7 +3,7 @@ Marketing
 
 The constant challenge of podcasters is finding and growing their audience, otherwise known as "marketing".
 
-You'll find a million articles on the web about content marketing. Here's a big list of ways to reach potential listeners and convert them to subscribers.
+You'll find a million articles on the web about content marketing. Here's a list of ways to reach potential listeners and convert them to subscribers.
 
 ## 50 ways to find and grow your audience
 
