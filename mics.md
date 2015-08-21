@@ -1,7 +1,12 @@
+Microphones
+=======
+
+You're gonna need a microphone or two. (The cool kids call them "mics".)
 
 
 
-On-Stage Stands DS7200B
+
+
 
 
 ## Related stuff you might need
