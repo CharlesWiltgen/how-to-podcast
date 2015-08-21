@@ -1,4 +1,4 @@
-Grow Your Audience
+Marketing
 =======
 
 The constant challenge of podcasters is finding and growing their audience, otherwise known as "marketing".
