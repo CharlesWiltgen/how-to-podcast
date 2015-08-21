@@ -53,3 +53,8 @@ E-Courses
 
 Transcription (Find people new to eLance)
 
+Blogs
+
+Connect with news reporters
+- Separate LinkedIn account
+
