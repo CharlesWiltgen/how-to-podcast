@@ -9,5 +9,5 @@
 * [Hosting](hosting.md)
 * [Marketing](marketing.md)
 * [Colophon & Credits](colophon.md)
-* Editing
+* [Editing](editing.md)
 
