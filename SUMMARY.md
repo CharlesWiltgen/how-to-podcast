@@ -4,6 +4,7 @@
 * [Identity](identity.md)
 * [Gear](gear.md)
 * [Microphones](mics.md)
+* [Headphones](headphones.md)
 * [Recording](recording.md)
 * [Using Skype](using-skype.md)
 * [Create Your MP3](mp3.md)
@@ -11,5 +12,4 @@
 * [Marketing](marketing.md)
 * [Colophon & Credits](colophon.md)
 * [Editing](editing.md)
-* [Headphones](headphones.md)
 
