@@ -2,7 +2,6 @@
 
 * [Welcome!](README.md)
 * [Identity](identity.md)
-* [Gear](gear.md)
 * [Microphones](mics.md)
 * [Headphones](headphones.md)
 * [Recording](recording.md)
