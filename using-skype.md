@@ -19,6 +19,12 @@ Using Skype
 
 * [**Virtual Audio Cable**, **Voicemeeter**, **Voicemeeter Banana**](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm) (donation requested) — This "virtual mixer" software allows you to route audio between applications, meaning that you can send Skype output to a "virtual input" to record with Audacity or your [DAW](https://en.wikipedia.org/wiki/Digital_audio_workstation) of choice.
 
+## Processing Skype recordings
+
+Use a [high-pass filter](https://en.wikipedia.org/wiki/High-pass_filter) to remove anything under 300Hz (which is junk), and a [low-pass filter](https://en.wikipedia.org/wiki/Low-pass_filter) to remove all of the distortion and hiss above 3400Hz.
+
+You can also use EQ in the 1kHz–3kHz range to make male voices "pop", and to make female voices a bit "warmer". 
+
 ## Tips and tricks
 
 * **DO** use a wired connection. Connect your PC or laptop to your router or cable modem with a good ol' Ethernet cable to prevent wireless interference and other issues from ruining your interview.
@@ -28,10 +34,4 @@ Using Skype
 * **DO** ask participants to pause any large downloads and (especially) uploads during the call, because it can make them sound like drunk robots. Things that might do this include Dropbox and BitTorrent.
 
 * **DO** record to uncompressed WAV or AIFF files, **NOT** MP3 files. The only time you should create an MP3 file is before you upload your final episode to your podcast host.
-
-* **DO** use a [high-pass filter](https://en.wikipedia.org/wiki/High-pass_filter) to remove anything under 300Hz (which is junk), and a [low-pass filter](https://en.wikipedia.org/wiki/Low-pass_filter) to remove all of the distortion and hiss above 3400Hz.
-
-
-
-* Like that graphic. Garageband is perfect...I use logic most of the time but use garageband a lot too. I listen to the foundation podcast a lot and hear a lot of skype issues sometimes there's just nothing you can do about it. A little compression goes a long way to helping get good audio without having to up the gain structure. You can also work in the 1k-3k range in the EQ to make things "pop" especially for male speakers. Females can get nasally in that range too so you can "warm" them up a little. High pass filters are a must because nothing is down there anyway. And in garageband you can make a template to save workflow. Also make your files mono to keep the size down, and then you can up the bit rate so you get clarity without the bulk. Just thoughts...
 
