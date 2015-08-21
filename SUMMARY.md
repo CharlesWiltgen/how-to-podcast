@@ -8,5 +8,5 @@
 * [Hosting](hosting.md)
 * [Grow Your Audience](grow-your-audience.md)
 * [Colophon & Credits](colophon.md)
-* Recording
+* [Recording](recording.md)
 
