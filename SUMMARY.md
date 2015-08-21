@@ -7,7 +7,6 @@
 * [Using Skype](using-skype.md)
 * [Create Your MP3](mp3.md)
 * [Hosting](hosting.md)
-* [Grow Your Audience](grow-your-audience.md)
 * [Marketing](marketing.md)
 * [Colophon & Credits](colophon.md)
 
