@@ -10,5 +10,5 @@
 * [Marketing](marketing.md)
 * [Colophon & Credits](colophon.md)
 * [Editing](editing.md)
-* Identity
+* [Identity](identity.md)
 
