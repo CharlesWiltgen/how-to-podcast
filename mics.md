@@ -3,10 +3,17 @@ Microphones
 
 You're gonna need a microphone or two. (The cool kids call them "mics".)
 
+### Kinds of mics
 
 
 
+#### Dynamic
 
+(TBD)
+
+#### Condenser
+
+(TBD)
 
 
 ## Related stuff you might need
