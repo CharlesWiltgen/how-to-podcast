@@ -58,3 +58,4 @@ Blogs
 Connect with news reporters
 - Separate LinkedIn account
 
+If you mention products, let them know to retweet
