@@ -10,6 +10,6 @@
 * [Create Your MP3](mp3.md)
 * [Hosting](hosting.md)
 * [Marketing](marketing.md)
-* [Colophon & Credits](colophon.md)
 * [Other Resources](resources.md)
+* [Colophon & Credits](colophon.md)
 
