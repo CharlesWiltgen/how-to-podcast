@@ -3,25 +3,35 @@ Create Your MP3 File
 
 Once your audio is complete, the first step to publishing is to encode it to an MP3 file.
 
-## TLDR
+## Long story short
 
-Don't care about the details? Use [**iTunes**](http://www.apple.com/itunes/download/), with these settings.
+Use [**iTunes**](http://www.apple.com/itunes/download/), with these settings.
 
 ![iTunes MP3 Encoder Settings](iTunes-MP3-Encoder-Settings.png)
 
-## MP3 encoders
+To set these preferences, go to **Preferences** and click the **Import Settings** button in the **General** tab.
 
-The two popular MP3 encoders are (1) a commercial MP3 encoder made by **Fraunhofer** (the inventor of the MP3 format), and (2) the open source **LAME** encoder.
+## Encoder matters
 
-You want to use the Fraunhofer encoder.  At typical podcast bitrates (64 and 96 kbps), the Fraunhofer encoder has a slight quality edge on LAME.
+The two MP3 encoders you might hear about are:
 
-Commercial software like iTunes and Adobe Audition generally use the Fraunhofer encoder.  Open source software can often use the LAME encoder, although it typically needs to be installed separately.
+* A commercial MP3 encoder made by **Fraunhofer**, the inventor of the MP3 format
+
+* The open source **LAME** encoder
+
+The Fraunhofer encoder has a slight quality edge on LAME at typical podcast bitrates (64 and 96 kbps).  So, use the Fraunhofer encoder.  
+
+Commercial software (including iTunes and Adobe Audition) generally include a licensed Fraunhofer encoder.
+
+Open source software (including Audacity) generally uses the LAME encoder, although it typically needs to be installed separately.
 
 ## Bitrate
 
-**96 kbps** is the best balance between quality and file size.
+In the world of digital media, size is measured in kilobits per second, or "kbps".
 
-People using LibSyn and other hosts that charge based on "monthly storage" often encode at 64 kbps to meet that limitation.
+For audio podcasts, **96 kbps** is the best balance between quality and file size.
+
+For some, 64 kbps can be a more practical (if lower quality) choice.  People using LibSyn and other hosts that charge based on "monthly storage" often encode at a lower bitrate to meet hosting limitations.  Podcasts with listeners in the millions often encode at 64 kbps to save money.
 
 ## Mono or stereo?
 
