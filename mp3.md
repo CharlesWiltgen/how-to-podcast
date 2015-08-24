@@ -9,7 +9,7 @@ Use [**iTunes**](http://www.apple.com/itunes/download/), with these settings.
 
 ![iTunes MP3 Encoder Settings](iTunes-MP3-Encoder-Settings.png)
 
-To set these preferences, go to **Preferences** and click the **Import Settings** button in the **General** tab.
+To set these MP3 Encoder preferences, go to **Preferences** and click the **Import Settings** button in the **General** tab.
 
 ## Encoder matters
 
