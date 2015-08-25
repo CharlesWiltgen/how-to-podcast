@@ -21,7 +21,6 @@ Buy one of these, depending on your needs and budget:
 There's many kinds of mics, but for our purposes we're going to divide them into:
 
 * **Dynamic** versus **condenser**
-
 * **USB** versus **XLR**
 
 ### Dynamic versus condenser
