@@ -35,7 +35,7 @@ A mic's [transducer](https://en.wikipedia.org/wiki/Transducer) converts sound pr
 
 #### Dynamic mics
 
-* Can be more forgiving for beginners
+* Are less sensitive than dynamic mics, and so can be more forgiving for beginners
 * Can sometimes require power (generally called "active dynamic mics")
 
 ## Pickup patterns
