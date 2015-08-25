@@ -15,7 +15,7 @@ Buy one of these, depending on your needs and budget:
 | [Blue Snowball](http://www.amazon.com/dp/B000EOPQ7E/?psc=1) | $60–80 | USB | Condenser | Multiple |
 | [Blue enCORE 100](http://www.amazon.com/dp/B002SQJL9U/) | $100 | XLR | Dynamic | Cardioid |
 
-### $100+
+### Over $100
 
 | Mic | Price | Interface | Type | Pickup pattern(s) |
 | -- | -- | -- | -- | -- |
