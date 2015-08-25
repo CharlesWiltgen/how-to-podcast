@@ -1,7 +1,7 @@
 Microphones
 =======
 
-You're gonna need a microphone or two. (The cool kids call them "mics".)
+You're gonna need a microphone or two. The cool kids call them "mics" (pronounced "mikes").
 
 ## Long story short
 
@@ -18,13 +18,19 @@ Buy one of these, depending on your needs and budget:
 
 ## Kinds of mics
 
+There's many kinds of mics, but for our purposes we're going to divide them into:
 
+* **Dynamic** versus **condenser**
 
+* **USB** versus **XLR**
+
+### Dynamic versus condenser
+
+A mic's [transducer](https://en.wikipedia.org/wiki/Transducer) is the thing that converts sound pressure into an electrical signal.  Although both dynamic and condenser mics have a membrane that vibrates with the air around it, they use different transducer principles.
 
 ## Pickup patterns
 
-
-
+(TBD)
 
 ## Myths
 
