@@ -10,9 +10,10 @@ Buy these, depending on your needs and budget:
 | Mic | Price | Interface | Type | Pickup pattern(s) |
 | -- | -- | -- | -- | -- |
 | [ATR2100-USB](http://www.amazon.com/dp/B004QJOZS4) | $60 | USB + XLR | Dynamic | Cardioid |
-| [enCORE 100](http://www.amazon.com/dp/B002SQJL9U/)* | $100 | USB + XLR | Dynamic | Cardioid |
+| [enCORE 100](http://www.amazon.com/dp/B002SQJL9U/) | $100 | XLR | Dynamic | Cardioid |
+| [SM7B](http://www.amazon.com/dp/B0002E4Z8M/) | $350 | XLR | Dynamic | Cardioid |
 
-*This mic goes on sale a few times per year. You can use sites like CamelCamelCamel to set up a price watch for it.
+**Tip**: Mic go on sale a few times per year. You can use sites like CamelCamelCamel to set up a price watch for ones you're interested in.
 
 ## Kinds of mics
 
