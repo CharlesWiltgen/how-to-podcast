@@ -26,7 +26,17 @@ There's many kinds of mics, but for our purposes we're going to divide them into
 
 ### Dynamic versus condenser
 
-A mic's [transducer](https://en.wikipedia.org/wiki/Transducer) is the thing that converts sound pressure into an electrical signal.  Although both dynamic and condenser mics have a membrane that vibrates with the air around it, they use different transducer principles.
+A mic's [transducer](https://en.wikipedia.org/wiki/Transducer) converts sound pressure into an electrical signal.  Although both dynamic and condenser mics have a membrane that vibrates with the air around it, they use different transducer principles.
+
+#### Condenser mics
+
+* Are typically more sensitive than dynamic mics
+* Require power (delivered via USB or "[phantom power](https://en.wikipedia.org/wiki/Phantom_power)" via mic cables)
+
+#### Dynamic mics
+
+* Can be more forgiving for beginners
+* Can sometimes require power (generally called "active dynamic mics")
 
 ## Pickup patterns
 
