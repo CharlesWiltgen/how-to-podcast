@@ -3,6 +3,10 @@ Microphones
 
 You're gonna need a microphone or two. (The cool kids call them "mics".)
 
+## Long story short
+
+
+
 ## Kinds of mics
 
 
