@@ -5,13 +5,14 @@ You're gonna need a microphone or two. (The cool kids call them "mics".)
 
 ## Long story short
 
-Buy these, depending on your needs and budget:
+Buy one of these, depending on your needs and budget:
 
 | Mic | Price | Interface | Type | Pickup pattern(s) |
 | -- | -- | -- | -- | -- |
-| [ATR2100-USB](http://www.amazon.com/dp/B004QJOZS4) | $60 | USB + XLR | Dynamic | Cardioid |
-| [enCORE 100](http://www.amazon.com/dp/B002SQJL9U/) | $100 | XLR | Dynamic | Cardioid |
-| [SM7B](http://www.amazon.com/dp/B0002E4Z8M/) | $350 | XLR | Dynamic | Cardioid |
+| [AT ATR2100-USB](http://www.amazon.com/dp/B004QJOZS4) | $60 | USB/XLR | Dynamic | Cardioid |
+| [Blue Snowball](http://www.amazon.com/dp/B000EOPQ7E/?psc=1) | $60–80 | USB | Condenser | Multiple |
+| [Blue enCORE 100](http://www.amazon.com/dp/B002SQJL9U/) | $100 | XLR | Dynamic | Cardioid |
+| [Shure SM7B](http://www.amazon.com/dp/B0002E4Z8M/) | $350 | XLR | Dynamic | Cardioid |
 
 **Tip**: Mic go on sale a few times per year. You can use sites like CamelCamelCamel to set up a price watch for ones you're interested in.
 
