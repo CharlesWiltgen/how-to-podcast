@@ -13,4 +13,5 @@
 * [Other Resources](resources.md)
 * [Colophon & Credits](colophon.md)
 * [Legal Stuff](legal.md)
+* Using Skype
 
