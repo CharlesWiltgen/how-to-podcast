@@ -12,4 +12,5 @@
 * [Marketing](marketing.md)
 * [Other Resources](resources.md)
 * [Colophon & Credits](colophon.md)
+* Legal Stuff
 
