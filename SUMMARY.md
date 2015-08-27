@@ -10,7 +10,7 @@
 * [Create Your MP3](mp3.md)
 * [Hosting](hosting.md)
 * [Marketing](marketing.md)
+* [Legal Stuff](legal.md)
 * [Other Resources](resources.md)
 * [Colophon & Credits](colophon.md)
-* [Legal Stuff](legal.md)
 
