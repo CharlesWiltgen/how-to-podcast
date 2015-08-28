@@ -27,8 +27,6 @@ You'll find a million articles on the web about content marketing. Here's a list
 
 1. Offer to speak at a [**Meetup**](meetup.com).  If you travel, offer to speak at Meetup groups in cities that you visit. Create your own Meetup related to the topic of your podcast. 
 
-1. 
-
 1. Join [**LinkedIn**](linkedin.com) groups related to your podcast topic.  Check in regularly and contribute to conversations.  Try to resist plugging your podcast, except when a link to an episode would be a legitimately-helpful resource.
 
 1. Put out episodes regularly.  One per week (or more) is ideal, but one every two weeks is fine.
