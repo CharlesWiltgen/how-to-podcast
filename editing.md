@@ -3,6 +3,10 @@ Editing
 
 The easiest editing is editing you don't have to do.  Make an effort to avoid “um”s, “ah”s and “like”s — a.k.a. “fluency killers” — while recording.  They are credibility killers.
 
+## Editing styles
+
+Different content requires different editing styles.
+
 ### School of thought #1: “Live to tape”
 
 Avoid editing completely when possible.  Provides a “you are there” experience, with all of the good and bad that entails.
