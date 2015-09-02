@@ -13,9 +13,13 @@ Edit out excess verbal tics and hiccups, stuttering, and pauses.  The goal is fo
 
 If you have guests, an additional goal might be to remove anything that might make them sound stupid or unsure.
 
+Expect to spend 2 minutes editing for every minute of recorded source.
+
 ### School of thought #3: NPR quality
 
 Edit with a bias for perfection, even if it involves making edits that savvier listeners might pick up.
+
+Expect to spend 3+ minutes editing for every minute of recorded source.
 
 ## Tools
 
