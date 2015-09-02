@@ -1,6 +1,8 @@
 Legal Stuff
 =======
 
+This guide doesn’t include legal advice. If you need legal advice or have questions after reading the resources linked to here, consult a lawyer.
+
 ## Release forms
 
 
