@@ -20,20 +20,19 @@ If you have XLR mics, you'll need to buy an audio interface.
 
 ## Mixers
 
-### Scenario: One person + USB mic
+## Single-enders vs. multi-enders
 
+## Example scenarios
 
+### One person + USB mic
 
 Traditionally, podcast recording setups included a [mixer](https://en.wikipedia.org/wiki/Mixing_console), whose job is to mix several audio inputs — for example, multiple mics — into a stereo output suitable for recording.
 
 Lately, "mixer-free" setups are becoming more popular.
 
-
-
 ## Processing
 
-
-
+(TBD)
 
 ## Tips & Tricks
 
