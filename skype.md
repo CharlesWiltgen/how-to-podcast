@@ -29,7 +29,7 @@ You can also use EQ in the 1kHz–3kHz range to make male voices "pop", and to m
 
 * **DO** use a wired connection. Connect your PC or laptop to your router or cable modem with a good ol' Ethernet cable to prevent wireless interference and other issues from ruining your interview.
 
-* **DO** insist that remote participants use a mic or headset. A perfectly good headset os amazingly inexpensive — the [**Plantronics .Audio 326**](http://www.amazon.com/gp/product/B001S2RCXW) is only 9 bucks as I write this.
+* **DO** insist that remote participants use a mic or headset. A perfectly good headset is amazingly inexpensive — the [**Plantronics .Audio 326**](http://www.amazon.com/gp/product/B001S2RCXW) is only 9 bucks as I write this.
 
 * **DO** ask participants to pause any large downloads and (especially) uploads during the call, because it can make them sound like drunk robots. Things that might do this include Dropbox and BitTorrent.
 
