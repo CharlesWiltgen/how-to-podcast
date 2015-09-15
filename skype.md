@@ -3,21 +3,21 @@ Using Skype
 
 [**Skype**](http://skype.com/) is the most popular way to conduct remote interviews, and include remote co-hosts and guests in your podcast.
 
-## Recording
+## Software
 
-### Single-enders vs. multi-enders
-
-*(TBD)*
-
-### Software (Mac)
+### Mac
 
 * [**Ecamm Call Recorder for Skype**](http://www.ecamm.com/mac/callrecorder/) (Mac, $30) — This Skype plug-in can record your own microphone input and the output of your Skype call as separate tracks in a single QuickTime movie. An included utility allows you to split that file into separate files for each track, and convert them to other formats.
 
-### Software (Windows)
+### Windows
 
 * [**CallGraph Skype Recorder**](https://scribie.com/free-skype-recorder) (free) — An easy-to-use, audio-only Skype call recorder.
 
 * [**Virtual Audio Cable**, **Voicemeeter**, **Voicemeeter Banana**](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm) (donation requested) — This "virtual mixer" software allows you to route audio between applications, meaning that you can send Skype output to a "virtual input" to record with Audacity or your [DAW](https://en.wikipedia.org/wiki/Digital_audio_workstation) of choice.
+
+### iOS
+
+(TBD)
 
 ## Processing Skype recordings
 
