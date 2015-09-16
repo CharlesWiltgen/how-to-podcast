@@ -13,11 +13,6 @@ If you have a USB mic or headset, the audio interface is built in.
 
 If you have XLR mics, you'll need to buy an audio interface.
 
-
-
-
-
-
 ## Mixers
 
 ## Single-enders vs. multi-enders
