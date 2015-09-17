@@ -27,6 +27,11 @@ Using Skype
 
 (TBD)
 
+## Pre-call checklist
+
+
+
+
 ## Processing Skype recordings
 
 Use a [high-pass filter](https://en.wikipedia.org/wiki/High-pass_filter) to remove anything under 300Hz (which is junk), and a [low-pass filter](https://en.wikipedia.org/wiki/Low-pass_filter) to remove all of the distortion and hiss above 3400Hz.
