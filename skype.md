@@ -29,11 +29,11 @@ Using Skype
 
 ## Pre-call checklist
 
-1. Use a wired connection if at all possible, and ask other participants to do the same. Connect your PC or laptop to your router or cable modem with a good ol' Ethernet cable to prevent wireless interference and other issues from ruining your interview.
+1. Use a **wired connection** to the internet if at all possible, and ask other participants to do the same. Connect your PC or laptop to your router or cable modem with a good ol' Ethernet cable to prevent wireless interference and other issues from ruining your interview.
 
-1. Ask participants to pause anything that might do file transfers during the call, because it can interrupt calls or make them sound like drunk robots. Things that might do this include sync solutions like Dropbox, backup solutions like Carbonite, and BitTorrent clients like µTorrent.
+1. Ask participants to **pause any background file transfers** during the call, because it can interrupt calls or make them sound like drunk robots. Things that might do this include sync solutions like Dropbox, backup solutions like Carbonite, and BitTorrent clients like µTorrent.
 
-1.  Change your Skype status to "Do Not Disturb" during the call, and suggest that your guest do the same. This will keep another call from coming in, which can throw off the conversation and create unwanted noises in your recording.
+1.  Change your Skype status to **"Do Not Disturb"** during the call, and suggest that your guest do the same. This will keep another call from coming in, which can throw off the conversation and create unwanted noises in your recording.
 
 ## Processing Skype recordings
 
