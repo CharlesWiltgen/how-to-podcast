@@ -27,7 +27,7 @@ Using Skype
 
 (TBD)
 
-## Pre-call checklist
+## Skype pre-call checklist
 
 1. Use a **wired connection** to the internet if at all possible, and ask other participants to do the same. Connect your PC or laptop to your router or cable modem with a good ol' Ethernet cable to prevent wireless interference and other issues from ruining your interview.
 
