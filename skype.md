@@ -17,6 +17,8 @@ Using Skype
 
 * [**CallGraph Skype Recorder**](https://scribie.com/free-skype-recorder) (free) — An easy-to-use, audio-only Skype call recorder.
 
+* [**Evaer**](http://www.evaer.com/) ($20, trial available) — A Skype call recorder that supports audio and video.
+
 * [**Virtual Audio Cable**, **Voicemeeter**, **Voicemeeter Banana**](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm) (donation requested) — This "virtual mixer" software allows you to route audio between applications, meaning that you can send Skype output to a "virtual input" to record with Audacity or your [DAW](https://en.wikipedia.org/wiki/Digital_audio_workstation) of choice.
 
 ### iOS
@@ -35,7 +37,7 @@ You can also use EQ in the 1kHz–3kHz range to make male voices "pop", and to m
 
 * **DO** insist that remote participants use a mic or headset. A perfectly good headset is amazingly inexpensive — the [**Plantronics .Audio 326**](http://www.amazon.com/gp/product/B001S2RCXW) is only 9 bucks as I write this.
 
-* **DO** ask participants to pause any large downloads and (especially) uploads during the call, because it can make them sound like drunk robots. Things that might do this include Dropbox and BitTorrent.
+* **DO** ask participants to pause any large downloads and (especially) uploads during the call, because it can make them sound like drunk robots. Things that might do this include sync solutions like Dropbox, backup solutions like Carbonite, and BitTorrent clients like µTorrent.
 
 * **DO** record to uncompressed WAV or AIFF files, **NOT** MP3 files. The only time you should create an MP3 file is before you upload your final episode to your podcast host.
 
