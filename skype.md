@@ -17,6 +17,8 @@ Using Skype
 
 * [**CallGraph Skype Recorder**](https://scribie.com/free-skype-recorder) (free) — An easy-to-use, audio-only Skype call recorder.
 
+* [**Amolto**](http://www.evaer.com/) ($30, free for audio-only) — A Skype call recorder that supports audio and video.
+
 * [**Evaer**](http://www.evaer.com/) ($20, trial available) — A Skype call recorder that supports audio and video.
 
 * [**Virtual Audio Cable**, **Voicemeeter**, **Voicemeeter Banana**](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm) (donation requested) — This "virtual mixer" software allows you to route audio between applications, meaning that you can send Skype output to a "virtual input" to record with Audacity or your [DAW](https://en.wikipedia.org/wiki/Digital_audio_workstation) of choice.
