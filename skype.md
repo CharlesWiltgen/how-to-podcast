@@ -29,8 +29,11 @@ Using Skype
 
 ## Pre-call checklist
 
+1. Use a wired connection if at all possible, and ask other participants to do the same. Connect your PC or laptop to your router or cable modem with a good ol' Ethernet cable to prevent wireless interference and other issues from ruining your interview.
 
+1. Ask participants to pause anything that might do file transfers during the call, because it can interrupt calls or make them sound like drunk robots. Things that might do this include sync solutions like Dropbox, backup solutions like Carbonite, and BitTorrent clients like µTorrent.
 
+1.  Change your Skype status to "Do Not Disturb" during the call, and suggest that your guest do the same. This will keep another call from coming in, which can throw off the conversation and create unwanted noises in your recording.
 
 ## Processing Skype recordings
 
@@ -40,11 +43,8 @@ You can also use EQ in the 1kHz–3kHz range to make male voices "pop", and to m
 
 ## Tips and tricks
 
-* **DO** use a wired connection. Connect your PC or laptop to your router or cable modem with a good ol' Ethernet cable to prevent wireless interference and other issues from ruining your interview.
-
 * **DO** insist that remote participants use a mic or headset. A perfectly good headset is amazingly inexpensive — the [**Plantronics .Audio 326**](http://www.amazon.com/gp/product/B001S2RCXW) is only 9 bucks as I write this.
 
-* **DO** ask participants to pause any large downloads and (especially) uploads during the call, because it can make them sound like drunk robots. Things that might do this include sync solutions like Dropbox, backup solutions like Carbonite, and BitTorrent clients like µTorrent.
 
 * **DO** record to uncompressed WAV or AIFF files, **NOT** MP3 files. The only time you should create an MP3 file is before you upload your final episode to your podcast host.
 
