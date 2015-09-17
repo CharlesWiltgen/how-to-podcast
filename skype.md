@@ -15,9 +15,9 @@ Using Skype
 
 ### Windows
 
-* [**CallGraph Skype Recorder**](https://scribie.com/free-skype-recorder) (free) — An easy-to-use, audio-only Skype call recorder.
-
 * [**Amolto**](http://www.evaer.com/) ($30, free for audio-only) — A Skype call recorder that supports audio and video.
+
+* [**CallGraph**](https://scribie.com/free-skype-recorder) (free) — An easy-to-use, audio-only Skype call recorder.
 
 * [**Evaer**](http://www.evaer.com/) ($20, trial available) — A Skype call recorder that supports audio and video.
 
