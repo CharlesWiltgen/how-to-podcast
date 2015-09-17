@@ -45,5 +45,4 @@ You can also use EQ in the 1kHz–3kHz range to make male voices "pop", and to m
 
 ## Tips and tricks
 
-* **DO** insist that remote participants use a mic or headset. A perfectly good headset is amazingly inexpensive — the [**Plantronics .Audio 326**](http://www.amazon.com/gp/product/B001S2RCXW) is only 9 bucks as I write this.
-
+* **DO** strongly suggest that remote participants use a mic or headset. A perfectly good headset is amazingly inexpensive — the [**Plantronics .Audio 326**](http://www.amazon.com/gp/product/B001S2RCXW) is only 9 bucks as I write this.
