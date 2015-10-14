@@ -43,6 +43,8 @@ You'll find a million articles on the web about content marketing. Here's a list
 
 1. Create a newsletter
 
+https://blog.bufferapp.com/self-promotion-in-social-media
+
 #### Sharing is caring
 
 Webinars
