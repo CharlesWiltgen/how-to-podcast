@@ -3,6 +3,10 @@ Hosting
 
 You need someplace to "host" your episode MP3 files and your podcast feed.
 
+## Free hosting
+
+
+
 ## Self-hosting
 
 You can put your feed and MP3 files on any ordinary web (HTTP) server.
