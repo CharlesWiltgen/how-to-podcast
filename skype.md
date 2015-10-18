@@ -29,7 +29,7 @@ Using Skype
 
 ## Skype pre-call checklist
 
-1. Use a **wired connection** to the internet if at all possible, and ask other participants to do the same. Connect your PC or laptop to your router or cable modem with a good ol' Ethernet cable to prevent wireless interference and other issues from ruining your interview.
+1. Use a **wired connection** to the internet if at all possible, and ask other participants to do the same. Connect your PC or laptop to your router or cable modem with an Ethernet cable to (1) prevent wireless interference and other issues from ruining your interview, and (2) improves the odds of Skype being able to use its highest-quality mode.
 
 1. If you're using Skype call recording software to record the call, confirm that it's set **record to an uncompressed WAV or AIFF file** (and not MP3 files). The only time you should create an MP3 file is before you upload your final episode to your podcast host.
 
