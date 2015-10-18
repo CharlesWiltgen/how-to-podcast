@@ -23,7 +23,7 @@ Using Skype
 
 * [**MP3 Skype Recorder**](http://voipcallrecording.com/) (free) — Only records to compressed MP3 files, which will result in lower quality recordings compared to alternatives which can record to uncompressed WAV or AIFF files. Try to avoid, but if you must use be sure to set "Recording BitRate" to 128.
 
-* [**Pamela for Skype**](http://www.pamela.biz/) (25€) — A Skype call recorder that supports audio and video.
+* [**Pamela Call Recorder**](http://www.pamela.biz/) (15€)
 
 * [**Virtual Audio Cable**, **Voicemeeter**, **Voicemeeter Banana**](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm) (donation requested) — This "virtual mixer" software allows you to route audio between applications, meaning that you can send Skype output to a "virtual input" to record with Audacity or your [DAW](https://en.wikipedia.org/wiki/Digital_audio_workstation) of choice.
 
