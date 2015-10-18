@@ -21,6 +21,8 @@ Using Skype
 
 * [**Evaer**](http://www.evaer.com/) ($20, trial available) — A Skype call recorder that supports audio and video.
 
+* [**MP3 Skype Recorder**](http://voipcallrecording.com/) (free) — Only records to compressed MP3 files, lowering recording quality compared to products that record to uncompressed WAV or AIFF files. Try to avoid, but if you must use be sure to set "Recording BitRate" to 128.
+
 * [**Virtual Audio Cable**, **Voicemeeter**, **Voicemeeter Banana**](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm) (donation requested) — This "virtual mixer" software allows you to route audio between applications, meaning that you can send Skype output to a "virtual input" to record with Audacity or your [DAW](https://en.wikipedia.org/wiki/Digital_audio_workstation) of choice.
 
 ### iOS
