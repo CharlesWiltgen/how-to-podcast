@@ -1,4 +1,6 @@
 Welcome!
 =======
 
-This file serves as your book's preface, a great place to describe your book's content and ideas.
+This is an open source, under-construction resources for podcasters.
+
+If you'd like to contribute, you can get edit priviledges by contacting me at cwiltgen@gmail.com.
