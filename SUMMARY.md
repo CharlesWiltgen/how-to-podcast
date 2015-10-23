@@ -2,6 +2,7 @@
 
 * [Welcome!](README.md)
 * [Identity](identity.md)
+* Music
 * [Microphones](mics.md)
 * [Headphones](headphones.md)
 * [Recording](recording.md)
@@ -13,5 +14,4 @@
 * [Legal Stuff](legal.md)
 * [Other Resources](resources.md)
 * [Colophon & Credits](colophon.md)
-* Music
 
