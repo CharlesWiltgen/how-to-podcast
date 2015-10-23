@@ -2,7 +2,7 @@
 
 * [Welcome!](README.md)
 * [Identity](identity.md)
-* Music
+* Music + Art Resources
 * [Microphones](mics.md)
 * [Headphones](headphones.md)
 * [Recording](recording.md)
