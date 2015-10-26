@@ -12,6 +12,6 @@
 * [Hosting](hosting.md)
 * [Marketing](marketing.md)
 * [Legal Stuff](legal.md)
-* [Other Resources](resources.md)
+* [Resources](resources.md)
 * [Colophon & Credits](colophon.md)
 
