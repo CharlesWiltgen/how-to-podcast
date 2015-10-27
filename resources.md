@@ -1,5 +1,11 @@
-Other Resources
+Resources
 =======
+
+## Podcast directories
+
+At minimum, submit your podcast to both **iTunes** and **Stitcher**.
+
+[**PodcastPlaces**](http://podcastplaces.com/) 
 
 ## Learning
 
