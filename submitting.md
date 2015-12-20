@@ -16,6 +16,6 @@ At minimum, submit your podcast to iTunes and Stitcher. Most apps use the iTunes
 
 Additionally, there's a bunch of miscellaneous podacst directories you can subscribe to. You can find them at these “directories of directories”.
 
-* http://podcastplaces.com/
+* [Podcast Places](http://podcastplaces.com/)
 
-* http://www.podcast411.com/page2.html
+* [podCast 411](http://www.podcast411.com/page2.html)
