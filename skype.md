@@ -11,17 +11,19 @@ Using Skype
 
 ### Mac
 
+* [**Soundflower**](https://github.com/mattingalls/Soundflower) (Mac, free!) — This open source project allows app to send audio to other apps. For example, you can use Soundflower to send Skype output to apps like QuickTime Player, Audacity, etc. for recording.
+
 * [**Ecamm Call Recorder for Skype**](http://www.ecamm.com/mac/callrecorder/) (Mac, $30) — This Skype plug-in can record your own microphone input and the output of your Skype call as separate tracks in a single QuickTime movie. An included utility allows you to split that file into separate files for each track, and convert them to other formats.
 
 ### Windows
 
 * [**Amolto**](http://www.evaer.com/) ($30, free for audio-only) — A Skype call recorder that supports audio and video.
 
-* [**CallGraph**](https://scribie.com/free-skype-recorder) (free) — An easy-to-use, audio-only Skype call recorder.
+* [**CallGraph**](https://scribie.com/free-skype-recorder) (free!) — An easy-to-use, audio-only Skype call recorder.
 
 * [**Evaer**](http://www.evaer.com/) ($20, trial available) — A Skype call recorder that supports audio and video.
 
-* [**MP3 Skype Recorder**](http://voipcallrecording.com/) (free) — Only records to compressed MP3 files, which will result in lower quality recordings compared to alternatives which can record to uncompressed WAV or AIFF files. Try to avoid, but if you must use be sure to set "Recording BitRate" to 128.
+* [**MP3 Skype Recorder**](http://voipcallrecording.com/) (free!) — Only records to compressed MP3 files, which will result in lower quality recordings compared to alternatives which can record to uncompressed WAV or AIFF files. Try to avoid, but if you must use be sure to set "Recording BitRate" to 128.
 
 * [**Pamela Call Recorder**](http://www.pamela.biz/) (15€) — Paid version supports unlimited recording, can record up to 15 minutes for free.
 
