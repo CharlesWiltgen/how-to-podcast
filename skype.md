@@ -13,7 +13,7 @@ Using Skype
 
 * [**Ecamm Call Recorder for Skype**](http://www.ecamm.com/mac/callrecorder/) (Mac, $30) — This Skype plug-in can record your own microphone input and the output of your Skype call as separate tracks in a single QuickTime movie. An included utility allows you to split that file into separate files for each track, and convert them to other formats.
 
-* [**Soundflower**](https://github.com/mattingalls/Soundflower) (Mac, free!) — This open source project allows app to send audio to other apps. For example, you can use Soundflower to send Skype output to apps like QuickTime Player, Audacity, etc. for recording.
+* [**Soundflower**](https://github.com/mattingalls/Soundflower) (Mac, free!) — This open source project allows app to send audio to other apps. (A pre-built installer is available at the top of the description.) For example, you can use Soundflower to send Skype output to apps like QuickTime Player, Audacity, etc. for recording.
 
 ### Windows
 
