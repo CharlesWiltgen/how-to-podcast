@@ -5,6 +5,8 @@ Using Skype
 
 ## Mix-minus
 
+A "mix-minus" setup allows you to record Skype calls
+
 (TBD)
 
 ## Software
