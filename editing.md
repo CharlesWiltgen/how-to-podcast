@@ -35,5 +35,7 @@ Edit with a bias for perfection, even if it involves making edits that savvier l
 
 ### Linux
 
-* [Ardour](http://ardour.org/)
+* [KXStudio OS](http://kxstudio.linuxaudio.org/)
+* [AVLinux OS](http://www.bandshed.net/AVLinux.html/)
+* [Ardour DAW](http://ardour.org/)
 
