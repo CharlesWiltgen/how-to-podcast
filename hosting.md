@@ -23,6 +23,8 @@ The most popular option for self-hosting
 
 (TBD)
 
+### RainMaker Platform
+
 ## Tips & Tricks
 
 * **DO** be master of your own domain. That is, you want to own and control the domain used to serve your podcast's feed.
