@@ -24,6 +24,7 @@ The most popular option for self-hosting
 (TBD)
 
 ### RainMaker Platform
+[Website & Podcast Hosting](http://rainmakerplatform.com/home-2/)
 
 ## Tips & Tricks
 
