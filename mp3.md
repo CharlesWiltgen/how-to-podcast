@@ -13,7 +13,7 @@ To set these MP3 Encoder preferences, go to **Preferences** and click the **Impo
 
 ### Using GarageBand?
 
-GarageBand’s MP3 export is missing several important options. If you’re using GarageBand, export (**Share** > **Export Song To Disk**) to AIFF using these settings, and then use iTunes to encode.
+Don’t use GarageBand to create your MP3s — it’s missing several important options. Instead, export (**Share** > **Export Song To Disk**) to AIFF using these settings, and then use iTunes to encode.
 
 ![GarageBand AIFF export](GarageBand AIFF export.png)
 
