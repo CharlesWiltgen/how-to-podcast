@@ -13,7 +13,15 @@ If you have a USB mic or headset, the audio interface is built in.
 
 If you have XLR mics, you'll need to buy an audio interface.
 
+| Input | Price | Inputs | Interface Type | Phantom Power |
+| -- | -- | -- | -- | -- |
+| [Mackie Oynx BlackJack](http://www.amazon.com/dp/B003VZG550/) | $100 | 2 XLR |USB | Yes |
+
+
 ## Mixers
+| Mixer | Price | Inputs | Interface Type | Phantom Power |
+| -- | -- | -- | -- | -- |
+| [Mackie ProFX8v2 8-Channel](http://www.amazon.com/dp/B00VUU77XW/) | $230 | 4 XLR | USB | Yes|
 
 ## Single-enders vs. multi-enders
 
