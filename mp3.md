@@ -11,6 +11,12 @@ Use [**iTunes**](http://www.apple.com/itunes/download/), with these settings.
 
 To set these MP3 Encoder preferences, go to **Preferences** and click the **Import Settings** button in the **General** tab.
 
+### Using GarageBand?
+
+GarageBand’s MP3 export is missing several important options. If you’re using GarageBand, export (**Share** > **Export Song To Disk**) to AIFF using these settings, and then use iTunes to encode.
+
+![GarageBand AIFF export](GarageBand AIFF export.png)
+
 ## Encoder matters
 
 The two MP3 encoders you might hear about are:
