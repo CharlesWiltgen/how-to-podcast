@@ -1,5 +1,4 @@
-Microphones
-=======
+# Microphones
 
 You're gonna need a microphone or two. The cool kids call them "mics" (pronounced "mikes").
 
@@ -17,12 +16,12 @@ Buy one of these, depending on your needs and budget:
 
 ### Over $100
 
-| Mic | Price | Interface | Type | Pickup pattern(s) |
-| -- | -- | -- | -- | -- |
-| [Heil PR40](http://www.amazon.com/dp/B00PQYBRNY) | $315 | XLR | Dynamic | Cardioid |
-| [Shure SM7B](http://www.amazon.com/dp/B0002E4Z8M/) | $350 | XLR | Dynamic | Cardioid |
-| [MXL 990s](http://www.amazon.com/dp/B003XDJAO8/) | $130 | XLR | Condenser| Cardioid |
-| [MXL 2001A](http://www.amazon.com/dp/B004XJDCMC/) | $150 | XLR | Condenser| Cardioid |
+| Mic        | Price | Interface | Type      | Pickup pattern(s) |
+| --         | --    | --        | --        | --                |
+| [Heil PR40](http://www.amazon.com/dp/B00PQYBRNY)  | $315  | XLR       | Dynamic   | Cardioid          |
+| [Shure SM7B](http://www.amazon.com/dp/B0002E4Z8M/) | $350  | XLR       | Dynamic   | Cardioid          |
+| [MXL 990s](http://www.amazon.com/dp/B003XDJAO8/)   | $130  | XLR       | Condenser | Cardioid          |
+| [MXL 2001A](http://www.amazon.com/dp/B004XJDCMC/)  | $150  | XLR       | Condenser | Cardioid          |
 
 **Tip**: Mics occasionally go on sale. You can often snag a good deal using sites like CamelCamelCamel to set up an Amazon price watch for ones you're interested in, and then also checking competitors' site when it happens.
 
