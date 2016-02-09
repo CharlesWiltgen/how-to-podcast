@@ -1,5 +1,4 @@
-Welcome!
-=======
+# Welcome!
 
 This is an open source, under-construction resources for podcasters.
 
