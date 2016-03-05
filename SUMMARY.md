@@ -14,4 +14,5 @@
 * [Legal Stuff](legal.md)
 * [Resources](resources.md)
 * [Colophon & Credits](colophon.md)
+* Music
 
