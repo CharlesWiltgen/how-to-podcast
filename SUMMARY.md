@@ -4,7 +4,7 @@
 * [Identity](identity.md)
 * [Microphones](mics.md)
 * [Headphones](headphones.md)
-* Music
+* [Music](music.md)
 * [Recording](recording.md)
 * [Using Skype](skype.md)
 * [Editing](editing.md)
