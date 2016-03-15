@@ -12,8 +12,8 @@
 * [Hosting](hosting.md)
 * [Submitting](submitting.md)
 * [Marketing](marketing.md)
+* About iTunes
 * [Legal Stuff](legal.md)
 * [Resources](resources.md)
 * [Colophon & Credits](colophon.md)
-* About iTunes
 
