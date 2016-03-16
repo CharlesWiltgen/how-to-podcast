@@ -6,7 +6,7 @@
 
 This is hugely variable — 2 hours to 14 days!
 
-**Tip:** Prepare a short “Welcome” episode and submit that. You can always delete it before your official launch.
+As a workaround, you can prepare a short “Welcome” episode and submit that. You can always delete it before your official launch.
 
 ### Which day of the week should I release my podcast?
 
