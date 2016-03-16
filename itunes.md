@@ -14,7 +14,7 @@ That said: Tuesdays.
 
 * For decades, Tuesday was the day that new music came out.
 
-* Mondays and Fridays, people are typically either busy preparing for their work-week or the weekend, respectively.
+* Mondays and Fridays, people are often distracted either preparing for their work-week or the weekend, respectively.
 
 ## Myths
 
