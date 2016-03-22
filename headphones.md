@@ -5,7 +5,7 @@ You're gonna need headphones.
 
 ## In short
 
-Buy one of these, depending on your needs and budget:
+Choose from these, depending primarily on your budget and stylistic preference:
 
 | Headphone            | Price | Fit      | Interface                | Freq Response |
 | --                   | --    | --       | --                       | --            |
