@@ -11,9 +11,9 @@ Use [**iTunes**](http://www.apple.com/itunes/download/), with these settings.
 
 To set these MP3 Encoder preferences, go to **Preferences** and click the **Import Settings** button in the **General** tab.
 
-### 
+### How low can I go?
 
-<img src="iTunes-MP3-Encoder-Settings-64-mono.png" style="width:60%;text-align:center">
+<img src="iTunes-MP3-Encoder-Settings-64-mono.png" style="width:60%" align="center">
 
 ### Using GarageBand?
 
