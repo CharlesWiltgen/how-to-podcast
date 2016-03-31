@@ -13,7 +13,7 @@ To set these MP3 Encoder preferences, go to **Preferences** and click the **Impo
 
 ### How low can I go?
 
-Well, you can encode at 64 kbps.
+Well, you can encode at 64 kbps. If 96 is FM-quality, this is AM-quality.
 
 <img src="iTunes-MP3-Encoder-Settings-64-mono.png" style="width:60%;display:block;margin: 0 auto">
 
