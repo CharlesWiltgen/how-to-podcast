@@ -19,7 +19,9 @@ I don’t recommend encoding at less than 96 kbps, but you can encode at 64 kbps
 
 ### Using GarageBand?
 
-Don’t use GarageBand to create your MP3s — it’s missing several important options. Instead, export (**Share** > **Export Song To Disk**) to AIFF using these settings, and then use iTunes to encode.
+Don’t use GarageBand to create your MP3s — it’s missing several important options.
+
+Instead, export (**Share** > **Export Song To Disk**) to AIFF using these settings, and then use iTunes to encode.
 
 ![GarageBand AIFF export](GarageBand AIFF export.png)
 
