@@ -13,7 +13,7 @@ To set these MP3 Encoder preferences, go to **Preferences** and click the **Impo
 
 ### How low can I go?
 
-I don’t recommend encoding at less than 96 kbps, but you can encode at 64 kbps. (Note that iTunes’s bizarre user interface requires that you select "128 kbps" here even though that’s very stupid. No other app does this, of course.)
+I don’t recommend encoding at less than 96 kbps, but you can encode at 64 kbps. (Note that iTunes’s bizarre user interface requires that you select “128 kbps” here even though that’s very stupid. No other app does this, of course.)
 
 <img src="iTunes-MP3-Encoder-Settings-64-mono.png" style="width:60%;display:block;margin: 0 auto">
 
