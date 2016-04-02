@@ -16,6 +16,8 @@ Royalty-free music is created expressly so you can use it legally, without havin
 
 * **[AudioJungle](http://audiojungle.net/)** — Royalty-free music
 
+* **[Freesound](http://freesound.org/)** — Collaborative database of audio snippets, samples, recordings, and bleeps, all released under Creative Commons licenses that allow their reuse.
+
 * **[Pond5](http://www.pond5.com/)** — Royalty-free music
 
 * **[Looperman](http://www.looperman.com/)** — Royalty-free loops, samples, and acapellas
