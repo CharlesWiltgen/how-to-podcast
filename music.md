@@ -12,3 +12,7 @@ Royalty-free music is created expressly so you can use it legally, without havin
 
 ## Paid
 
+* [AudioJungle](http://audiojungle.net/)
+
+* [Pond5](http://www.pond5.com/)
+
