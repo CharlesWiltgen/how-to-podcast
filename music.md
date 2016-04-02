@@ -1,8 +1,12 @@
 # Music
 
-Use “royalty-free” music in your podcast.
+Use only “royalty-free” music in your podcast, or music that you otherwise have permission or an explicit license to use.
+
+
 
 Royalty-free music is created expressly so you can use it legally, without having to pay ongoing royalties or license fees.
+
+Please note that "Royalty Free" does NOT mean "Free of Cost" (although some files are both). Please pay attention to the Terms and Conditions on anything you download, and make sure you provide proper attribution when needed. (Something that show notes are good for.)
 
 ## Free
 
