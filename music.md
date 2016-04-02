@@ -6,7 +6,7 @@ Royalty-free music is created expressly so you can use it legally, without havin
 
 Note that “royalty-free” is different than “free”.
 
-Please note that "Royalty Free" does NOT mean "Free of Cost" (although some files are both). Please pay attention to the Terms and Conditions on anything you download, and make sure you provide proper attribution when needed. (Something that show notes are good for.)
+<!--Please note that "Royalty Free" does NOT mean "Free of Cost" (although some files are both). Please pay attention to the Terms and Conditions on anything you download, and make sure you provide proper attribution when needed. (Something that show notes are good for.)-->
 
 ## Free
 
