@@ -10,13 +10,13 @@ Royalty-free music is created expressly so you can use it legally, without havin
 
 * **[Free Music Archive](http://freemusicarchive.org/)** — A library of high-quality, legal audio downloads directed by [WFMU](https://wfmu.org/), the most renowned freeform radio station in America.
 
+* **[Freesound](http://freesound.org/)** — Collaborative database of audio snippets, samples, recordings, and bleeps, all released under Creative Commons licenses that allow their reuse.
+
 * **[Music for Makers](https://musicformakers.com/)** — Give ’em your email address to get one royalty-free song in your inbox every Monday. (You can also give them $9/month for access to all of their tracks.)
 
 ## Paid
 
 * **[AudioJungle](http://audiojungle.net/)** — Royalty-free music
-
-* **[Freesound](http://freesound.org/)** — Collaborative database of audio snippets, samples, recordings, and bleeps, all released under Creative Commons licenses that allow their reuse.
 
 * **[Pond5](http://www.pond5.com/)** — Royalty-free music
 
