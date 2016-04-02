@@ -1,6 +1,6 @@
 # Music
 
-Use only “royalty-free” music in your podcast, or music that you otherwise have permission or an explicit license to use.
+Use only “[royalty-free](https://en.wikipedia.org/wiki/Production_music)” music in your podcast, or music that you otherwise have permission or an explicit license to use.
 
 
 
