@@ -7,7 +7,7 @@ Once your audio is complete, the first step to publishing is to encode it to an 
 
 Use [**iTunes**](http://www.apple.com/itunes/download/), with these settings.
 
-<img src="iTunes-MP3-Encoder-Settings.png" style="width:60%;display:block;margin: 0 auto">
+<img src="iTunes-MP3-Encoder-Settings-96-JS.png" style="width:60%;display:block;margin: 0 auto">
 
 To set these MP3 Encoder preferences, go to **Preferences** and click the **Import Settings** button in the **General** tab.
 
