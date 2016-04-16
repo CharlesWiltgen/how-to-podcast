@@ -16,6 +16,8 @@ Note that “royalty-free” is different than “free”. Below are commonly-re
 
 * **[Freesound](http://freesound.org/)** — Collaborative database of audio snippets, samples, recordings, and bleeps, all released under Creative Commons licenses that allow their reuse.
 
+* **[Incompetech](http://incompetech.com/music/)** — Music by Kevin MacLeod. [Attribution required](https://creativecommons.org/licenses/by/3.0/us/), or purchase a “[Sans Attribution License](http://incompetech.com/music/royalty-free/licenses/sans.php)“.
+
 * **[Music for Makers](https://musicformakers.com/)** — Give ’em your email address to get one royalty-free song in your inbox every Monday. (You can also give them $9/month for access to all of their tracks.)
 
 ## Paid
