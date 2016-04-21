@@ -35,9 +35,17 @@ The two MP3 encoders you might hear about are:
 
 The Fraunhofer encoder has a slight quality edge on LAME at typical podcast bitrates (64 and 96 kbps).  So, use the Fraunhofer encoder.  
 
-Commercial software (including iTunes and Adobe Audition) generally include a licensed Fraunhofer encoder.
+Commercial software generally include a licensed Fraunhofer encoder. Open source software generally uses the LAME encoder, although it typically needs to be installed separately.
 
-Open source software (including Audacity) generally uses the LAME encoder, although it typically needs to be installed separately.
+### Apps known to use Fraunhofer’s MP3 encoder
+
+* Audition
+* iTunes
+
+### Apps known to use LAME
+
+* Audacity
+* Hindenberg
 
 ## Bitrate
 
