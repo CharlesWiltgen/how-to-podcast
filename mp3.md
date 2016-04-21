@@ -37,12 +37,12 @@ The Fraunhofer encoder has a slight quality edge on LAME at typical podcast bitr
 
 Commercial software generally include a licensed Fraunhofer encoder. Open source software generally uses the LAME encoder, although it typically needs to be installed separately.
 
-### Apps known to use Fraunhofer’s MP3 encoder
+#### Apps known to use Fraunhofer’s MP3 encoder
 
 * Audition
 * iTunes
 
-### Apps known to use LAME
+#### Apps known to use LAME
 
 * Audacity
 * Hindenberg
