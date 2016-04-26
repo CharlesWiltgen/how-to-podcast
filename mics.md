@@ -9,10 +9,19 @@ Buy one of these, depending on your needs and budget:
 ### Under $100
 
 | Mic | Price | Interface | Type | Pickup pattern(s) |
-| -- | -- | -- | -- | -- |
-| [AT ATR2100-USB](http://www.amazon.com/dp/B004QJOZS4) | $60 | USB/XLR | Dynamic | Cardioid |
-| [Blue Snowball](http://www.amazon.com/dp/B000EOPQ7E/?psc=1) | $60–80 | USB | Condenser | Multiple |
-| [Blue enCORE 100](http://www.amazon.com/dp/B002SQJL9U/) | $100 | XLR | Dynamic | Cardioid |
+| --              | --     | --      | -- | -- |
+| [ATR2100-USB](http://www.amazon.com/dp/B004QJOZS4)     | $60    | USB/XLR | Dynamic | Cardioid |
+| [Blue Snowball](http://www.amazon.com/dp/B000EOPQ7E/?psc=1)   | $60–80 | USB     | Condenser | Multiple |
+| [Blue enCORE 100](http://www.amazon.com/dp/B002SQJL9U/) | $100   | XLR     | Dynamic | Cardioid |
+
+The Audio Technica [ATR2100-USB](http://www.amazon.com/dp/B004QJOZS4) is podcasting’s “default starter mic”, for good reasons:
+
+* It’s reasonably cheap
+* It supports both USB and XLR, so you can plug it right into your computer to start, and then graduate to XLR once you buy a proper audio interface or mixer
+* It includes everything you need, including cables and a cheesy desk stand
+* As a dynamic mic it’s less sensitive than condenser mics, and so more forgiving of noisy environments
+
+The [Samson Q2U](http://www.amazon.com/dp/B001R747SG) is effectively the same mic as the ATR2100-USB, so it’s also a good option and may be cheaper/easier to get depending on where you live.
 
 ### Over $100
 
