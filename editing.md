@@ -31,6 +31,10 @@ Edit with a bias for perfection, even if it involves making edits that savvier l
 
 ### Mac
 
+My 2¢ on editing: It's best to upgrade from Audacity to a modern, non-destructive editor as quickly as is practical. Audition is a wonderful choice, but the "rental" pricing kinda sucks unless you need Adobe CC anyway.
+
+Other great editors include Hindenburg Journalist ($95), Reaper ($60), and Presonus Studio One (free edition available).
+
 ### iOS
 
 ### Linux
