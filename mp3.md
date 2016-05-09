@@ -23,7 +23,7 @@ Don’t use GarageBand to create your MP3s — it’s missing several important 
 
 Instead, export (**Share** > **Export Song To Disk**) to AIFF using these settings, and then use iTunes to encode.
 
-![](garageband-export-aiff.png)
+<img src="GarageBand-export-AIFF.png" style="width:75%;display:block;margin: 0 auto">
 
 ## Encoder matters
 
