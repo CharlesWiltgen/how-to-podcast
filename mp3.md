@@ -11,7 +11,7 @@ Use [**iTunes**](http://www.apple.com/itunes/download/), with these settings.
 
 To set these MP3 Encoder preferences, go to **Preferences** and click the **Import Settings** button in the **General** tab.
 
-Once, select your uncompressed source file and choose **File** > **Create New Version** > **Create MP3 Version**, as shown below.
+Once your encoding preferences are set, select your uncompressed source file and choose **File** > **Create New Version** > **Create MP3 Version** to encode your episode as an MP3 file.
 
 <img src="iTunes-MP3-Export-Menu.png" style="width:60%;display:block;margin: 0 auto">
 
