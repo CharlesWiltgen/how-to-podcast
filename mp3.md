@@ -11,6 +11,10 @@ Use [**iTunes**](http://www.apple.com/itunes/download/), with these settings.
 
 To set these MP3 Encoder preferences, go to **Preferences** and click the **Import Settings** button in the **General** tab.
 
+Once, select your uncompressed source file and choose **File** > **Create New Version** > **Create MP3 Version**, as shown below.
+
+<img src="iTunes-MP3-Export-Menu.png" style="width:60%;display:block;margin: 0 auto">
+
 ### How low can I go?
 
 I don’t recommend encoding at less than 96 kbps, but you can encode at 64 kbps. (Note that iTunes’s bizarre user interface requires that you select “128 kbps” in this case.)
