@@ -15,6 +15,6 @@
 * [About iTunes](itunes.md)
 * [Legal Stuff](legal.md)
 * [Resources](resources.md)
-* [Colophon & Credits](colophon.md)
 * [Feedburner](feedburner.md)
+* [Colophon & Credits](colophon.md)
 
