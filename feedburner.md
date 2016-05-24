@@ -15,7 +15,7 @@ Blubrry provides basic podcast stats for free.
 
 > i've been using feedburner just as a "PO Box" in case I need to switch hosting services.
 
-Gotcha. If you ever want to eliminate the FeedBurner dependency (and the change you'll lose your subscribers when it goes down), you can redirect a designated public podcast feed URL anywhere you like using your web server, or with a WordPress plug-in like Redirection.
+Gotcha. If you ever want to eliminate the FeedBurner dependency (and the change you'll lose your subscribers when it goes down), you can redirect a designated public podcast feed URL anywhere you like using your web server, or with a WordPress plug-in like [Redirection](https://wordpress.org/plugins/redirection/).
 
 For example, you might use the URL "http://mydomain.com/podcast/feed/" as your official/canonical feed URL, but redirect that to the feed URL of your current host when it's requested.
 
