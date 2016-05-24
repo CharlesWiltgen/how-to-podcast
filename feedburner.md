@@ -23,3 +23,7 @@ For example, you might use the URL "http://mydomain.com/podcast/feed/" as your o
 Bonus link: How to leave FeedBurner
 
 Also, legit podcast hosts always provide a way to cleanly move off of their system.
+
+> All I want to do is see how many listens and how many subscribers I have.
+
+I can recommend [Blubrry's free podcast stats](http://create.blubrry.com/resources/podcast-media-download-statistics/basic-statistics/).
