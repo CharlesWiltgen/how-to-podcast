@@ -20,6 +20,9 @@ Note that “royalty-free” is different than “free”. Below are commonly-re
 
 * **[Music for Makers](https://musicformakers.com/)** — Give ’em your email address to get one royalty-free song in your inbox every Monday. (You can also give them $9/month for access to all of their tracks.)
 
+* **[YouTube Audio Library](https://www.youtube.com/audiolibrary/music)** — The YouTube Audio Library is a free collection of music and sound effects for your podcasts. Tracks with "attribution-required" icons are [Creative Commons](http://creativecommons.org/)-licensed, and require that you credit the original artist in your show or episode description.
+
+
 ## Paid
 
 * **[AudioJungle](http://audiojungle.net/)** — Royalty-free music
