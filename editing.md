@@ -27,6 +27,16 @@ Edit with a bias for perfection, even if it involves making edits that savvier l
 
 ## Tools
 
+**Audacity** is the most popular free choice by a long shot. The main problem with it is that it's an old-style "destructive" audio editor, and so teaches habits that users will have to overcome if/when they graduate to a modern, non-destructive audio editor. 
+
+**[Audition](http://www.adobe.com/products/audition.html)** is great. It's main drawback is Adobe's rental-only pricing model. It's a great deal if you already need Adobe Creative Cloud for other stuff, otherwise $20/month.
+
+Many people really like **[Reaper](http://www.reaper.fm/)**. The discounted license is only $60, but if I believe you may be able to "try" it for free as long as you like.
+
+**[Presonus Studio One](http://studioone.presonus.com/)** is wonderful. There's a free Studio One Prime edition available.
+
+**[Hindenburg Journalist](http://hindenburg.com/products/hindenburg-journalist)** is unique, in that it's an audio editor designed especially for spoken-word productions.
+
 ### Windows
 
 ### Mac
