@@ -2,5 +2,10 @@
     "plugins": [
         "edit-link"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "edit-link": {
+            "base": "https://github.com/CharlesWiltgen/how-to-podcast/tree/master",
+            "label": "Edit This Page"
+        }
+    }
 }
