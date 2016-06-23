@@ -7,7 +7,7 @@ Editing
 
 **[Adobe Audition](http://www.adobe.com/products/audition.html)** is great. It's main drawback is Adobe's rental-only pricing model. It's a great deal if you already need Adobe Creative Cloud for other stuff, otherwise $20/month.
 
-**[Reaper](http://www.reaper.fm/)** is an inexpensive and well-liked (by Reaper users) choice. The discounted license is only $60, but if I believe you may be able to "try" it for free as long as you like.
+**[Reaper](http://www.reaper.fm/)** is an inexpensive and well-liked (by Reaper users) choice. The discounted license is only $60, but you can "try" it for free as long as you like.
 
 **[Presonus Studio One](http://studioone.presonus.com/)** is wonderful. There's a free Studio One Prime edition available.
 
