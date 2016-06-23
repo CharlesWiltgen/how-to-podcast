@@ -15,8 +15,6 @@ Editing
 
 My 2¢ on editing: It's best to upgrade from Audacity to a modern, non-destructive editor as quickly as is practical.
 
-Other great editors include Hindenburg Journalist ($95), Reaper ($60), and Presonus Studio One (free edition available).
-
 ### iOS
 
 ### Linux
