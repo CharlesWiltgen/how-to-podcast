@@ -17,6 +17,11 @@ If you have XLR mics, you'll need to buy an audio interface.
 | -- | -- | -- | -- | -- |
 | [Mackie Oynx BlackJack](http://www.amazon.com/dp/B003VZG550/) | $100 | 2 XLR |USB | Yes |
 
+### Software
+
+#### iOS
+
+http://www.presonus.com/products/Capture-for-iPad
 
 ## Mixers
 | Mixer | Price | Inputs | Interface Type | Phantom Power |
