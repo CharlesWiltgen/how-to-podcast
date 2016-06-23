@@ -9,7 +9,7 @@ Editing
 
 **[Reaper](http://www.reaper.fm/)** is an inexpensive and well-liked (by Reaper users) choice. The discounted license is only $60, but you can "try" it for free as long as you like.
 
-**[Presonus Studio One](http://studioone.presonus.com/)** is wonderful and not known about by enough podcasters. There's a free [Studio One Prime](https://shop.presonus.com/products/studio-one-prods/Studio-One-3-Prime) edition available.
+**[Presonus Studio One](http://studioone.presonus.com/)** (Mac/Win) is wonderful and not known about by enough podcasters. There's a free [Studio One Prime](https://shop.presonus.com/products/studio-one-prods/Studio-One-3-Prime) edition available.
 
 **[Hindenburg Journalist](http://hindenburg.com/products/hindenburg-journalist)** is unique, in that it's an audio editor designed especially for spoken-word productions.
 
