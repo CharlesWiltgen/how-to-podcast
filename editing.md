@@ -3,7 +3,7 @@ Editing
 
 ## Tools
 
-**[Audacity](http://www.audacityteam.org/)** (Mac/Win/Linux) is the most popular free choice by a long shot. The main problem with it is that it's an old-style "destructive" audio editor, and so teaches habits that users will have to overcome if/when they graduate to a modern, non-destructive audio editor.
+**[Audacity](http://www.audacityteam.org/)** (Mac/Win/Linux) is the most popular free choice by a long shot. It’s an old-style "destructive" audio editor, and so teaches habits that users will have to overcome if/when they graduate to a modern, non-destructive audio editor.
 
 **[Adobe Audition](http://www.adobe.com/products/audition.html)** is great. It's main drawback is Adobe's rental-only pricing model ($20/month), which kinda sucks unless you need Adobe CC anyway.
 
@@ -13,7 +13,7 @@ Editing
 
 **[Hindenburg Journalist](http://hindenburg.com/products/hindenburg-journalist)** is unique, in that it's an audio editor designed especially for spoken-word productions.
 
-My 2¢ on editing: It's best to upgrade from Audacity to a modern, non-destructive editor as quickly as is practical. Audition is a wonderful choice, but the "rental" pricing kinda sucks unless you need Adobe CC anyway.
+My 2¢ on editing: It's best to upgrade from Audacity to a modern, non-destructive editor as quickly as is practical.
 
 Other great editors include Hindenburg Journalist ($95), Reaper ($60), and Presonus Studio One (free edition available).
 
