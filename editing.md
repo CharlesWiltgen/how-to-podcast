@@ -5,7 +5,7 @@ Editing
 
 **[Audacity](http://www.audacityteam.org/)** (macOS/Win/Linux) is the most popular free choice by a long shot. It’s an old-style "destructive" audio editor, and so teaches habits that users will have to overcome if/when they graduate to a modern, non-destructive audio editor. If you choose it, my recommendation is to upgrade to a modern, non-destructive editor as quickly as is practical.
 
-**[Adobe Audition](http://www.adobe.com/products/audition.html)** is great. It's main drawback is Adobe's rental-only pricing model ($20/month), which kinda sucks unless you need Adobe CC anyway.
+**[Adobe Audition](http://www.adobe.com/products/audition.html)** (macOS/Win) is great. It's main drawback is Adobe's rental-only pricing model ($20/month), which kinda sucks unless you need Adobe CC anyway.
 
 **[Reaper](http://www.reaper.fm/)** (macOS/Win) is an inexpensive and well-liked (by Reaper users) choice. The discounted license is only $60, but you can "try" it for free as long as you like.
 
