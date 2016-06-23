@@ -11,7 +11,7 @@ Editing
 
 **[Presonus Studio One](http://studioone.presonus.com/)** (macOS/Win) is wonderful and not known about by enough podcasters. There's a free [Studio One Prime](https://shop.presonus.com/products/studio-one-prods/Studio-One-3-Prime) edition available.
 
-**[Hindenburg Journalist](http://hindenburg.com/products/hindenburg-journalist)** is unique, in that it's an audio editor designed especially for spoken-word productions.
+**[Hindenburg Journalist](http://hindenburg.com/products/hindenburg-journalist)** (macOS/Win) is unique, in that it's an audio editor designed especially for spoken-word productions.
 
 ### iOS
 
