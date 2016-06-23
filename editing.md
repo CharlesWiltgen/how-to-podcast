@@ -3,7 +3,7 @@ Editing
 
 ## Tools
 
-**[Audacity](http://www.audacityteam.org/)** is the most popular free choice by a long shot. It’s an old-style "destructive" audio editor, and so teaches habits that users will have to overcome. It's best to upgrade from Audacity to a modern, non-destructive editor as quickly as is practical. (macOS/Win/Linux)
+**[Audacity](http://www.audacityteam.org/)** is very popular, primarily because it’s free. It’s an old-style "destructive" audio editor, and so teaches habits that users will have to overcome. It's best to upgrade from Audacity to a modern, non-destructive editor as quickly as is practical. (macOS/Win/Linux)
 
 **[Adobe Audition](http://www.adobe.com/products/audition.html)** is great. It's main drawback is Adobe's rental-only pricing model ($20/month), which kinda sucks unless you need Adobe CC anyway. (macOS/Win)
 
