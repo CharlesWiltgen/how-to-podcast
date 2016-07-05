@@ -7,8 +7,9 @@
 * [Music](music.md)
 * [Recording](recording.md)
 * [Using Skype](skype.md)
-* [Editing](editing.md)
-* [Create Your MP3](mp3.md)
+* After You Record
+  * [Editing](editing.md)
+  * [Create Your MP3](mp3.md)
 * [Hosting](hosting.md)
 * [Submitting](submitting.md)
 * [Marketing](marketing.md)
