@@ -85,3 +85,14 @@ Dynamic mics ARE less sensitive, but if you turn up their preamp gain to match a
 Boom stands are great because they allow you to sit naturally and bring the mic to you, rather than leaning into the mic.  The user will sound more natural as a result.
 
 * [Heil Sound PL-2T Overhead Broadcast Boom](http://www.amazon.com/dp/B000SZVZ74)
+
+
+
+
+
+
+Dynamic mics are often recommended for beginning podcasters because they're more forgiving for people who don't know how to control environment noise. That said, wonderful dynamic mics (like the SM7B) are wonderful.
+
+Because condensers are more sensitive, you can always make a condenser less sensitive (i.e. more like a dynamic mic) by reducing gain and using E.Q. to reduce high frequencies. The opposite is generally not true.
+
+There's a myth that condensers somehow pickup more "noise" than dynamics. This is untrue. A more sensitive mic will simply picks up more of all sound, whether signal or noise.
