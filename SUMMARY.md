@@ -9,7 +9,7 @@
 * [Using Skype](skype.md)
 * After You Record
   * [Editing](editing.md)
-  * [Create Your MP3](mp3.md)
+  * [Encoding](mp3.md)
 * [Hosting](hosting.md)
 * [Submitting](submitting.md)
 * [Marketing](marketing.md)
