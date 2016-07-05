@@ -3,6 +3,13 @@ Editing
 
 ## Tools
 
+
+
+Audacity is very popular because of its price. It’s an old-style "destructive" audio editor, and so teaches habits that will make it harder to move to a modern, non-destructive editor. If you want to start with a more modern editor, here's a list of free and reasonably-priced options.
+Skype has worked very well for us. With any VoIP solution, there are things you can do to increase the odds that you'll have a high-quality, trouble-free call. Here's a pre-call checklist and tips/tricks that you'll find helpful.
+
+
+
 **[Audacity](http://www.audacityteam.org/)** is very popular, although it has nothing to recommend it over other choices except its price. It’s an old-style “destructive” audio editor, and so teaches habits that podcasters will eventually have to overcome. It's best to move from Audacity to a modern, non-destructive editor as quickly as is practical. *(macOS/Win/Linux)*
 
 **[Adobe Audition](http://www.adobe.com/products/audition.html)** is great. It's main drawback is Adobe's rental-only pricing model ($20/month), which kinda sucks unless you need Adobe CC anyway. *(macOS/Win)*
