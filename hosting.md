@@ -1,7 +1,7 @@
 Hosting
 =======
 
-You need someplace to "host" your episode MP3 files and your podcast feed.
+You need someplace to “host” your episode MP3 files and your podcast feed.
 
 ## Free hosting
 
