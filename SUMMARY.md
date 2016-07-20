@@ -13,7 +13,7 @@
 * [Hosting](hosting.md)
 * [Submitting](submitting.md)
 * [Marketing](marketing.md)
-* [About iTunes](itunes.md)
+* [iTunes](itunes.md)
 * [Legal Stuff](legal.md)
 * [Resources](resources.md)
 * [Feedburner](feedburner.md)

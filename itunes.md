@@ -1,4 +1,8 @@
-# About iTunes
+# iTunes
+
+## Making iTunes links
+
+Note that everyone should be using the "mt" parameter as well, which helps the OS to launch the right store in the right app. Best bet? Use iTunes Link Maker \([https:\/\/linkmaker.itunes.apple.com\/](https://l.facebook.com/l.php?u=https%3A%2F%2Flinkmaker.itunes.apple.com%2F&h=EAQGEiFT3)\), and then append "&ls=1".
 
 ## Common questions
 
@@ -18,8 +22,8 @@ That said: Tuesdays.
 
 * Mondays and Fridays, people are often distracted either preparing for their work-week or the weekend, respectively.
 
-## Myths
 
+## Myths
 
 ### New & Noteworthy myths
 
