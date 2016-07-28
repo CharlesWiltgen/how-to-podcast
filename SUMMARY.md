@@ -13,6 +13,7 @@
 * [Hosting](hosting.md)
 * [Submitting](submitting.md)
 * [Marketing](marketing.md)
+* [Monetization](monetization.md)
 * [iTunes](itunes.md)
 * [Legal Stuff](legal.md)
 * [Resources](resources.md)
