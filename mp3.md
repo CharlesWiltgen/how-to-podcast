@@ -13,13 +13,13 @@ To set these MP3 Encoder preferences, go to **Preferences** and click the **Impo
 
 Once your encoding preferences are set, select your uncompressed source file and choose **File** > **Create New Version** > **Create MP3 Version**. (In older versions of iTunes, you can right-click the selected source file instead.)
 
-<img src="iTunes-MP3-Export-Menu.png" style="width:60%;display:block;margin: 0 auto">
+<img src="images/iTunes-MP3-Export-Menu.png" style="width:60%;display:block;margin: 0 auto">
 
 ### How low can I go?
 
 I don’t recommend encoding at less than 96 kbps, but you can encode at 64 kbps. (Note that iTunes’s bizarre user interface requires that you select “128 kbps” in this case.)
 
-<img src="iTunes-MP3-Encoder-Settings-64-mono.png" style="width:60%;display:block;margin: 0 auto">
+<img src="images/iTunes-MP3-Encoder-Settings-64-mono.png" style="width:60%;display:block;margin: 0 auto">
 
 ### Using GarageBand?
 
@@ -27,7 +27,7 @@ Don’t use GarageBand to create your MP3s — it’s missing several important 
 
 Instead, export (**Share** > **Export Song To Disk**) to AIFF using these settings, and then use iTunes to encode.
 
-<img src="GarageBand-export-AIFF.png" style="width:75%;display:block;margin: 0 auto">
+<img src="images/GarageBand-export-AIFF.png" style="width:75%;display:block;margin: 0 auto">
 
 ## Encoder matters
 
