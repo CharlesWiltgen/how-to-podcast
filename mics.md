@@ -35,6 +35,8 @@ The [Samson Q2U](http://www.amazon.com/dp/B001R747SG) is effectively the same mi
 | [Heil PR40](http://www.amazon.com/dp/B00PQYBRNY) | $315 | XLR | Dynamic | Cardioid |
 | [Shure SM7B](http://www.amazon.com/dp/B0002E4Z8M/) | $350 | XLR | Dynamic | Cardioid |
 
+<p style="margin:-8px">&nbsp;<p>
+
 **Tip**: Mics go on sale sometimes, so you can often snag a good deal using sites like CamelCamelCamel to set up an Amazon price watch for ones you're interested in. Plus, competitors often match Amazon sale prices, too.
 
 ## Kinds of mics
