@@ -4,9 +4,9 @@ Use only “[royalty-free](https://en.wikipedia.org/wiki/Production_music)” mu
 
 Royalty-free music is created expressly so you can use it legally, without having to pay ongoing royalties or license fees.
 
-Note that “royalty-free” is different than “free”. Below are commonly-recommended sources for both free and paid royalty-free music and other sounds.
+Note that “royalty-free” (i.e. free to use) doesn’t neccessarily mean “free” (i.e. free to license), although some music is both. Below are commonly-recommended sources for both free and paid royalty-free music and other sounds.
 
-<!--Please note that "Royalty Free" does NOT mean "Free of Cost" (although some files are both). Please pay attention to the Terms and Conditions on anything you download, and make sure you provide proper attribution when needed. (Something that show notes are good for.)-->
+Please pay attention to the Terms and Conditions on anything you download, and make sure you provide proper attribution when needed. (Something that show notes are good for.)
 
 ## Free
 
@@ -22,6 +22,7 @@ Note that “royalty-free” is different than “free”. Below are commonly-re
 
 * **[YouTube Audio Library](https://www.youtube.com/audiolibrary/music)** — The YouTube Audio Library is a free collection of music and sound effects for your podcasts. Tracks with "attribution-required" icons are [Creative Commons](http://creativecommons.org/)-licensed, and require that you credit the original artist in your show or episode description.
 
+* **[GarageBand](http://www.apple.com/mac/garageband/)** (macOS, iOS) — If you want to try your hand at some original music, GarageBand is a great way to do it. Use the **GarageBand > Sound Library** menu if you want all of the available loops (more than 1,000).
 
 ## Paid
 
