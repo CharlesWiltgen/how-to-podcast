@@ -9,13 +9,13 @@ Buy one of these, depending on your needs and budget:
 ### Under $100
 
 | Mic | Price | Interface | Type | Pickup pattern\(s\) |
-| :--- | :--- | :--- | :--- | :--- |
-| [AT2005USB](https://www.amazon.com/dp/B007JX8O0Y)      | $56    | USB\/XLR | Dynamic   | Cardioid |
-| [ATR2100-USB](http://www.amazon.com/dp/B004QJOZS4)     | $60    | USB\/XLR | Dynamic   | Cardioid |
-| [Blue Snowball](http://www.amazon.com/dp/B000EOPQ7E)   | $60–80 | USB      | Condenser | Multiple |
-| [Blue enCORE 100](http://www.amazon.com/dp/B002SQJL9U) | $100   | XLR      | Dynamic   | Cardioid |
+| --- | --- | --- | --- | --- |
+| [AT2005USB](https://www.amazon.com/dp/B007JX8O0Y) | $56 | USB\/XLR | Dynamic | Cardioid |
+| [ATR2100-USB](http://www.amazon.com/dp/B004QJOZS4) | $60 | USB\/XLR | Dynamic | Cardioid |
+| [Blue Snowball](http://www.amazon.com/dp/B000EOPQ7E) | $60–80 | USB | Condenser | Multiple |
+| [Blue enCORE 100](http://www.amazon.com/dp/B002SQJL9U) | $100 | XLR | Dynamic | Cardioid |
 
-The Audio Technica [ATR2100-USB](http://www.amazon.com/dp/B004QJOZS4) (and it’s fraternal twin, the AT2005USB) is podcasting’s “default starter mic”, for pretty good reasons:
+The Audio Technica [ATR2100-USB](http://www.amazon.com/dp/B004QJOZS4) \(and it’s fraternal twin, the AT2005USB\) is podcasting’s “default starter mic”, for pretty good reasons:
 
 * It’s pretty cheap
 * It supports both USB and XLR, so you can plug it right into your computer to start and then graduate to XLR once you get a proper audio interface or mixer
@@ -27,8 +27,9 @@ The [Samson Q2U](http://www.amazon.com/dp/B001R747SG) is effectively the same mi
 ### Over $100
 
 | Mic | Price | Interface | Type | Pickup pattern\(s\) |
-| :--- | :--- | :--- | :--- | :--- |
-| [Blue Yeti](https://www.amazon.com/dp/B002VA464S) | $123 | USB\/XLR | Condenser | Cardioid |
+| --- | --- | --- | --- | --- |
+| [Blue Yeti](https://www.amazon.com/dp/B002VA464S) | $123 | USB/XLR | Condenser | Cardioid |
+| [Electrovoice RE-20](https://www.amazon.com/dp/B000Z7LLQ0/) | $399 | XLR |  |  |
 | [Heil PR40](http://www.amazon.com/dp/B00PQYBRNY) | $315 | XLR | Dynamic | Cardioid |
 | [Shure SM7B](http://www.amazon.com/dp/B0002E4Z8M/) | $350 | XLR | Dynamic | Cardioid |
 
