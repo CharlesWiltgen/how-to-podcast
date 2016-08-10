@@ -17,7 +17,7 @@ Buy one of these, depending on your needs and budget:
 
 <p style="margin:-8px">&nbsp;<p>
 
-The Audio Technica [ATR2100-USB](http://www.amazon.com/dp/B004QJOZS4) \(and it’s fraternal twin, the AT2005USB\) is podcasting’s “default starter mic”, for pretty good reasons:</p>
+The Audio Technica [ATR2100-USB](http://www.amazon.com/dp/B004QJOZS4) (and it’s fraternal twin, the AT2005USB) is podcasting’s “default starter mic”, for pretty good reasons:
 
 * It’s pretty cheap
 * It supports both USB and XLR, so you can plug it right into your computer to start and then graduate to XLR once you get a proper audio interface or mixer
