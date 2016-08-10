@@ -29,7 +29,7 @@ The [Samson Q2U](http://www.amazon.com/dp/B001R747SG) is effectively the same mi
 | Mic | Price | Interface | Type | Pickup pattern\(s\) |
 | --- | --- | --- | --- | --- |
 | [Blue Yeti](https://www.amazon.com/dp/B002VA464S) | $123 | USB/XLR | Condenser | Cardioid |
-| [Electrovoice RE-20](https://www.amazon.com/dp/B000Z7LLQ0/) | $399 | XLR |  |  |
+| [Electrovoice RE-20](https://www.amazon.com/dp/B000Z7LLQ0/) | $399 | XLR | Dynamic | Cardioid |
 | [Heil PR40](http://www.amazon.com/dp/B00PQYBRNY) | $315 | XLR | Dynamic | Cardioid |
 | [Shure SM7B](http://www.amazon.com/dp/B0002E4Z8M/) | $350 | XLR | Dynamic | Cardioid |
 
