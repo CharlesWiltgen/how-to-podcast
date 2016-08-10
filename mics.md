@@ -8,10 +8,10 @@ Buy one of these, depending on your needs and budget:
 
 ### Under $100
 
-| Mic | Price | Interface | Type | Pickup pattern\(s\) |
+| Mic | Price | Interface | Type | Pickup pattern\(\s) |
 | --- | --- | --- | --- | --- |
-| [AT2005USB](https://www.amazon.com/dp/B007JX8O0Y) | $56 | USB\/XLR | Dynamic | Cardioid |
-| [ATR2100-USB](http://www.amazon.com/dp/B004QJOZS4) | $60 | USB\/XLR | Dynamic | Cardioid |
+| [AT2005USB](https://www.amazon.com/dp/B007JX8O0Y) | $56 | USB/XLR | Dynamic | Cardioid |
+| [ATR2100-USB](http://www.amazon.com/dp/B004QJOZS4) | $60 | USB/XLR | Dynamic | Cardioid |
 | [Blue Snowball](http://www.amazon.com/dp/B000EOPQ7E) | $60–80 | USB | Condenser | Multiple |
 | [Blue enCORE 100](http://www.amazon.com/dp/B002SQJL9U) | $100 | XLR | Dynamic | Cardioid |
 
