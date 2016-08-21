@@ -20,7 +20,7 @@ Here's a list of free and reasonably-priced options for editing your audio.
 
 * Because editing is destructive, data loss is a much more common occurance with Audacity than it is with modern audio editors. This can be mitigated by always saving to new projects.
 
-If you use Audacity, it's best to move from Audacity to a modern, non-destructive editor as quickly as is practical.
+If you use Audacity, it's best to a modern, non-destructive editor as quickly as is practical.
 
 ### iOS
 
