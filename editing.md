@@ -32,9 +32,11 @@ If you use Audacity, it's best to a modern, non-destructive editor as quickly as
 
 ### Linux
 
-* [KXStudio OS](http://kxstudio.linuxaudio.org/)
-* [AVLinux OS](http://www.bandshed.net/AVLinux.html/)
-* [Ardour DAW](http://ardour.org/)
+* [**KXStudio OS**](http://kxstudio.linuxaudio.org/)
+
+* [**AVLinux OS**](http://www.bandshed.net/AVLinux.html/)
+
+* [**Ardour DAW**](http://ardour.org/)
 
 ## Editing styles
 
