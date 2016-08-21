@@ -4,12 +4,7 @@
 
 Here's a list of free and reasonably-priced options for editing your audio.
 
-
-* [**Audacity**](http://www.audacityteam.org/) is very popular because of its price \(free!\). It’s an old-style “destructive” audio editor, and so teaches habits that podcasters will eventually have to overcome when the time comes to learn a “real” editor. It's best to move from Audacity to a modern, non-destructive editor as quickly as is practical. _\(macOS\/Win\/Linux\)_
-
-
 * [**Adobe Audition**](http://www.adobe.com/products/audition.html) is great. It's main drawback is Adobe's rental-only pricing model \($20\/month\), which kinda sucks unless you need Adobe CC anyway. _\(macOS\/Win\)_
-
 
 * [**Reaper**](http://www.reaper.fm/) is an inexpensive and well-liked \(by Reaper users\) choice. The discounted license is only $60, but you can "try" it for free as long as you like. _\(macOS\/Win\)_
 
@@ -17,6 +12,15 @@ Here's a list of free and reasonably-priced options for editing your audio.
 
 * [**Hindenburg Journalist**](http://hindenburg.com/products/hindenburg-journalist) is unique, in that it's an audio editor designed especially for spoken-word productions. _\(macOS\/Win\)_
 
+#### What about Audacity?
+
+[**Audacity**](http://www.audacityteam.org/) is popular because of its price (free!). But as an old-style “destructive” audio editor, it’s a poor choice.
+
+* It teaches poor habits that users will have to overcome when the time comes to learn a “real” editor, and makes that transition more difficult.
+
+* Data loss is a much more common occurance with destructive audio editors. This can be mitigated by always saving to new projects.
+
+If you use Audacity, it's best to move from Audacity to a modern, non-destructive editor as quickly as is practical.
 
 ### iOS
 
