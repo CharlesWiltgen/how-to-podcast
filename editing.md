@@ -24,7 +24,11 @@ If you use Audacity, it's best to a modern, non-destructive editor as quickly as
 
 ### iOS
 
-_\(TBD\)_
+* [**Auria Pro**](http://auriaapp.com/Products/auria)
+
+* [**MultiTrack DAW**](http://www.harmonicdog.com/)
+
+* [**Cubasis**](http://www.steinberg.net/en/products/mobile_apps/cubasis/start.html)
 
 ### Linux
 
