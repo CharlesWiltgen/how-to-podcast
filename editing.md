@@ -14,11 +14,11 @@ Here's a list of free and reasonably-priced options for editing your audio.
 
 #### What about Audacity?
 
-[**Audacity**](http://www.audacityteam.org/) is popular because of its price (free!). But as an old-style “destructive” audio editor, it’s a poor choice.
+[**Audacity**](http://www.audacityteam.org/) is popular “starter” editor because of its price (free). But as an old-style “destructive” audio editor, it’s a poor choice.
 
 * It teaches poor habits that users will have to overcome when the time comes to learn a “real” editor, and makes that transition more difficult.
 
-* Data loss is a much more common occurance with destructive audio editors. This can be mitigated by always saving to new projects.
+* Because editing is destructive, data loss is a much more common occurance with Audacity than it is with modern audio editors. This can be mitigated by always saving to new projects.
 
 If you use Audacity, it's best to move from Audacity to a modern, non-destructive editor as quickly as is practical.
 
