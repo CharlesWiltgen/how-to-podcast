@@ -1,6 +1,6 @@
 # Using Skype
 
-[**Skype**](http://skype.com/) is the most popular way to conduct remote interviews, and include remote co-hosts and guests in your podcast.
+**[Skype](http://skype.com/)** is the most popular way to conduct remote interviews, and include remote co-hosts and guests in your podcast.
 
 ## Pre-call checklist
 
@@ -17,13 +17,13 @@ Skype does [VoIP](https://en.wikipedia.org/wiki/Voice_over_IP), and with any VoI
 
 ## Tips and tricks
 
-* **DO** strongly suggest that remote participants use a mic or headset. A perfectly good headset is amazingly inexpensive — the [**Plantronics .Audio 326**](http://www.amazon.com/gp/product/B001S2RCXW) is only 9 bucks as I write this.
+* **DO** strongly suggest that remote participants use a mic or headset. A perfectly good headset is amazingly inexpensive — the **[Plantronics .Audio 326](http://www.amazon.com/gp/product/B001S2RCXW)** is only 9 bucks as I write this.
 
 * **DO NOT** record video unless you must. It almost inevitably impacts audio quality because Skype is working with a finite \(and usually small\) amount of upstream bandwidth.
 
 * **DO** use routers that support “QoS”, which can ensure that Skype and other VoIP traffic is always given preference.
 
-* **DO NOT** have lots of browser tabs open, since web pages can be serious CPU and bandwidth hogs. If you need a few web pages for show notes, scripts, etc. but don't want to close all of your other tabs, consider using a separate browser just for shows. \(Related tip: Safari is by far the most efficient browser to use on macOS.\)
+* **DO NOT** have lots of browser tabs open, since web pages can be serious CPU and bandwidth hogs. If you need a few web pages for show notes, scripts, etc. but don't want to lose your other tabs, consider using a separate browser just for shows. \(Related tip: Safari is by far the most efficient browser to use on macOS.\)
 
 
 ## Processing Skype recordings
@@ -44,24 +44,24 @@ A "mix-minus" setup allows you to record Skype calls
 
 ### Skype plug-ins \(Mac\)
 
-* [**Ecamm Call Recorder for Skype**](http://www.ecamm.com/mac/callrecorder/) \(Mac, $30\) — This Skype plug-in can record your own microphone input and the output of your Skype call as separate tracks in a single QuickTime movie. An included utility allows you to split that file into separate files for each track, and convert them to other formats.
+* **[Ecamm Call Recorder for Skype](http://www.ecamm.com/mac/callrecorder/)** \(Mac, $30\) — This Skype plug-in can record your own microphone input and the output of your Skype call as separate tracks in a single QuickTime movie. An included utility allows you to split that file into separate files for each track, and convert them to other formats.
 
-* [**Soundflower**](https://github.com/mattingalls/Soundflower) \(Mac, free!\) — This open source software allows apps to send audio to other apps. \(A pre-built installer is available at the top of the description.\) For example, you can use Soundflower to send Skype output to apps like QuickTime Player, Audacity, etc. for recording.
+* **[Soundflower](https://github.com/mattingalls/Soundflower)** \(Mac, free!\) — This open source software allows apps to send audio to other apps. \(A pre-built installer is available at the top of the description.\) For example, you can use Soundflower to send Skype output to apps like QuickTime Player, Audacity, etc. for recording.
 
 
 ### Skype plug-ins \(Windows\)
 
-* [**Amolto**](http://www.evaer.com/) \($30, free for audio-only\) — A Skype call recorder that supports audio and video.
+* **[Amolto](http://www.evaer.com/)** \($30, free for audio-only\) — A Skype call recorder that supports audio and video.
 
-* [**CallGraph**](https://scribie.com/free-skype-recorder) \(free!\) — An easy-to-use, audio-only Skype call recorder.
+* **[CallGraph](https://scribie.com/free-skype-recorder)** \(free!\) — An easy-to-use, audio-only Skype call recorder.
 
-* [**Evaer**](http://www.evaer.com/) \($20, trial available\) — A Skype call recorder that supports audio and video.
+* **[Evaer](http://www.evaer.com/)** \($20, trial available\) — A Skype call recorder that supports audio and video.
 
-* [**MP3 Skype Recorder**](http://voipcallrecording.com/) \(free!\) — Only records to compressed MP3 files, which will result in lower quality recordings compared to alternatives which can record to uncompressed WAV or AIFF files. Try to avoid, but if you must use be sure to set "Recording BitRate" to 128.
+* **[MP3 Skype Recorder](http://voipcallrecording.com/)** \(free!\) — Only records to compressed MP3 files, which will result in lower quality recordings compared to alternatives which can record to uncompressed WAV or AIFF files. Try to avoid, but if you must use be sure to set "Recording BitRate" to 128.
 
-* [**Pamela Call Recorder**](http://www.pamela.biz/) \(15€\) — Paid version supports unlimited recording, can record up to 15 minutes for free.
+* **[Pamela Call Recorder](http://www.pamela.biz/)** \(15€\) — Paid version supports unlimited recording, can record up to 15 minutes for free.
 
-* [**Virtual Audio Cable**](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm)[, ](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm)[**Voicemeeter**](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm)[, ](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm)[**Voicemeeter Banana**](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm) \(donation requested\) — This "virtual mixer" software allows you to route audio between applications, meaning that you can send Skype output to a "virtual input" to record with Audacity or your [DAW](https://en.wikipedia.org/wiki/Digital_audio_workstation) of choice.
+* **[Virtual Audio Cable](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm)**[, ](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm)**[Voicemeeter](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm)**[, ](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm)**[Voicemeeter Banana](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm)** \(donation requested\) — This "virtual mixer" software allows you to route audio between applications, meaning that you can send Skype output to a "virtual input" to record with Audacity or your [DAW](https://en.wikipedia.org/wiki/Digital_audio_workstation) of choice.
 
 
 ### iOS
