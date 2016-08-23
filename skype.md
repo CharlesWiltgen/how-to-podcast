@@ -12,14 +12,14 @@ A "mix-minus" setup allows you to record Skype calls
 
 ## Record with software
 
-### Skype plug-ins \(Mac\)
+### Skype plug-ins (Mac)
 
 * **[Ecamm Call Recorder for Skype](http://www.ecamm.com/mac/callrecorder/)** \(Mac, $30\) — This Skype plug-in can record your own microphone input and the output of your Skype call as separate tracks in a single QuickTime movie. An included utility allows you to split that file into separate files for each track, and convert them to other formats.
 
 * **[Soundflower](https://github.com/mattingalls/Soundflower)** \(Mac, free!\) — This open source software allows apps to send audio to other apps. \(A pre-built installer is available at the top of the description.\) For example, you can use Soundflower to send Skype output to apps like QuickTime Player, Audacity, etc. for recording.
 
 
-### Skype plug-ins \(Windows\)
+### Skype plug-ins (Windows)
 
 * **[Amolto](http://www.evaer.com/)** \($30, free for audio-only\) — A Skype call recorder that supports audio and video.
 
