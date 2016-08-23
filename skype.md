@@ -10,41 +10,21 @@
 
 3. Ask participants to **pause any background file transfers** during the call, because it can interrupt calls or make them sound like drunk robots. Things that might do this include sync solutions like Dropbox, backup solutions like Carbonite, and BitTorrent clients like µTorrent.
 
-
-
 4. Change your Skype status to **"Do Not Disturb"** during the call, and suggest that your guest do the same. This will keep another call from coming in, which can throw off the conversation and create unwanted noises in your recording.
-
-
-
-
 
 ## Processing Skype recordings
 
-
-
 Use a [high-pass filter](https://en.wikipedia.org/wiki/High-pass_filter) to remove anything under 300Hz \(which is junk\), and a [low-pass filter](https://en.wikipedia.org/wiki/Low-pass_filter) to remove all of the distortion and hiss above 3400Hz.
-
-
 
 You can also use EQ in the 1kHz–3kHz range to make male voices "pop", and to make female voices a bit "warmer".
 
-
-
 ## Tips and tricks
-
-
 
 * **DO** strongly suggest that remote participants use a mic or headset. A perfectly good headset is amazingly inexpensive — the **[Plantronics .Audio 326](http://www.amazon.com/gp/product/B001S2RCXW)** is only 9 bucks as I write this.
 
-
-
 * **DO NOT** record video unless you must. It almost inevitably impacts audio quality because Skype is working with a finite \(and usually small\) amount of upstream bandwidth.
 
-
-
 * **DO** use routers that support “QoS”, which can ensure that Skype and other VoIP traffic is always given preference.
-
-
 
 ## Record with hardware
 
