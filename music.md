@@ -1,12 +1,14 @@
 # Music
 
-Use only “[royalty-free](https://en.wikipedia.org/wiki/Production_music)” music in your podcast, or music that you otherwise have permission or an explicit license to use.
+Here are the most popular free and inexpensive sources for royalty-free music, DIY loops and sound effects.
 
-Royalty-free music is created expressly so you can use it legally, without having to pay ongoing royalties or license fees.
+#### “Royalty free”?
 
-Note that “royalty-free” (i.e. free to use) doesn’t neccessarily mean “free” (i.e. free to license), although some music is both. Below are commonly-recommended sources for both free and paid royalty-free music and other sounds.
+Royalty-free audio is created expressly so you can use it legally, without having to pay ongoing royalties or license fees. You _must_ use only “[royalty-free](https://en.wikipedia.org/wiki/Production_music)” music in your podcast, or music that you otherwise have permission or an explicit license to use.
 
-Please pay attention to the Terms and Conditions on anything you download, and make sure you provide proper attribution when needed. (Something that show notes are good for.)
+Note that “royalty-free” (i.e. free to use) doesn’t neccessarily mean “free” (i.e. free to license), although some music is both.
+
+Please pay attention to the Terms and Conditions on anything you download, and make sure you provide proper attribution when needed. (Show notes are good for this.)
 
 ## Free
 
