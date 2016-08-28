@@ -8,7 +8,7 @@ Royalty-free audio is created expressly so you can use it legally, without havin
 
 Note that “royalty-free” (i.e. free to use) doesn’t neccessarily mean “free” (i.e. free to license), although some music is both.
 
-Please pay attention to the Terms and Conditions on anything you download, and make sure you provide proper attribution when needed. (Show notes are good for this.)
+Please pay attention to the Terms and Conditions on anything you download, and make sure you provide proper attribution when needed. (Tip: Show notes are good for this.)
 
 ## Free
 
