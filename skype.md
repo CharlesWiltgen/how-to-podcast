@@ -54,15 +54,15 @@ A “mix-minus” setup allows you to record Skype calls.
 
 #### Skype plug-ins \(Windows\)
 
-* **[Amolto](http://www.evaer.com/)** \($30, free for audio-only\) — A Skype call recorder that supports audio and video.
+* **[Amolto](http://www.evaer.com/)** ($30, free for audio-only) — A Skype call recorder that supports audio and video.
 
-* **[CallGraph](https://scribie.com/free-skype-recorder)** \(free!\) — An easy-to-use, audio-only Skype call recorder.
+* **[CallGraph](https://scribie.com/free-skype-recorder)** (free!) — An easy-to-use, audio-only Skype call recorder.
 
-* **[Evaer](http://www.evaer.com/)** \($20, trial available\) — A Skype call recorder that supports audio and video.
+* **[Evaer](http://www.evaer.com/)** ($20, trial available) — A Skype call recorder that supports audio and video.
 
-* **[MP3 Skype Recorder](http://voipcallrecording.com/)** \(free!\) — Only records to compressed MP3 files, which will result in lower quality recordings compared to alternatives which can record to uncompressed WAV or AIFF files. Try to avoid, but if you must use be sure to set "Recording BitRate" to 128.
+* **[MP3 Skype Recorder](http://voipcallrecording.com/)** (free!) — Only records to compressed MP3 files, which will result in lower quality recordings compared to alternatives which can record to uncompressed WAV or AIFF files. Try to avoid, but if you must use be sure to set "Recording BitRate" to 128.
 
-* **[Pamela Call Recorder](http://www.pamela.biz/)** \(15€\) — Paid version supports unlimited recording, can record up to 15 minutes for free. <span style="color:red">**Pamela hasn't been updated since March of 2015. You might want to try Evaer or Amolto, both of which were updated recently.**</span>
+* **[Pamela Call Recorder](http://www.pamela.biz/)** (15€) — Paid version supports unlimited recording, can record up to 15 minutes for free. <span style="color:red">**Pamela hasn't been updated since March of 2015, and there are reports that it doesn’t work with the “Universal Windows Platform” version of Skype for Windows delivered with the Windows 10 Anniversary Update.**</span>
 
 * **[Virtual Audio Cable](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm)**[, ](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm)**[Voicemeeter](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm)**[, ](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm)**[Voicemeeter Banana](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm)** \(donation requested\) — This "virtual mixer" software allows you to route audio between applications, meaning that you can send Skype output to a "virtual input" to record with Audacity or your [DAW](https://en.wikipedia.org/wiki/Digital_audio_workstation) of choice.
 
