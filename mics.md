@@ -58,6 +58,16 @@ A mic's [transducer](https://en.wikipedia.org/wiki/Transducer) converts sound pr
 * Are less sensitive than dynamic mics, and so can be more forgiving for beginners
 * Can sometimes require power \(generally called "active dynamic mics"\)
 
+### USB vs. XLR
+
+#### The case against using multiple USB mics
+
+In a multiple mic scenario, the problem with USB mics are that they each have their own hardware clock, without anything to keep them in sync.
+
+As a result, the audio from one or both of them has to be continuously resampled to keep them in sync.
+
+macOS has built-in support for doing this (by creating an "aggregate device"), and you can do it on Windows, but there's always going to be *some* quality and reliability impact. I'd doubt that the quality impact would be perceptible in the end product, so for me the main consideration is that it's intrinsically just a bit wonkier.
+
 ### Pickup patterns
 
 \(TBD\)
