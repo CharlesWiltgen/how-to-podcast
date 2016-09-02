@@ -38,7 +38,7 @@ You can also use EQ in the 1kHz–3kHz range to make male voices “pop”, and 
 
 ### With hardware
 
-### Mix-minus
+#### Mix-minus
 
 A “mix-minus” setup allows you to record Skype calls.
 
@@ -51,6 +51,8 @@ A “mix-minus” setup allows you to record Skype calls.
 * **[Ecamm Call Recorder for Skype](http://www.ecamm.com/mac/callrecorder/)** \(Mac, $30\) — This Skype plug-in can record your own microphone input and the output of your Skype call as separate tracks in a single QuickTime movie. An included utility allows you to split that file into separate files for each track, and convert them to other formats.
 
 * **[Soundflower](https://github.com/mattingalls/Soundflower)** \(Mac, free!\) — This open source software allows apps to send audio to other apps. \(A pre-built installer is available at the top of the description.\) For example, you can use Soundflower to send Skype output to apps like QuickTime Player, Audacity, etc. for recording.
+
+* **[Audio Hijack](https://www.rogueamoeba.com/audiohijack/)** \(Mac, $49, trial records for 10 minutes) — It does Skype recording and a *lot* more, and as such it’s a crucial tool for many podcasters. Rogue Amoeba is a great developer and has been making great, award-winning audio software for the Mac since 2002.
 
 #### Skype plug-ins \(Windows\)
 
