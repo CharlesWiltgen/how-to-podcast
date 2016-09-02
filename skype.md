@@ -52,7 +52,7 @@ A “mix-minus” setup allows you to record Skype calls.
 
 * **[Soundflower](https://github.com/mattingalls/Soundflower)** \(Mac, free!\) — This open source software allows apps to send audio to other apps. \(A pre-built installer is available at the top of the description.\) For example, you can use Soundflower to send Skype output to apps like QuickTime Player, Audacity, etc. for recording.
 
-* **[Audio Hijack](https://www.rogueamoeba.com/audiohijack/)** \(Mac, $49, trial records for 10 minutes) — It does Skype recording and a *lot* more, and as such it’s a crucial tool for many podcasters. Rogue Amoeba is a great developer and has been making great, award-winning audio software for the Mac since 2002.
+* **[Audio Hijack](https://www.rogueamoeba.com/audiohijack/)** \(Mac, $49, records for 10 minutes without a serial number) — It does Skype recording and a *lot* more, and as such it’s a crucial tool for many podcasters. Rogue Amoeba is a great developer and has been making great, award-winning audio software for the Mac since 2002.
 
 #### Skype plug-ins \(Windows\)
 
