@@ -7,7 +7,7 @@
         "edit-link": {
             "base": "https://github.com/CharlesWiltgen/how-to-podcast/tree/master",
             "label": "Edit This Page"
-        }
+        },
         "simple-page-toc": {
             "maxDepth": 3,
             "skipFirstH1": true
