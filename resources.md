@@ -19,5 +19,5 @@ Confusion around "fair use" is a constant. Here are resources to help you unders
 
 ## Podcasts about podcasting
 
+* [New Media Show](http://newmediashow.com/) ([RSS](http://newmediashow.com/feed/podcast/), [iTunes](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=392545647&mt=2&ls=1), [Stitcher](http://www.stitcher.com/podcast/the-new-media-show))
 * [Podcasters Roundtable](http://podcastersroundtable.com/) ([RSS](http://podcastersroundtable.com/feed/podcast/), [iTunes](https://itunes.apple.com/us/podcast/podcasters-roundtable-podcasters/id548946224), [Stitcher](http://www.stitcher.com/s?fid=32335&refid=stpr))
-* 
