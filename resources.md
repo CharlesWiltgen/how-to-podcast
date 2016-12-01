@@ -19,6 +19,7 @@ Confusion around "fair use" is a constant. Here are resources to help you unders
 
 ## Podcasts about podcasting
 
+* [Ask the Podcast Coach](http://askthepodcastcoach.com/) ([iTunes](http://www.schoolofpodcasting.com/askcoach))
 * [Better Podcasting](http://www.betterpodcasting.com/) ([RSS](http://betterpodcasting.libsyn.com/rss), [iTunes](https://itunes.apple.com/us/podcast/better-podcasting/id1047879204))
 * [New Media Show](http://newmediashow.com/) ([RSS](http://newmediashow.com/feed/podcast/), [iTunes](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=392545647&mt=2&ls=1), [Stitcher](http://www.stitcher.com/podcast/the-new-media-show))
 * [Podcasters Roundtable](http://podcastersroundtable.com/) ([RSS](http://podcastersroundtable.com/feed/podcast/), [iTunes](https://itunes.apple.com/us/podcast/podcasters-roundtable-podcasters/id548946224), [Stitcher](http://www.stitcher.com/s?fid=32335&refid=stpr))
