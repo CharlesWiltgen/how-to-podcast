@@ -5,8 +5,8 @@ Resources
 
 At minimum, submit your podcast to both **iTunes** and **Stitcher**.
 
-* Submit your podcast to iTunes
-* Submit your podcast to Stitcher
+* [Submit podcast to iTunes](https://help.apple.com/itc/podcasts_connect/#/itcd88ea40b9)
+* [Submit podcast to Stitcher](http://www.stitcher.com/content-providers)
 
 For all of the other directories you can submit your podcast, consult [**PodcastPlaces**](http://podcastplaces.com/).
 
