@@ -8,7 +8,7 @@ Note that everyone should be using the "mt" parameter as well, which helps the O
 
 ### How long will iTunes take to approve my podcast?
 
-This is hugely variable — 2 hours to 14 days!
+This is hugely variable — it can be 2 hours to 14 days, depending on whether you catch Apple/iTunes at a good time or not.
 
 As a workaround, you can prepare a short “Welcome” episode and submit that. You can always delete it before your official launch.
 
