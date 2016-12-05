@@ -25,5 +25,19 @@ That said: Tuesdays.
 
 ## Myths
 
+### Reviews/Ratings/Downloads improve iTunes rankings
+
+Many podcasting experts will tell you that reviews, ratings, and downloads affect iTunes rankings.
+
+They are wrong.
+
+
+
+
+
+, so there's really no reason to waste time trying to game iTunes this way. My 2¢: Spend that time on marketing!
+
+Subscriptions! Specifically, the ones that Apple can measure via the Podcasts and iTunes apps. iTunes' Top 200 lists are based on number of New Subscribers in the last week, with a weighted average for the last 24, 48 and 72 hours. Downloads, ratings and reviews have ZERO effect on your Top 200 ranking. Note that this is all by country, so a show in the Top 200 in one country may be nowhere to be seen in another. Downloads only count towards the Top Episodes list, and a little for the What's Hot list.
+
 ### New & Noteworthy myths
 
