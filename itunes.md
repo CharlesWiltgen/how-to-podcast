@@ -14,9 +14,9 @@ As a workaround, you can prepare a short “Welcome” episode and submit that. 
 
 ### Which day of the week should I release my podcast?
 
-It doesn't matter, really. Just be consistent.
+It doesn't matter. Just be consistent.
 
-That being said: Tuesdays. Do it Tuesday.
+That being said: Tuesdays.
 
 * For decades, Tuesday was the day that new music came out.
 
