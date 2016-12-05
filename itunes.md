@@ -14,13 +14,13 @@ As a workaround, you can prepare a short “Welcome” episode and submit that. 
 
 ### Which day of the week should I release my podcast?
 
-There’s no “right” answer to this.
+It doesn't matter, really. Just be consistent.
 
-That said: Tuesdays.
+That being said: Tuesdays. Do it Tuesday.
 
 * For decades, Tuesday was the day that new music came out.
 
-* Mondays and Fridays, people are often distracted either preparing for their work-week or the weekend, respectively.
+* Mondays and Fridays, people are often distracted either preparing for (respectively) their work-week or the weekend.
 
 
 ## Myths
@@ -29,10 +29,12 @@ That said: Tuesdays.
 
 Many podcasting experts will tell you that reviews, ratings, and downloads affect iTunes rankings.
 
+
+
+
+
+
 They are wrong.
-
-
-
 
 
 , so there's really no reason to waste time trying to game iTunes this way. My 2¢: Spend that time on marketing!
