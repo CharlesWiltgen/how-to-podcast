@@ -33,7 +33,7 @@ As a result, podcasters who don’t know any better spend hours trying to “gam
 
 That is a tragedy, because those “experts” are wrong.
 
-
+Thanks primarily to Rob Walch of Libsyn, we know from 
 
 , so there's really no reason to waste time trying to game iTunes this way. My 2¢: Spend that time on marketing!
 
