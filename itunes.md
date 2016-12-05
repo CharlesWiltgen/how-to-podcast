@@ -27,14 +27,12 @@ That being said: Tuesdays.
 
 ### Reviews/Ratings/Downloads improve iTunes rankings
 
-Many podcasting experts will tell you that reviews, ratings, and downloads affect iTunes rankings.
+Many podcasting experts will tell you that reviews, ratings, and downloads can improve your iTunes rankings.
 
+As a result, podcasters who don’t know any better spend hours trying to “game” iTunes by trading fake reviews and ratings with other podcasters.
 
+That is a tragedy, because those “experts” are wrong.
 
-
-
-
-They are wrong.
 
 
 , so there's really no reason to waste time trying to game iTunes this way. My 2¢: Spend that time on marketing!
