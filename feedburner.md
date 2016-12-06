@@ -1,8 +1,15 @@
 # FeedBurner
 
+In 2004, FeedBurner appeared to help bloggers and podcasters analyse and monetize their RSS feeds. It was a huge success, and Google aquired it in 2007.
 
-Whatever you do I'd recommend you at least set up and then route your RSS feed through Feedburner. Now some people are going to call foul on that…
-Your advice is very good at heart, but the specific recommendation for FeedBurner is not. Here are the practical reasons why:
+Not long after, Google lost interest. In July 2012, FeedBurner Japan (feedburner.jp) went away without warning and never came back, and everyone using it lost all of their subscribers.
+
+The FeedBurner APIs were shut down in October 2012, and AdSense for Feeds in December 2012.
+
+Since then, FeedBurner has had multiple outages, and feeds can take as many as 12 hours to update. Someday it will die without warning, taking your hard-won subscribers with it.
+
+Don’t use it for new feeds. If you use it now, stop using it while you still can.
+
 
 FeedBurner stats were created for blogs and their web pages, not podcasts and their MP3 enclosures. As a result, the stats are inaccurate and will report that you have more listeners than you actually do.
 
