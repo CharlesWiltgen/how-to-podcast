@@ -27,9 +27,3 @@ Instead of using a FeedBurner URL, you can redirect a feed URL anywhere you like
 For example, you might use the URL "http://mydomain.com/podcast/feed/" as your official/canonical feed URL, but redirect that to the feed URL of your current host when it's requested.
 
 _(Technical detail: Use an HTTP 302 redirect, instead of a 301 redirect. That way, podcast apps will continue to treat the original URL as canonical.)_
-
-
-
-Bonus link: How to leave FeedBurner
-
-Also, legit podcast hosts always provide a way to cleanly move off of their system.
