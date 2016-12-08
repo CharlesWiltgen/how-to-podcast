@@ -1,12 +1,18 @@
 # FeedBurner
 
+## Long story short
+
+Avoid.
+
+## Background
+
 In 2004, FeedBurner arrived to help bloggers and podcasters analyse and monetize their RSS feeds. It was a huge success, and Google aquired it in 2007.
 
 Not long after, Google lost interest. In July 2012, FeedBurner Japan (feedburner.jp) went away without warning and never came back. Everyone using it lost all of their subscribers.
 
 Google shut down the FeedBurner APIs in October 2012, and AdSense for Feeds in December 2012. Since then, FeedBurner has had multiple outages every year. Feeds can take as many as 12 hours to update.
 
-Don’t use FeedBurner for new feeds. If you use it now, consider alternatives before you’re forced to.
+Don’t use FeedBurner for new feeds. If you use it now, consider alternatives before you’re lose your subscribers and are forced to.
 
 ## “I use FeedBurner for podcast metrics”
 
