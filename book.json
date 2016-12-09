@@ -1,16 +1,31 @@
 {
-    "plugins": [
-        "edit-link",
-        "simple-page-toc"
-    ],
-    "pluginsConfig": {
-        "edit-link": {
-            "base": "https://github.com/CharlesWiltgen/how-to-podcast/tree/master",
-            "label": "Edit This Page"
-        },
-        "simple-page-toc": {
-            "maxDepth": 3,
-            "skipFirstH1": true
-        }
+  "plugins": [
+    "autocover",
+    "edit-link",
+    "simple-page-toc"
+  ],
+  "pluginsConfig": {
+    "autocover": {
+      "font": {
+          "size": null,
+          "family": "Impact",
+          "color": "#FFF"
+      },
+      "size": {
+          "w": 1800,
+          "h": 2360
+      },
+      "background": {
+          "color": "#09F"
+      }
     }
+    "edit-link": {
+      "base": "https://github.com/CharlesWiltgen/how-to-podcast/tree/master",
+      "label": "Edit This Page"
+    },
+    "simple-page-toc": {
+      "maxDepth": 3,
+      "skipFirstH1": true
+    }
+  }
 }
