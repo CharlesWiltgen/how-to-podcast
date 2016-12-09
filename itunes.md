@@ -22,6 +22,13 @@ That being said: Tuesdays.
 
 * Mondays and Fridays, people are often distracted either preparing for (respectively) their work-week or the weekend.
 
+# New & Noteworthy
+
+New & Noteworthy (N&N) on the iTunes front page and Comedy page are 100% hand-curated by Apple. There’s no way to “game” the front page or Comedy N&N lists.
+
+The N&N on all the other pages are algorithmically generated (when they work). But even in these other, automatically-created pages Apple can manually insert in a show in N&N if they like.
+
+Per what's hot on these sub pages - it is more of a lottery based on how many new subscribers and rating and reviews Those all factored into it. The Top 200 lists are all about new subscribers in the last 7 days and have nothing to do with Rating and Reviews.
 
 ## Myths
 
