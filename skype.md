@@ -14,7 +14,7 @@ For example, if you don't know if the router you're using supports QoS (Quality 
 
 ## Options
 
-Skype is by far the most popular VoIP solution for podcasters — you can use it with Skype users and with anybody else with a phone number.
+Skype is by far the most popular VoIP solution for podcasters — you can use it not only with Skype users, and with anybody else with a phone number.
 
 * **[Skype](http://skype.com/)**
 * **[Google Hangouts](https://hangouts.google.com/)**
