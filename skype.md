@@ -1,4 +1,8 @@
-# Using Skype
+# Skype and VoIP
+
+“Voice over IP” is internet telephony—a great way to include remote co-hosts and guests.
+
+
 
 **[Skype](http://skype.com/)** is the most popular way to conduct remote interviews, and include remote co-hosts and guests in your podcast.
 
