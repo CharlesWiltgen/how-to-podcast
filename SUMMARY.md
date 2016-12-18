@@ -6,7 +6,7 @@
 * [Headphones](headphones.md)
 * [Music](music.md)
 * [Recording](recording.md)
-* [Using Skype](skype.md)
+* [Skype and VoIP](skype.md)
 * [After You Record](after-you-record.md)
     * [Editing](editing.md)
     * [Encoding](mp3.md)

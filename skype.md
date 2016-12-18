@@ -2,13 +2,18 @@
 
 “Voice over IP” is internet telephony — a great way to conduct remote interviews, and include remote co-hosts and guests in your podcast.
 
+In general, the VoIP solution you use isn't going to influence call quality or reliability — everything's mostly converged on using [WebRTC](https://en.wikipedia.org/wiki/WebRTC) and (excellent!) the [Opus](https://en.wikipedia.org/wiki/Opus_(audio_format) audio codec or a variation thereof (i.e. Skype's SILK).
 
+What *does* greatly affect call quality and reliability? Everything YOU control.
+
+For example, if you don't know if the router you're using supports QoS (Quality of Service) data prioritization, you're probably already at the mercy at literally anything sharing the same network that decides to send data during your call.
+
+Here's an open source collection of hard-won info on optimizing for VoIP
 
 ## Options
 
-**[Skype](http://skype.com/)** is the most popular VoIP solution used by podcasters but there are many others.
-
-* [Google Hangouts](https://hangouts.google.com/)
+* **[Skype](http://skype.com/)**
+* **[Google Hangouts](https://hangouts.google.com/)**
 * Slack
 * Discord
 * Zoom
