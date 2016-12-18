@@ -1,10 +1,18 @@
 # Skype and VoIP
 
-“Voice over IP” is internet telephony—a great way to include remote co-hosts and guests.
+“Voice over IP” is internet telephony—a great way to conduct remote interviews, and include remote co-hosts and guests in your podcast.
 
+**[Skype](http://skype.com/)** is the most popular VoIP solution used by podcasters but there are many others.
 
+* Google Hangouts
+* Slack
+* Discord
 
-**[Skype](http://skype.com/)** is the most popular way to conduct remote interviews, and include remote co-hosts and guests in your podcast.
+Some VoIP solutions also record calls and send higher-quality results.
+
+* Zencastr
+* Cleanfeed
+* Ringr
 
 ## Pre-call checklist
 
