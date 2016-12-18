@@ -12,8 +12,6 @@ In general, the VoIP solution you use isn't going to influence call quality or r
 
 For example, if you don't know if the router you're using supports QoS (Quality of Service) data prioritization, you're probably already at the mercy at literally anything sharing the same network that decides to send data during your call.
 
-Here's an open source collection of hard-won info on optimizing for VoIP
-
 ## Options
 
 * **[Skype](http://skype.com/)**
