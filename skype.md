@@ -11,8 +11,8 @@
 Some VoIP solutions also record calls and send higher-quality results.
 
 * Zencastr
-* Cleanfeed
 * Ringr
+* Cleanfeed
 
 ## Pre-call checklist
 
