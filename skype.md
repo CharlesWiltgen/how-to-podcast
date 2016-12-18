@@ -2,9 +2,13 @@
 
 “Voice over IP” is internet telephony — a great way to conduct remote interviews, and include remote co-hosts and guests in your podcast.
 
-In general, the VoIP solution you use isn't going to influence call quality or reliability — everything's mostly converged on using [WebRTC](https://en.wikipedia.org/wiki/WebRTC) and (excellent!) the [Opus](https://en.wikipedia.org/wiki/Opus_(audio_format) audio codec or a variation thereof (i.e. Skype's SILK).
+**However:** High-quality, reliable calls require some work on your part. Unlike low-quality cell phone and landline calls, VoIP calls can fail or downshift to lower-quality audio if they don’t get enough network or computing resources.
 
-What *does* greatly affect call quality and reliability? Everything YOU control.
+The goal of this section is to teach you how to do high-quality, reliable VoIP calls.
+
+## Background
+
+In general, the VoIP solution you use isn't going to influence call quality or reliability — everything's mostly converged on using [WebRTC](https://en.wikipedia.org/wiki/WebRTC) and (excellent!) the [Opus](https://en.wikipedia.org/wiki/Opus_(audio_format) audio codec or a variation thereof (i.e. Skype's SILK).
 
 For example, if you don't know if the router you're using supports QoS (Quality of Service) data prioritization, you're probably already at the mercy at literally anything sharing the same network that decides to send data during your call.
 
