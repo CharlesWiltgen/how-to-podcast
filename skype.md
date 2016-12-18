@@ -2,6 +2,10 @@
 
 “Voice over IP” is internet telephony — a great way to conduct remote interviews, and include remote co-hosts and guests in your podcast.
 
+
+
+## Options
+
 **[Skype](http://skype.com/)** is the most popular VoIP solution used by podcasters but there are many others.
 
 * [Google Hangouts](https://hangouts.google.com/)
