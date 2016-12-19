@@ -2,6 +2,8 @@
 
 _How to Podcast_ is an open source resource for podcasters.
 
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 ## Contributing
 
 If you’d like to contribute, there’s several ways to do it. Hopefully one of them works great for you.
