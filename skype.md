@@ -1,10 +1,12 @@
 # Skype and VoIP
 
-“Voice over IP” is internet telephony — a great way to conduct remote interviews, and include remote co-hosts and guests in your podcast.
+[“Voice over IP”](https://en.wikipedia.org/wiki/Voice_over_IP) is internet telephony — a great way to conduct remote interviews, and include remote co-hosts and guests in your podcast.
 
 **However:** High-quality, reliable calls mean that you’re responsible for providing enough network and other resources to make that possible. VoIP calls can fail or downshift to lower-quality audio if they don’t get enough network or computing resources.
 
 This section describes popular options and resources for VoIP calls, and includes hard-won tips for getting the highest quality, most reliable calls possible for a given internet connection.
+
+Skype does [VoIP](https://en.wikipedia.org/wiki/Voice_over_IP), and with any VoIP solution a poor or too-slow internet connection will hurt call quality and reliability.
 
 ## Background
 
