@@ -43,8 +43,6 @@ Skype does [VoIP](https://en.wikipedia.org/wiki/Voice_over_IP), and with any VoI
 
 * **DO** use routers that support “QoS”, which can ensure that Skype and other VoIP traffic is always given precedence. If you don't know if the router you're using supports QoS (Quality of Service) data prioritization, find out — if it doesn’t, you’re at the mercy at literally anything sharing the same network that decides to send data during your call.
 
-* **DO** use a hard-wired Ethernet connection instead of a Wi-Fi connection if you can.
-
 * **DO** strongly suggest that remote participants use a mic or headset. A perfectly good headset is amazingly inexpensive — the **[Plantronics .Audio 326](http://www.amazon.com/gp/product/B001S2RCXW)** is only 9 bucks as I write this.
 
 * **DO NOT** record video unless you must. It almost inevitably impacts audio quality because Skype is working with a finite \(and usually small\) amount of upstream bandwidth.
