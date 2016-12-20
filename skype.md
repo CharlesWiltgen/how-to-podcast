@@ -28,8 +28,6 @@ Some VoIP solutions also help automate “multi-enders” — a workflow where h
 
 ## Pre-call checklist
 
-Skype does [VoIP](https://en.wikipedia.org/wiki/Voice_over_IP), and with any VoIP solution a poor or too-slow internet connection will hurt call quality and reliability. Here are hard-won tips for getting the highest quality, most reliable calls possible for a given internet connection.
-
 1. Use a **wired connection** to the internet if at all possible, and ask other participants to do the same. Connect your PC or laptop to your router or cable modem with an Ethernet cable to \(1\) prevent wireless interference and other issues from ruining your interview, and \(2\) improves the odds of Skype being able to use its highest-quality mode.
 
 2. If you're using Skype call recording software to record the call, confirm that it's set **record to an uncompressed WAV or AIFF file** \(and not MP3 files\). The only time you should create an MP3 file is before you upload your final episode to your podcast host.
