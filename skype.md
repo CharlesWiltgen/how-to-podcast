@@ -4,7 +4,7 @@
 
 **However:** High-quality, reliable calls mean that you’re responsible for providing enough network and other resources to make that possible. VoIP calls can fail or downshift to lower-quality audio if they don’t get enough network or computing resources.
 
-This section describes popular solutions and resources for VoIP calls, and includes hard-won tips for getting the highest quality, most reliable calls possible for a given internet connection.
+This section describes popular options and resources for VoIP calls, and includes hard-won tips for getting the highest quality, most reliable calls possible for a given internet connection.
 
 ## Background
 
