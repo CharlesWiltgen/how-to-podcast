@@ -90,7 +90,6 @@ A “mix-minus” setup allows you to record Skype calls.
 
 * **[Virtual Audio Cable](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm)**[, ](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm)**[Voicemeeter](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm)**[, ](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm)**[Voicemeeter Banana](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm)** \(donation requested\) — This "virtual mixer" software allows you to route audio between applications, meaning that you can send Skype output to a "virtual input" to record with Audacity or your [DAW](https://en.wikipedia.org/wiki/Digital_audio_workstation) of choice.
 
-
 ### iOS
 
 (TBD)
