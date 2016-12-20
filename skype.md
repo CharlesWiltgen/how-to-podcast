@@ -76,7 +76,7 @@ A “mix-minus” setup allows you to record Skype calls.
 
 #### Skype plug-ins \(Windows\)
 
-* **[Amolto](http://www.evaer.com/)** ($30, free for audio-only) — A Skype call recorder that supports audio and video.
+* **[Amolto](http://amolto.com/)** ($30, free for audio-only) — A Skype call recorder that supports audio and video.
 
 * **[CallGraph](https://scribie.com/free-skype-recorder)** (free!) — An easy-to-use, audio-only Skype call recorder.
 
