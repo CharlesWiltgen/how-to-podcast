@@ -58,8 +58,6 @@ You can also use EQ in the 1kHz–3kHz range to make male voices “pop”, and 
 
 ## Recording
 
-
-
 ### With hardware
 
 #### Mix-minus
