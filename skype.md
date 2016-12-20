@@ -2,9 +2,9 @@
 
 “Voice over IP” is internet telephony — a great way to conduct remote interviews, and include remote co-hosts and guests in your podcast.
 
-**However:** High-quality, reliable calls require some work on your part. Unlike low-quality cell phone and landline calls, VoIP calls can fail or downshift to lower-quality audio if they don’t get enough network or computing resources.
+**However:** High-quality, reliable calls mean that you’re responsible for providing enough network and other resources to make that possible. VoIP calls can fail or downshift to lower-quality audio if they don’t get enough network or computing resources.
 
-The goal of this section is to teach you how to do high-quality, reliable VoIP calls.
+This section describes popular solutions and resources for VoIP calls, and includes hard-won tips for getting the highest quality, most reliable calls possible for a given internet connection.
 
 ## Background
 
