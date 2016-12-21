@@ -23,6 +23,10 @@ I'm Team Audio Interface \(or recorder, although you can't do a mix-minus Skype 
 
 **Mixer**
 
+<ul style="list-style: none">
+<li>☑︎ Physical knobs and sliders are cool and fun</li>
+</ul>
+
 * ☑︎ Physical knobs and sliders are cool and fun
 * ☑︎ If compressor\/limiter, useful for live\/live-to-tape scenarios
 * ☒ Built-in USB output typically only 2 channels
