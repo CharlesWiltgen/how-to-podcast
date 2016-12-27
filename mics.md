@@ -17,7 +17,7 @@ Buy one of these, depending on your needs and budget:
 
 <div style="height:20px">&nbsp;</div>
 
-The Audio Technica [ATR2100-USB](http://www.amazon.com/dp/B004QJOZS4) (and it’s fraternal twin, the AT2005USB) is podcasting’s “training wheels mic”, for pretty good reasons:</p>
+The Audio Technica [ATR2100-USB](http://www.amazon.com/dp/B004QJOZS4) (and it’s fraternal twins, the AT2005USB and Samson Q2U) is podcasting’s standard “training wheels mic”, for pretty good reasons:</p>
 
 * It’s fairly cheap
 * It supports both USB and XLR, so you can plug it right into your computer to start and then graduate to XLR once you get a proper audio interface or mixer
