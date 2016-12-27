@@ -15,7 +15,7 @@ Buy one of these, depending on your needs and budget:
 | [Blue Snowball](http://www.amazon.com/dp/B000EOPQ7E) | $60–80 | USB | Condenser | Multiple |
 | [Blue enCORE 100](http://www.amazon.com/dp/B002SQJL9U) | $100 | XLR | Dynamic | Cardioid |
 
-<p style="padding-top:50px">The Audio Technica [ATR2100-USB](http://www.amazon.com/dp/B004QJOZS4) (and it’s fraternal twin, the AT2005USB) is podcasting’s “default starter mic”, for pretty good reasons:</p>
+<p style="padding-top:25px">The Audio Technica [ATR2100-USB](http://www.amazon.com/dp/B004QJOZS4) (and it’s fraternal twin, the AT2005USB) is podcasting’s “default starter mic”, for pretty good reasons:</p>
 
 * It’s pretty cheap
 * It supports both USB and XLR, so you can plug it right into your computer to start and then graduate to XLR once you get a proper audio interface or mixer
