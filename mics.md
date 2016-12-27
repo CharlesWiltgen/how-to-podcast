@@ -19,7 +19,7 @@ Buy one of these, depending on your needs and budget:
 
 The Audio Technica [ATR2100-USB](http://www.amazon.com/dp/B004QJOZS4) (and it’s fraternal twin, the AT2005USB) is podcasting’s “training wheels mic”, for pretty good reasons:</p>
 
-* It’s pretty cheap
+* It’s fairly cheap
 * It supports both USB and XLR, so you can plug it right into your computer to start and then graduate to XLR once you get a proper audio interface or mixer
 * It includes everything you need, including cables and a cheesy desk stand
 * As a dynamic mic it’s less sensitive than condenser mics, and so more forgiving of noisy environments
