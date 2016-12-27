@@ -16,11 +16,11 @@ Here's a list of free and reasonably-priced options for editing your audio.
 
 Because it’s free, [**Audacity**](http://www.audacityteam.org/) is popular “starter” editor. But as an old-style “destructive”[^1] audio editor, it’s a poor choice.
 
-[^1]: “Destructive” means that the source files are written over with every save. Compared to a modern non-destructive editor, this makes undoing or adjusting edits much harder, and increases the chance of data loss.
-
 * It teaches poor habits that users will have to overcome when the time comes to learn a “real” editor, and makes that transition more difficult.
 
-* Because editing is destructive, data loss is a much more common occurance with Audacity than it is with modern audio editors. This can be mitigated by always saving to new projects.
+* “Destructive” means that the source files are written over with every save, which means that data loss is a much more common occurance with Audacity than it is with modern audio editors. This can be mitigated by saving early and often.
+
+* Since source media is being thrown away with every edit, undoing or adjusting edits (other than the most recent one) is nearly impossible.
 
 If you use Audacity, it's best to a modern, non-destructive editor as quickly as is practical.
 
