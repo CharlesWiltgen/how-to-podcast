@@ -30,8 +30,8 @@ The [Samson Q2U](http://www.amazon.com/dp/B001R747SG) is effectively the same mi
 
 | Mic | Price | Interface | Type | Pickup pattern\(s\) |
 | --- | --- | --- | --- | --- |
-| [Blue Yeti](https://www.amazon.com/dp/B002VA464S) | $123 | USB | Condenser | Cardioid |
-| [Electrovoice RE-20](https://www.amazon.com/dp/B000Z7LLQ0/) | $399 | XLR | Dynamic | Cardioid |
+| [Blue Yeti][amz-blue-yeti] | $123 | USB | Condenser | Cardioid |
+| [Electrovoice RE-20][amz-ev-re20] | $399 | XLR | Dynamic | Cardioid |
 | [Heil PR40](http://www.amazon.com/dp/B00PQYBRNY) | $315 | XLR | Dynamic | Cardioid |
 | [Shure SM7B](http://www.amazon.com/dp/B0002E4Z8M/) | $350 | XLR | Dynamic | Cardioid |
 
@@ -115,3 +115,5 @@ Because condensers are more sensitive, you can always make a condenser less sens
 
 There's a myth that condensers somehow pickup more "noise" than dynamics. This is untrue. A more sensitive mic will simply picks up more of all sound, whether signal or noise.
 
+[amz-blue-yeti]: https://www.amazon.com/dp/B002VA464S "Blue Yeti"
+[amz-ev-re20]: https://www.amazon.com/dp/B000Z7LLQ0/ "Electrovoice RE-20"
