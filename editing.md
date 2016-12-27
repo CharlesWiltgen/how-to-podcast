@@ -4,7 +4,7 @@
 
 Here's a list of free and reasonably-priced options for editing your audio.
 
-* [**Adobe Audition**](http://www.adobe.com/products/audition.html) is great. It's main drawback is Adobe's rental-only pricing model ($20/month), which kinda sucks unless you need Adobe CC anyway. _(macOS/Win)_
+* [**Adobe Audition**](http://www.adobe.com/products/audition.html) is great. It's main drawback is Adobe's rental-only pricing model ($20/month), which kinda stinks unless you need Adobe CC anyway. _(macOS/Win)_
 
 * [**Hindenburg Journalist**](http://hindenburg.com/products/hindenburg-journalist) is unique, in that it's an audio editor designed especially for spoken-word productions. _(macOS/Win)_
 
