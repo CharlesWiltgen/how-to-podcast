@@ -1,6 +1,6 @@
 # Microphones
 
-You're gonna need a microphone or two. The cool kids call them "mics" \(pronounced "mikes"\).
+You're gonna need a microphone or two. The cool kids call them “mics” \(pronounced “mikes”\).
 
 ## Long story short
 
@@ -52,9 +52,6 @@ There's many kinds of mics, but for our purposes we're going to divide them into
 Either would work fine. You'll get more recommendations for dynamics because they're less sensitive and so more forgiving in bad recording environments.
 
 From a budget perspective, $150 will get you a ["starter" 4-preamp audio interface](https://www.music-group.com/Categories/Behringer/Computer-Audio/Audio-Interfaces/UMC404HD/p/P0BK1) and [3-for-$39 dynamics](https://www.amazon.com/Behringer-Ultravoice-Xm1800s-Dynamic-Microphone/dp/B000NJ2TIE). Get cables from Monoprice, some [cheap mic stands](https://www.amazon.com/dp/B003VYBD58/) and [windscreens](https://www.amazon.com/dp/B0006NMUK4/), and you're all set.
-
-
-
 
 A mic's [transducer](https://en.wikipedia.org/wiki/Transducer) converts sound pressure into an electrical signal.  Although both dynamic and condenser mics have a membrane that vibrates with the air around it, they use different transducer principles.
 
