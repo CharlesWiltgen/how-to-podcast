@@ -15,7 +15,7 @@ Buy one of these, depending on your needs and budget:
 | [Blue Snowball](http://www.amazon.com/dp/B000EOPQ7E) | $60–80 | USB | Condenser | Multiple |
 | [Blue enCORE 100](http://www.amazon.com/dp/B002SQJL9U) | $100 | XLR | Dynamic | Cardioid |
 
-<div style="height:20px"></div>
+<div style="height:20px">&nbsp;</div>
 
 The Audio Technica [ATR2100-USB](http://www.amazon.com/dp/B004QJOZS4) (and it’s fraternal twin, the AT2005USB) is podcasting’s “training wheels mic”, for pretty good reasons:</p>
 
