@@ -15,7 +15,7 @@ Buy one of these, depending on your needs and budget:
 | [Blue Snowball](http://www.amazon.com/dp/B000EOPQ7E) | $60–80 | USB | Condenser | Multiple |
 | [Blue enCORE 100](http://www.amazon.com/dp/B002SQJL9U) | $100 | XLR | Dynamic | Cardioid |
 
-<div style="height:20px">&nbsp;</div>
+<div style="height:15px">&nbsp;</div>
 
 The Audio Technica [ATR2100-USB](http://www.amazon.com/dp/B004QJOZS4) (and it’s fraternal twins, the AT2005USB and Samson Q2U) is podcasting’s standard “training wheels mic”, for pretty good reasons:</p>
 
@@ -35,7 +35,7 @@ The [Samson Q2U](http://www.amazon.com/dp/B001R747SG) is effectively the same mi
 | [Heil PR40](http://www.amazon.com/dp/B00PQYBRNY) | $315 | XLR | Dynamic | Cardioid |
 | [Shure SM7B](http://www.amazon.com/dp/B0002E4Z8M/) | $350 | XLR | Dynamic | Cardioid |
 
-<p style="margin:0;font-size:5px">&nbsp;<p>
+<div style="height:15px">&nbsp;</div>
 
 **Tip**: Mics go on sale sometimes, so you can often snag a good deal using sites like CamelCamelCamel to set up an Amazon price watch for ones you're interested in. Plus, competitors often match Amazon sale prices, too.
 
