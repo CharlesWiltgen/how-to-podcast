@@ -11,7 +11,7 @@
     * [Editing](editing.md)
     * [Encoding](mp3.md)
 * [Hosting](hosting.md)
-* [Submitting](submitting.md)
+* [Submit to Directories](submitting.md)
 * [Growing Your Audience](growing-your-audience.md)
     * [Marketing](marketing.md)
 * [Monetization](monetization.md)
