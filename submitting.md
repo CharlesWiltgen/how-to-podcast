@@ -4,7 +4,11 @@ At minimum, submit your podcast to iTunes and Stitcher. Most apps use the iTunes
 
 ### Submit to iTunes
 
+
+
 ### Submit to Stitcher
+
+* [Stitcher Content Provider Application](http://www.stitcher.com/content-providers)
 
 ### Submit to Google Play Music
 
