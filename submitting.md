@@ -4,7 +4,7 @@ At minimum, submit your podcast to iTunes and Stitcher. Most apps use the iTunes
 
 ### Submit to iTunes
 
-
+* [Podcasts Connect - Submit a Podcast](https://help.apple.com/itc/podcasts_connect/#/itcd88ea40b9)
 
 ### Submit to Stitcher
 
