@@ -12,6 +12,8 @@ At minimum, submit your podcast to iTunes and Stitcher. Most apps use the iTunes
 
 ### Submit to Google Play Music
 
+* [Publish Your Podcast to Google Play Music](https://play.google.com/music/podcasts/publish)
+
 ### Submit to Spotify
 
 * https://community.spotify.com/t5/Content-Questions/How-do-I-add-my-podcast-to-Spotify/td-p/1136198
