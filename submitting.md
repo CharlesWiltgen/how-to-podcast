@@ -14,6 +14,10 @@ At minimum, submit your podcast to iTunes and Stitcher. Most apps use the iTunes
 
 * [Publish Your Podcast to Google Play Music](https://play.google.com/music/podcasts/publish)
 
+### Submit to TuneIn
+
+* [TuneIn Submit Your Podcast form](http://help.tunein.com/customer/portal/emails/new?ticket[labels_new]=podcast&t=641867)
+
 ### Submit to Spotify
 
 * https://community.spotify.com/t5/Content-Questions/How-do-I-add-my-podcast-to-Spotify/td-p/1136198
