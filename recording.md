@@ -24,7 +24,7 @@ I'm Team Audio Interface \(or recorder, although you can't do a mix-minus Skype 
 **Mixer**
 
 * ☑︎ Physical knobs and sliders are cool and fun
-* ☑︎ If compressor\/limiter, useful for live\/live-to-tape scenarios
+* ☑︎ If compressor/limiter, useful for live/live-to-tape scenarios
 * ☒ Built-in USB output typically only 2 channels
 * ☒ Built-in A2D hardware typically offers mid-range quality
 
@@ -38,7 +38,7 @@ I'm Team Audio Interface \(or recorder, although you can't do a mix-minus Skype 
 * ☑︎ Typically better A2D hardware
 * ☑︎ Typically supports better sample rates\/resolutions
 * ☑︎ Allows for a far more compact setup, easier to store\/transport
-* ☒ Clumsier for live\/live-to-tape scenarios
+* ☒ Clumsier for live/live-to-tape scenarios
 
 ### Software
 
