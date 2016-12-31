@@ -47,7 +47,7 @@ bar
 
 #### iOS
 
-[Capture for iPad](http://www.presonus.com/products/Capture-for-iPad)
+* [Capture for iPad](http://www.presonus.com/products/Capture-for-iPad)
 
 ## Mixers
 
