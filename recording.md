@@ -28,6 +28,9 @@ I'm Team Audio Interface \(or recorder, although you can't do a mix-minus Skype 
 * ☒ Built-in USB output typically only 2 channels
 * ☒ Built-in A2D hardware typically offers mid-range quality
 
+[ ] Test
+[x] Test
+
 **Audio interface**
 
 * ☑︎ Captures one track per input \(easier to process, edit\)
