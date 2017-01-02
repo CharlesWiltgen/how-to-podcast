@@ -58,17 +58,15 @@ You can also use EQ in the 1kHz–3kHz range to make male voices “pop”, and 
 
 ### With software
 
-When recording with software you have two options: Skype plug-ins and OS-level recorders.
+When recording with a computer there are two kinds of options: **Skype plug-ins** and **OS-level recorders**.
 
-A benefit of OS-level recorders is that (1) they work with more anything, and (2) they eliminate the possibility of a version mismatch between Skype and the plug-in.
+Skype plug-ins 
+
+OS-level recorders is that (1) they work with more anything, and (2) they eliminate the possibility of a version mismatch between Skype and the plug-in.
 
 #### Skype plug-ins \(Mac\)
 
 * **[Ecamm Call Recorder for Skype](http://www.ecamm.com/mac/callrecorder/)** \(Mac, $30\) — This Skype plug-in can record your own microphone input and the output of your Skype call as separate tracks in a single QuickTime movie. An included utility allows you to split that file into separate files for each track, and convert them to other formats.
-
-* **[Soundflower](https://github.com/mattingalls/Soundflower)** \(Mac, free!\) — This open source software allows apps to send audio to other apps. \(A pre-built installer is available at the top of the description.\) For example, you can use Soundflower to send Skype output to apps like QuickTime Player, Audacity, etc. for recording.
-
-* **[Audio Hijack](https://www.rogueamoeba.com/audiohijack/)** \(Mac, $49, records for 10 minutes without a serial number) — It does Skype recording and a *lot* more, and as such it’s a crucial tool for many podcasters. Rogue Amoeba is a great developer and has been making great, award-winning audio software for the Mac since 2002.
 
 #### Skype plug-ins (Windows)
 
@@ -84,7 +82,11 @@ A benefit of OS-level recorders is that (1) they work with more anything, and (2
 
 #### OS-level recorders (Mac)
 
+* **[Audio Hijack](https://www.rogueamoeba.com/audiohijack/)** \(Mac, $49, records for 10 minutes without a serial number) — It does Skype recording and a *lot* more, and as such it’s a crucial tool for many podcasters. Rogue Amoeba is a great developer and has been making great, award-winning audio software for the Mac since 2002.
+
 * **[Piezo](https://rogueamoeba.com/piezo/)** ($19) — Record audio from any application, or from audio inputs like microphones. Records from Skype and other VoIP apps, and can save the audio to distinct channels for easy editing.
+
+* **[Soundflower](https://github.com/mattingalls/Soundflower)** \(Mac, free!\) — This open source software allows apps to send audio to other apps. \(A pre-built installer is available at the top of the description.\) For example, you can use Soundflower to send Skype output to apps like QuickTime Player, Audacity, etc. for recording.
 
 #### OS-level recorders (Windows)
 
