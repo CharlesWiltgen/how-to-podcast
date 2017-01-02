@@ -58,7 +58,7 @@ You can also use EQ in the 1kHz–3kHz range to make male voices “pop”, and 
 
 ### With software
 
-
+When recording with software you have two options: Skype plug-ins and OS-level recorders.
 
 #### Skype plug-ins \(Mac\)
 
@@ -68,7 +68,7 @@ You can also use EQ in the 1kHz–3kHz range to make male voices “pop”, and 
 
 * **[Audio Hijack](https://www.rogueamoeba.com/audiohijack/)** \(Mac, $49, records for 10 minutes without a serial number) — It does Skype recording and a *lot* more, and as such it’s a crucial tool for many podcasters. Rogue Amoeba is a great developer and has been making great, award-winning audio software for the Mac since 2002.
 
-#### Skype plug-ins \(Windows\)
+#### Skype plug-ins (Windows)
 
 * **[Amolto](http://amolto.com/)** ($30, free for audio-only) — A Skype call recorder that supports audio and video.
 
@@ -80,13 +80,13 @@ You can also use EQ in the 1kHz–3kHz range to make male voices “pop”, and 
 
 * **[Pamela Call Recorder](http://www.pamela.biz/)** (15€) — Paid version supports unlimited recording, can record up to 15 minutes for free. <span style="color:red">**Note: Pamela has a mixed reputation reliability, and is listed here mostly for completeness’ sake.**</span>
 
-#### OS-level recording (Mac)
+#### OS-level recorders (Mac)
 
 * **[Piezo](https://rogueamoeba.com/piezo/)** ($19) — Record audio from any application, or from audio inputs like microphones. Records from Skype and other VoIP apps, and saves the audio to distinct channels for easy editing.
 
-#### OS-level recording (Windows)
+#### OS-level recorders (Windows)
 
-* **[Virtual Audio Cable](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm)**[, ](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm)**[Voicemeeter](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm)**[, ](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm)**[Voicemeeter Banana](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm)** \(donation requested\) — This "virtual mixer" software allows you to route audio between applications, meaning that you can send Skype output to a "virtual input" to record with Audacity or your [DAW](https://en.wikipedia.org/wiki/Digital_audio_workstation) of choice.
+* **[Virtual Audio Cable](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm)**[, ](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm)**[Voicemeeter](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm)**[, ](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm)**[Voicemeeter Banana](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm)** (donation requested) — This "virtual mixer" software allows you to route audio between applications, meaning that you can send Skype output to a "virtual input" to record with Audacity or your [DAW](https://en.wikipedia.org/wiki/Digital_audio_workstation) of choice.
 
 ### iOS
 
