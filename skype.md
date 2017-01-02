@@ -88,7 +88,7 @@ A benefit of OS-level recorders is that (1) they work with more anything, and (2
 
 #### OS-level recorders (Windows)
 
-* **[SnagIt](https://www.techsmith.com/snagit.html)** ($50) — Capture audio and video. (Does not capture VoIP participants on separate tracks. TechSmith blog post: [“How to Record Skype, Google Hangouts, and Webinars”](http://blogs.techsmith.com/tips-how-tos/how-to-record-skype-google-hangouts-and-webinars/))
+* **[SnagIt](https://www.techsmith.com/snagit.html)** ($50) — Capture audio and video. (Can’t record VoIP participants to separate channels. TechSmith blog post: [“How to Record Skype, Google Hangouts, and Webinars”](http://blogs.techsmith.com/tips-how-tos/how-to-record-skype-google-hangouts-and-webinars/))
 
 * **[Virtual Audio Cable](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm)**[, ](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm)**[Voicemeeter](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm)**[, ](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm)**[Voicemeeter Banana](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm)** (donation requested) — This "virtual mixer" software allows you to route audio between applications, meaning that you can send Skype output to a "virtual input" to record with Audacity or your [DAW](https://en.wikipedia.org/wiki/Digital_audio_workstation) of choice.
 
