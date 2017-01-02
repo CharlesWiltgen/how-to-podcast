@@ -60,6 +60,8 @@ You can also use EQ in the 1kHz–3kHz range to make male voices “pop”, and 
 
 When recording with software you have two options: Skype plug-ins and OS-level recorders.
 
+A benefit of OS-level recorders is that (1) they work with more anything, and (2) they eliminate the possibility of a version mismatch between Skype and the plug-in.
+
 #### Skype plug-ins \(Mac\)
 
 * **[Ecamm Call Recorder for Skype](http://www.ecamm.com/mac/callrecorder/)** \(Mac, $30\) — This Skype plug-in can record your own microphone input and the output of your Skype call as separate tracks in a single QuickTime movie. An included utility allows you to split that file into separate files for each track, and convert them to other formats.
