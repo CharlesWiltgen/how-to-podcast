@@ -80,7 +80,7 @@ You can also use EQ in the 1kHz–3kHz range to make male voices “pop”, and 
 
 #### OS-level recording (Mac)
 
-* **[Piezo](https://rogueamoeba.com/piezo/)** ($19) — Record audio from any application, or from audio inputs like microphones. 
+* **[Piezo](https://rogueamoeba.com/piezo/)** ($19) — Record audio from any application, or from audio inputs like microphones. Records from Skype and other VoIP apps, and saves the audio to distinct channels for easy editing.
 
 #### OS-level recording (Windows)
 
