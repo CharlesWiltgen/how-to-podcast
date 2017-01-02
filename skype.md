@@ -84,7 +84,7 @@ A benefit of OS-level recorders is that (1) they work with more anything, and (2
 
 #### OS-level recorders (Mac)
 
-* **[Piezo](https://rogueamoeba.com/piezo/)** ($19) — Record audio from any application, or from audio inputs like microphones. Records from Skype and other VoIP apps, and saves the audio to distinct channels for easy editing.
+* **[Piezo](https://rogueamoeba.com/piezo/)** ($19) — Record audio from any application, or from audio inputs like microphones. Records from Skype and other VoIP apps, and can save the audio to distinct channels for easy editing.
 
 #### OS-level recorders (Windows)
 
