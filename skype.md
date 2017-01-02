@@ -56,14 +56,6 @@ You can also use EQ in the 1kHz–3kHz range to make male voices “pop”, and 
 
 ## Recording
 
-### With hardware
-
-#### Mix-minus
-
-A “mix-minus” setup allows you to record Skype calls.
-
-(TBD)
-
 ### With software
 
 #### Skype plug-ins \(Mac\)
@@ -88,13 +80,21 @@ A “mix-minus” setup allows you to record Skype calls.
 
 #### OS-level recording (Mac)
 
-
+An OS-level recording solution
 
 #### OS-level recording (Windows)
 
 * **[Virtual Audio Cable](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm)**[, ](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm)**[Voicemeeter](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm)**[, ](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm)**[Voicemeeter Banana](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm)** \(donation requested\) — This "virtual mixer" software allows you to route audio between applications, meaning that you can send Skype output to a "virtual input" to record with Audacity or your [DAW](https://en.wikipedia.org/wiki/Digital_audio_workstation) of choice.
 
 ### iOS
+
+(TBD)
+
+### With hardware
+
+#### Mix-minus
+
+A “mix-minus” setup allows you to record Skype calls.
 
 (TBD)
 
