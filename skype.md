@@ -86,6 +86,12 @@ A “mix-minus” setup allows you to record Skype calls.
 
 * **[Pamela Call Recorder](http://www.pamela.biz/)** (15€) — Paid version supports unlimited recording, can record up to 15 minutes for free. <span style="color:red">**Note: Pamela has a mixed reputation reliability, and is listed here mostly for completeness’ sake.**</span>
 
+#### OS-level recording (Mac)
+
+
+
+#### OS-level recording (Windows)
+
 * **[Virtual Audio Cable](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm)**[, ](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm)**[Voicemeeter](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm)**[, ](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm)**[Voicemeeter Banana](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm)** \(donation requested\) — This "virtual mixer" software allows you to route audio between applications, meaning that you can send Skype output to a "virtual input" to record with Audacity or your [DAW](https://en.wikipedia.org/wiki/Digital_audio_workstation) of choice.
 
 ### iOS
