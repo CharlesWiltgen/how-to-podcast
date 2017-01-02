@@ -10,7 +10,7 @@ In general, the VoIP solution you use isn't going to influence call quality or r
 
 With any VoIP solution, a poor or too-slow internet connection will hurt call quality and reliability or even cause call failure. High-quality, reliable calls means that _you’re responsible_ for providing enough network and other (CPU, free recording space, etc.) resources to make that possible.
 
-## Options
+## Popular VoIP options
 
 Skype is by far the most popular VoIP solution for podcasters — you can use it not only with Skype users, and with anybody else with a phone number.
 
