@@ -56,6 +56,14 @@ You can also use EQ in the 1kHz–3kHz range to make male voices “pop”, and 
 
 ## Recording
 
+There are 3 ways to record Skype calls, 2 of which work with any VoIP solution:
+
+1. Skype plug-ins
+2. OS-level recorders
+3. Hardware
+
+Lately, my recommendation is to **avoid option #1**. The more I hear about issues with plug-ins (particularly free ones, particularly on Windows), the more I think these options #2 and #3 are the way to go.
+
 ### With software
 
 When recording with a computer there are two kinds of options: **Skype plug-ins** and **OS-level recorders**.
@@ -104,3 +112,6 @@ A “mix-minus” setup allows you to record Skype calls.
 
 (TBD)
 
+Just a quick reminder that you don't *have* to use Skype recording plug-ins to record your Skype calls.
+
+On Mac that means Soundflower (free), Piezo ($20) or Audio Hijack ($80). On Windows that means VoiceMeeter Banana (free), SnagIt ($50), or Total Recorder Pro ($36).
