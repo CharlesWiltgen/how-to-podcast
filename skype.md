@@ -36,6 +36,7 @@ Some VoIP solutions also help automate “multi-enders” — a workflow where h
 
 4. Change your Skype status to **"Do Not Disturb"** during the call, and suggest that your guest do the same. This will keep another call from coming in, which can throw off the conversation and create unwanted noises in your recording.
 
+5. If you’re using Skype, check that everything’s working correctly with the “Skype Test Call” service before talking with your guest. If you’re not using Skype, you can call a friend or even your own mobile phone.
 
 ## Tips and tricks
 
@@ -45,8 +46,7 @@ Some VoIP solutions also help automate “multi-enders” — a workflow where h
 
 * **DO NOT** record video unless you must. It almost inevitably impacts audio quality because Skype is working with a finite \(and usually small\) amount of upstream bandwidth.
 
-* **DO NOT** have lots of browser tabs open, since web pages can be serious CPU and bandwidth hogs. If you need a few web pages for show notes, scripts, etc. but don't want to lose your other tabs, consider using a separate browser just for shows. \(Related tip: Safari is by far the most efficient browser to use on macOS.\)
-
+* **DO NOT** have lots of browser tabs open, since web pages can be serious CPU and bandwidth hogs. If you need a few web pages for show notes, scripts, etc. but don't want to lose your other tabs, consider using a separate browser just for shows. (Related tip: Safari is by far the most efficient browser to use on macOS.)
 
 ## Processing Skype recordings
 
