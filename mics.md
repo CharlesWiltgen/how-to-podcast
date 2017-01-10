@@ -2,7 +2,7 @@
 
 You're gonna need a microphone or two. The cool kids call them “mics” \(pronounced “mikes”\).
 
-## Long story short
+## TLDR
 
 Buy one of these, depending on your needs and budget:
 
