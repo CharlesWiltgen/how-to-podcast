@@ -6,6 +6,13 @@ You're gonna need a microphone or two. The cool kids call them “mics” \(pron
 
 Buy one of these, depending on your needs and budget:
 
+### Under $50
+
+| Mic | Price | Interface | Type | Pickup pattern\(\s) |
+| --- | --- | --- | --- | --- |
+| [Behringer Ultravoice XM1800S 3-pack](https://www.amazon.com/dp/B000NJ2TIE) | $39 | USB/XLR | Dynamic | Cardioid |
+| [Monoprice Dynamic Vocal Mic](http://www.monoprice.com/product?p_id=600020) | $15 | USB/XLR | Dynamic | Cardioid |
+
 ### Under $100
 
 | Mic | Price | Interface | Type | Pickup pattern\(\s) |
