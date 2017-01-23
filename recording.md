@@ -40,10 +40,10 @@ bar
 
 **Audio interface**
 
-* ☑︎ Captures one track per input \(easier to process, edit\)
+* ☑︎ Captures one track per input (easier to process, edit)
 * ☑︎ Typically better A2D hardware
-* ☑︎ Typically supports better sample rates\/resolutions
-* ☑︎ Allows for a far more compact setup, easier to store\/transport
+* ☑︎ Typically supports better sample rates/resolutions
+* ☑︎ Allows for a far more compact setup, easier to store/transport
 * ☒ Clumsier for live/live-to-tape scenarios
 
 ### Software
