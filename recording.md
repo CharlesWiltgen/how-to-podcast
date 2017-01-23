@@ -30,6 +30,9 @@ I'm Team Audio Interface \(or recorder, although you can't do a mix-minus Skype 
 
 foo
 
+* [ ] Test
+* [x] Test
+
 - [ ] Test
 - [x] Test
 
