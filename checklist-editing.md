@@ -2,7 +2,8 @@
 
 ## Template
 
-
+* As you edit, build a template containing your bumpers and various tracks set up the way you like them
+* The template will commonly have tracks for the host(s), local guest(s), Skype/VoIP guests, music, incidental audio (you won’t use all of them every time)
 
 ## Prep
 
