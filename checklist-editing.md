@@ -1,5 +1,9 @@
 # Checklist: Editing
 
+## Template
+
+
+
 ## Prep
 
 * **Backup source**: Archive source recording to .zip file
