@@ -1,7 +1,6 @@
 Colophon & Credits
 =======
 
-
 ## Editors
 
 **Charles Wiltgen**  
