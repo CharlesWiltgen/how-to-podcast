@@ -4,4 +4,4 @@
 
 ### Social Media Services
 
-* [The Ultimate Guide to Instagram Analytics: Metrics, Insights, Tools, and Tips](https://blog.bufferapp.com/instagram-analytics)
+* [The Ultimate Guide to Instagram Analytics: Metrics, Insights, Tools, and Tips](https://blog.bufferapp.com/instagram-analytics) [Buffer]
