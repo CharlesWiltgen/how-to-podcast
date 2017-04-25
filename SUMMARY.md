@@ -25,4 +25,5 @@
 * [Checklist: Editing](checklist-editing.md)
 * [Production](production.md)
 * [Read Me](read-me.md)
+* [Players](players.md)
 
