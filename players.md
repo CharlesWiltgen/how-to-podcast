@@ -1,6 +1,6 @@
 ## Web
 
-| Player | Price |   |   |   |
+| Player | Price | WordPress |   |   |
 |---------------------------------------------------------|------|---|---|---|
 | [Smart Podcast Player](https://smartpodcastplayer.com/) | $96/year |   |   |   |
 | [WimpyPlayer](http://www.wimpyplayer.com/)              | Free |   |   |   |
