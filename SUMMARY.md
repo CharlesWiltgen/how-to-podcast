@@ -25,5 +25,5 @@
 * [Checklist: Editing](checklist-editing.md)
 * [Production](production.md)
 * [Read Me](read-me.md)
-* [Players](players/)
-* [Resources](resources/)
+* [Players](players/index.md)
+* [Resources](resources/index.md)
