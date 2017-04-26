@@ -96,6 +96,8 @@ OS-level recorders have a couple advantages: (1) They work with more than just S
 
 #### OS-level recorders (Windows)
 
+* **[Total Recorder SE](http://www.totalrecorder.com/productfr_tr.htm)** ($18) —  Record VoIP (Voice over IP) calls or Internet-telephony conversations when using programs like Skype, Google Talk, Yahoo voice, MSN, etc. Both parties can be recorded in a VoIP conversation. For more information, see their tutorial: [Recording VoIP Calls and Internet-telephony Conversations](http://www.totalrecorder.com/recording_Internet-telephony_conversations.htm).
+
 * **[SnagIt](https://www.techsmith.com/snagit.html)** ($50) — Capture audio and video. (Can’t record VoIP participants to separate channels. TechSmith blog post: [“How to Record Skype, Google Hangouts, and Webinars”](http://blogs.techsmith.com/tips-how-tos/how-to-record-skype-google-hangouts-and-webinars/))
 
 * [**Virtual Audio Cable**](http://vb-audio.pagesperso-orange.fr/Cable/index.htm), [**Voicemeeter**](http://vb-audio.pagesperso-orange.fr/Voicemeeter/index.htm), [**Voicemeeter Banana**](http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm) (donation requested) — This "virtual mixer" software allows you to route audio between applications, meaning that you can send Skype output to a "virtual input" to record with Audacity or your [DAW](https://en.wikipedia.org/wiki/Digital_audio_workstation) of choice.
