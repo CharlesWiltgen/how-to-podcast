@@ -1,7 +1,7 @@
 Resources
 =======
 
-## Podcast directories
+### Podcast directories
 
 At minimum, submit your podcast to both **iTunes** and **Stitcher**.
 
@@ -14,13 +14,13 @@ For all of the other directories you can submit your podcast, consult [**Podcast
 
 * [How Sound](http://transom.org/topics/howsound/) — Articles about audio storytelling
 
-## Fair use
+### Fair use
 
 Confusion around "fair use" is a constant. Here are resources to help you understand if your use of copyrighted materials may fall under U.S. copyright law "fair use" exemptions.
 
 * [The Fair Use App: An Interactive Guide for Filmmakers and Video Creators](http://www.newmediarights.org/fairuse/)
 
-## Podcasts about podcasting
+### Podcasts about podcasting
 
 * [Ask the Podcast Coach](http://askthepodcastcoach.com/) ([iTunes](http://www.schoolofpodcasting.com/askcoach))
 * [The Audacity to Podcast](https://theaudacitytopodcast.com/) ([RSS](http://feeds.noodle.mx/TheAudacitytoPodcast), [iTunes](https://theaudacitytopodcast.com/itunes), [Stitcher](https://theaudacitytopodcast.com/stitcher))
@@ -32,8 +32,10 @@ Confusion around "fair use" is a constant. Here are resources to help you unders
 * [School of Podcasting](http://schoolofpodcasting.com/) ([iTunes](http://www.schoolofpodcasting.com/itunes))
 * [The Showrunner](http://rainmaker.fm/series/showrunner/) ([RSS](http://rainmaker.fm/series/showrunner/feed/), [iTunes](https://itunes.apple.com/us/podcast/id980796147))
 
-Make social clips
+### Make social clips
 
-* [Auphonic](https://auphonic.com/blog/2017/04/25/audiogram-generator-waveform-videos/)
 * [Artwork.fm](https://www.artwork.fm/)
-
+* [Auphonic](https://auphonic.com/blog/2017/04/25/audiogram-generator-waveform-videos/)
+* [Clammr](https://www.clammr.com/)
+* [Wavve](https://wavve.video/)
+* [WNYC Audiogram Generator](https://medium.com/@WNYC/socialaudio-e648e8a5f2e9)
