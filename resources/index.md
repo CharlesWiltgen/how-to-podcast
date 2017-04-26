@@ -10,7 +10,7 @@ At minimum, submit your podcast to both **iTunes** and **Stitcher**.
 
 For all of the other directories you can submit your podcast, consult [**PodcastPlaces**](http://podcastplaces.com/).
 
-## Learning
+### Learning
 
 * [How Sound](http://transom.org/topics/howsound/) — Articles about audio storytelling
 
