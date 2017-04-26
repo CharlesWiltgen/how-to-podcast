@@ -6,7 +6,13 @@
 * [Headphones](headphones.md)
 * [Music](music.md)
 * [Recording](recording.md)
+
+### Remote participants/guests
+
 * [Skype and VoIP](skype.md)
+
+### Production
+
 * [After You Record](after-you-record.md)
   * [Editing](editing.md)
   * [Encoding](mp3.md)
