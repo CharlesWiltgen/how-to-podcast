@@ -2,12 +2,15 @@
 
 * [Welcome!](README.md)
 * [Identity](identity.md)
+
+### Gear
+
 * [Microphones](mics.md)
 * [Headphones](headphones.md)
 * [Music](music.md)
 * [Recording](recording.md)
 
-### Remote participants/guests
+### Remote participants & guests
 
 * [Skype and VoIP](skype.md)
 
