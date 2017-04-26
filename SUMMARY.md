@@ -26,3 +26,4 @@
 * [Production](production.md)
 * [Read Me](read-me.md)
 * [Players](players/)
+* [Resources](resources/)

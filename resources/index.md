@@ -31,3 +31,9 @@ Confusion around "fair use" is a constant. Here are resources to help you unders
 * [Podcasters Roundtable](http://podcastersroundtable.com/) ([RSS](http://podcastersroundtable.com/feed/podcast/), [iTunes](https://itunes.apple.com/us/podcast/podcasters-roundtable-podcasters/id548946224), [Stitcher](http://www.stitcher.com/s?fid=32335&refid=stpr))
 * [School of Podcasting](http://schoolofpodcasting.com/) ([iTunes](http://www.schoolofpodcasting.com/itunes))
 * [The Showrunner](http://rainmaker.fm/series/showrunner/) ([RSS](http://rainmaker.fm/series/showrunner/feed/), [iTunes](https://itunes.apple.com/us/podcast/id980796147))
+
+Make social clips
+
+* [Auphonic](https://auphonic.com/blog/2017/04/25/audiogram-generator-waveform-videos/)
+* [Artwork.fm](https://www.artwork.fm/)
+
