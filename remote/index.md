@@ -1,6 +1,6 @@
 # Overview
 
-There are two options for including remote participants while recording a podcast: **VoIP calls**, and **multi-enders**.
+Broadly, there are two options for including remote participants while recording a podcast: **VoIP calls**, and **multi-enders**.
 
 ## VoIP
 
