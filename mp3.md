@@ -1,1 +1,1 @@
-!REDIRECT "/encoding"
+!REDIRECT "encoding/index.md"
