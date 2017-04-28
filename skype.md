@@ -10,22 +10,6 @@ In general, the VoIP solution you use isn't going to influence call quality or r
 
 With any VoIP solution, a poor or too-slow internet connection will hurt call quality and reliability or even cause call failure. High-quality, reliable calls means that _you’re responsible_ for providing enough network and other (CPU, free recording space, etc.) resources to make that possible.
 
-## Popular VoIP options
-
-Skype is by far the most popular VoIP solution for podcasters — you can use it not only with Skype users, and with anybody else with a phone number.
-
-* **[Skype](http://skype.com/)**
-* **[Google Hangouts](https://hangouts.google.com/)**
-* Slack
-* Discord
-* Zoom
-
-Some VoIP solutions also help automate “multi-enders” — a workflow where high-quality call recording is done on each participant’s side as well and then merged after.
-
-* Zencastr
-* Ringr
-* Cleanfeed
-
 ## Pre-call checklist
 
 1. Use a **wired connection** to the internet if at all possible, and ask other participants to do the same. Connect your PC or laptop to your router or cable modem with an Ethernet cable to \(1\) prevent wireless interference and other issues from ruining your interview, and \(2\) improves the odds of Skype being able to use its highest-quality mode.
