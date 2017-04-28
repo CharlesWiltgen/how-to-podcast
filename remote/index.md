@@ -37,7 +37,7 @@ There are 3 ways to record VoIP calls, one of which is Skype-specific:
 2. OS-level recorders
 3. Hardware
 
-Lately, my recommendation is to **avoid option #1**. The more I hear about issues with plug-ins (particularly free ones, particularly on Windows), the more I think these options #2 and #3 are the way to go.
+My recommendation is to **avoid option #1**. The more I hear about issues with plug-ins (particularly free ones, particularly on Windows), the more I think these options #2 and #3 are the way to go.
 
 ### With software
 
