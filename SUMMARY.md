@@ -3,18 +3,19 @@
 * [Welcome!](README.md)
 * [Identity](identity.md)
 
-### Gear
+## Gear
 
 * [Microphones](mics.md)
 * [Headphones](headphones.md)
 * [Music](music.md)
 * [Recording](recording.md)
 
-### Remote participants & guests
+## Remote guests & co-hosts
 
+* [Overview](remote/index.md)
 * [Skype and VoIP](skype.md)
 
-### Production
+## Production
 
 * [Editing](editing.md)
 * [Encoding](encoding/index.md)
@@ -35,3 +36,4 @@
 * [Read Me](read-me.md)
 * [Players](players/index.md)
 * [Resources](resources/index.md)
+
