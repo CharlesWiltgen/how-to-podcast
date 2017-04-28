@@ -18,7 +18,7 @@
 
 * [After You Record](after-you-record.md)
   * [Editing](editing.md)
-  * [Encoding](mp3.md)
+  * [Encoding](encoding/index.md)
 * [Hosting](hosting.md)
 * [Artwork](artwork.md)
 * [Submit to Directories](submitting.md)
