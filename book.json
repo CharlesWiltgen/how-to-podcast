@@ -2,8 +2,7 @@
   "plugins": [
     "autocover",
     "edit-link",
-    "simple-page-toc",
-    "redirect"
+    "simple-page-toc"
   ],
   "pluginsConfig": {
     "autocover": {
