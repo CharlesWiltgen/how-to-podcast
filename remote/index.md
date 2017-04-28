@@ -1,6 +1,6 @@
 # Overview
 
-There are two options for including remote participants — VoIP calls, and “multi-enders”.
+There are two options for including remote participants — **VoIP calls**, and **multi-enders**.
 
 ## VoIP
 
