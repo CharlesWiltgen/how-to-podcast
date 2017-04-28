@@ -42,8 +42,8 @@ Commercial software generally include a licensed Fraunhofer encoder. Open source
 
 #### Apps known to use Fraunhofer’s MP3 encoder
 
-* Audition
 * iTunes
+* Audition
 * iZotope RX 6/RX 6 Advanced
 
 #### Apps known to use LAME
