@@ -16,7 +16,6 @@
 
 ### Production
 
-* [After You Record](after-you-record.md)
 * [Editing](editing.md)
 * [Encoding](encoding/index.md)
 * [Hosting](hosting.md)
