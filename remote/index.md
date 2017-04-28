@@ -88,7 +88,3 @@ OS-level recorders have a couple advantages: (1) They work with more than just S
 A “mix-minus” setup allows you to record Skype calls.
 
 (TBD)
-
-Just a quick reminder that you don't *have* to use Skype recording plug-ins to record your Skype calls.
-
-On Mac that means Soundflower (free), Piezo ($20) or Audio Hijack ($80). On Windows that means VoiceMeeter Banana (free), SnagIt ($50), or Total Recorder Pro ($36).
