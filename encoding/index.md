@@ -44,6 +44,7 @@ Commercial software generally include a licensed Fraunhofer encoder. Open source
 
 * Audition
 * iTunes
+* iZotope RX 6/RX 6 Advanced
 
 #### Apps known to use LAME
 
