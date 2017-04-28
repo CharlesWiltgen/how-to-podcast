@@ -1,6 +1,6 @@
 # Overview
 
-There are two options for including remote participants — **VoIP calls**, and **multi-enders**.
+There are two options for including remote participants while recording a podcast: **VoIP calls**, and **multi-enders**.
 
 ## VoIP
 
@@ -10,16 +10,21 @@ Skype the most popular example of this, and (not surprisingly) the most popular 
 
 Other popular options include:
 
-* **[Skype](http://skype.com/)**
-* **[Google Hangouts](https://hangouts.google.com/)**
+* **[Skype](http://skype.com/)** 🔥
+* **[Google Hangouts](https://hangouts.google.com/)** 🔥
 * **[Slack](https://slack.com/)**
 * **[Discord](https://discordapp.com/)**
 * **[Zoom.us](https://zoom.us/)**
+
+(🔥 = most popular choices)
 
 ## Multi-enders
 
 Some VoIP solutions also help automate “multi-enders” — a workflow where high-quality call recording is done on each participant’s side as well and then merged after.
 
-* Zencastr
-* Ringr
-* Cleanfeed
+* **[Cast](https://tryca.st/)**
+* **[Cleanfeed](http://cleanfeed.net/)**
+* **[Ringr](https://www.ringr.com/)** 🔥
+* **[Zencastr](https://zencastr.com/)** 🔥
+
+(🔥 = most popular choices)
