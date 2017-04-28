@@ -1,4 +1,4 @@
-# Overview
+# Options
 
 Broadly, there are two options for including remote participants while recording a podcast: **VoIP calls**, and **multi-enders**.
 
@@ -28,3 +28,5 @@ Some VoIP solutions also help automate “multi-enders” — a workflow where h
 * **[Zencastr](https://zencastr.com/)** 🔥
 
 (🔥 = most popular choices)
+
+# Recording VoIP calls
