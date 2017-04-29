@@ -17,7 +17,7 @@
 
 ## Production
 
-* [Editing](editing.md)
+* [Editing](editing/index.md)
 * [Encoding](encoding/index.md)
 * [Hosting](hosting.md)
 * [Artwork](artwork.md)
