@@ -10,7 +10,7 @@
 * [Music](music.md)
 * [Recording](recording.md)
 
-## Remote guests & co-hosts
+## Remote Guests & Co-Hosts
 
 * [Overview](remote/index.md)
 * [VoIP/Skype Secrets](voip-secrets/index.md)
