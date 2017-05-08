@@ -13,7 +13,7 @@
 ## Remote guests & co-hosts
 
 * [Overview](remote/index.md)
-* [Skype and VoIP](skype.md)
+* [VoIP/Skype Secrets](voip-secrets/index.md)
 
 ## Production
 
