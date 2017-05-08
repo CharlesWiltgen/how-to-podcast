@@ -1,4 +1,4 @@
-# Skype and VoIP
+# Secrets to great VoIP/Skype calls
 
 [“Voice over IP”](https://en.wikipedia.org/wiki/Voice_over_IP) is internet telephony — a great way to conduct **remote interviews**, and include **remote co-hosts and guests** in your podcast.
 
