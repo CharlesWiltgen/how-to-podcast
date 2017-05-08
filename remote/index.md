@@ -18,7 +18,7 @@ Skype the most popular example of this, and (not surprisingly) the most popular 
 
 VoIP calls can be recorded using software or hardware.
 
-## Multi-enders
+## Multi-enders (a.k.a. “double-enders”)
 
 Some VoIP solutions also help automate “multi-enders” — a workflow where high-quality call recording is done on each participant’s side as well and then merged after.
 
