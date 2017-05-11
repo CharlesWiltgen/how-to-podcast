@@ -2,9 +2,6 @@
 
 ### Hosts
 
-* Water
-
-- [ ] Write some articles
-- [x] Drink a cup of tea
+- [ ] Water
 
 ### Using Skype?
