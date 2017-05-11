@@ -1,4 +1,4 @@
-**CPM** • Advertising term meaning "cost per thousand impressions". In the case of podcasting, "impression" means "unique download". If your ad rate is $25 CPM, and you have 10,000 downloads, you’ll get $250. (Trivia: Why “CPM” instead of “CPT”? Roman numeral “mille” = “M” = 1,000.)
+**CPM** • Advertising term meaning "cost per thousand impressions". In the case of podcasting, "impression" means "unique download". If your ad rate is $25 CPM, and you have 10,000 downloads, you’ll get $250. (Trivia: Why “CPM” instead of “CPT”? “M” = Roman numeral “mille” = 1,000.)
 
 **download** • 
 
