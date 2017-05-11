@@ -6,6 +6,8 @@ Broadly, there are two options for including remote participants while recording
 
 “Voice over IP” solutions enable voice and/or video calls over the internet.
 
+### Consumer/business VoIP
+
 Skype the most popular example of this, and (not surprisingly) the most popular VoIP option for podcasters. It supports high-quality Skype-to-Skype calls via desktop, mobile, and web apps, and phone-quality calls with anybody else with a phone number.
 
 * **[Skype](http://skype.com/)** 🔥
