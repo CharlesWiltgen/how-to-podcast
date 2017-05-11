@@ -20,11 +20,11 @@ VoIP calls can be recorded using software or hardware.
 
 ### “Pro” VoIP
 
-The main differentiator for these services is that you can (and must) choose 
+The main differentiator for these services is that you can use very-high bitrates — high enough to make it sound like callers are in the same room.
 
-* **[Source-Connect Now](https://now.source-elements.com/)** — While in beta, Source-Connect Now is free. When out of beta, pricing will start at $8/month, with a middle tier plan at $24/month. 
+* **[Source-Connect Now](https://now.source-elements.com/)** — While in beta, **Source-Connect Now is free**. When out of beta, pricing will start at $8/month, with a middle tier plan at $24/month. 
 
-* **[ipDTL](https://ipdtl.com/)** — ipDTL starts at $30/month for web-only calls at 72 kbits/sec, up to $70/month for plans that support for “HQ” audio, video and calling landline/mobile phones.
+* **[ipDTL](https://ipdtl.com/)** — ipDTL starts at $30/month for web-only calls at 72 kbits/sec, up to $70/month for plans that support for “HQ” audio, video and the ability to call landline/mobile phones.
 
 ## Multi-enders (a.k.a. “double-enders”)
 
