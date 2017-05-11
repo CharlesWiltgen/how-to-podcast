@@ -18,6 +18,14 @@ Skype the most popular example of this, and (not surprisingly) the most popular 
 
 VoIP calls can be recorded using software or hardware.
 
+### “Pro” VoIP
+
+The main differentiator for these services is that you can (and must) choose 
+
+* **[Source-Connect Now](https://now.source-elements.com/)** — While in beta, Source-Connect Now is free. When out of beta, pricing will start at $8/month, with a middle tier plan at $24/month. 
+
+* **[ipDTL](https://ipdtl.com/)** — ipDTL starts at $30/month for web-only calls at 72 kbits/sec, up to $70/month for plans that support for “HQ” audio, video and calling landline/mobile phones.
+
 ## Multi-enders (a.k.a. “double-enders”)
 
 Some VoIP solutions also help automate “multi-enders” — a workflow where high-quality call recording is done on each participant’s side as well and then merged after.
