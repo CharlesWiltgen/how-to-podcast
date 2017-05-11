@@ -35,5 +35,8 @@
 * [Production](production.md)
 * [Read Me](read-me.md)
 * [Players](players/index.md)
-* [Resources](resources/index.md)
 
+## Appendix
+
+* [Resources](resources/index.md)
+* [Glossary](glossary/index.md)
