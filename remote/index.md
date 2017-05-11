@@ -22,7 +22,7 @@ VoIP calls can be recorded using software or hardware.
 
 ### “Pro” VoIP
 
-The main differentiator for these services is that you can use very-high bitrates — high enough to make it sound like callers are in the same room.
+The main differentiator for these services is that you can use very-high bitrates — high enough that remote participants can sound like they're in the same room.
 
 * **[Source-Connect Now](https://now.source-elements.com/)** — While in beta, **Source-Connect Now is free**. When out of beta, pricing will start at $8/month, with a middle tier plan at $24/month. 
 
