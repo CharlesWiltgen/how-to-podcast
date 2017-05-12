@@ -1,6 +1,6 @@
-**CPM** • Advertising term meaning "cost per thousand impressions". In the case of podcasting, "impression" means "unique download". If your ad rate is $25 CPM, and you have 10,000 downloads, you’ll get $250. (Trivia: Why “CPM” instead of “CPT”? “M” = Roman numeral “mille” = 1,000.)
+<a name="cpm">**CPM**</a> • Advertising term meaning "cost per thousand impressions". In the case of podcasting, "impression" means "unique download". If your ad rate is $25 CPM, and you have 10,000 downloads, you’ll get $250. (Trivia: Why “CPM” instead of “CPT”? “M” = Roman numeral “mille” = 1,000.)
 
-**download** • 
+<a name="download">**download**</a> • 
 
 <a name="episode">**episode**</a> • The atomic unit of podcasting. A “<a href="#podcast">podcast</a>” is a collection of one or more “episodes”. In the podcast feed, an episode is represented as an `<item>` with an `<enclosure>`.
 
