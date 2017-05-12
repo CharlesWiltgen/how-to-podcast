@@ -2,7 +2,7 @@
 
 <a name="download">**download**</a> • 
 
-<a name="episode">**episode**</a> • The atomic unit of podcasting. A “<a href="#podcast">podcast</a>” is a collection of one or more “episodes”. In the podcast feed, an episode is represented as an `<item>` with an `<enclosure>`.
+<a name="episode">**episode**</a> • The atomic unit of podcasting. A “<a href="#podcast">podcast</a>” is a collection of one or more “episodes”. In the podcast feed, an episode is represented as an `<item>` which includes an `<enclosure>` (a link to the episode’s media file) and metadata about the episode.
 
 <a name="live-streaming">**live streaming**</a> • A way to distribute content that has nothing to do with podcasting. You can record a livestream of a _show_ and distribute _that_ as a podcast, but anyone who uses the phrase “live podcast” should be pummeled about the head and neck with a cucumber until they use words correctly.
 
