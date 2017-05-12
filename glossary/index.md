@@ -1,8 +1,14 @@
+<a name="audio-interface">**audio interface**</a> • 
+
 <a name="cpm">**CPM**</a> • Advertising term meaning "cost per thousand impressions". In the case of podcasting, "impression" means "unique download". If your ad rate is $25 CPM, and you have 10,000 downloads, you’ll get $250. (Trivia: Why “CPM” instead of “CPT”? “M” = Roman numeral “mille” = 1,000.)
+
+<a name="daw">**DAW**</a> • 
 
 <a name="download">**download**</a> • 
 
 <a name="episode">**episode**</a> • The atomic unit of podcasting. A “<a href="#podcast">podcast</a>” is a collection of one or more “episodes”. In the podcast feed, an episode is represented as an `<item>` which includes an `<enclosure>` (a link to the episode’s media file) and metadata about the episode.
+
+**gain**
 
 <a name="live-streaming">**live streaming**</a> • A way to distribute content that has nothing to do with podcasting. You can record a livestream of a _show_ and distribute _that_ as a podcast, but anyone who uses the phrase “live podcast” should be pummeled about the head and neck with a cucumber until they use words correctly.
 
@@ -18,13 +24,10 @@
 
 <a name="unique-download">**unique download**</a> • 
 
-audio interface
 
-gain
 
 preamp
 
-DAW
 
 clipping
 
