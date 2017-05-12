@@ -4,6 +4,8 @@
 
 <a name="episode">**episode**</a> • The atomic unit of podcasting. A “<a href="#podcast">podcast</a>” is a collection of one or more “episodes”. In the podcast feed, an episode is represented as an `<item>` with an `<enclosure>`.
 
+<a name="live-streaming">**live streaming**</a> • A way to distribute content that has nothing to do with podcasting. You can record a livestream of your show and distribute _that_ as a podcast, but anyone who uses the phrase “live podcast” should be pummeled about the head and neck with a cucumber.
+
 <a name="lufs">**LUFS**</a> • An acronym for “Loudness Units Relative to Full Scale”, all you really need to know is that it’s a standard way to measure how loud something is. For podcasts, the defacto standard is -16 LUFS for stereo or -19 LUFS for mono — both are perceptually equivalent. This matches loudness standards for services like iTunes and Spotify, helping ensure that listeners aren’t subject to wild volume swings as they enjoy different audio content.
 
 <a name="podcast">**podcast**</a> • A show distributed in an open, standards-based way that we call “podcasting”. Critically, “podcast” doesn’t refer to a particular kind of content but how it’s delivered. A good litmus test for “Is this a podcast?” is whether it can be played in Apple Podcasts and other true podcast apps — if it can, it’s a podcast.
