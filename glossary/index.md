@@ -55,3 +55,9 @@ mix-minus
 multitrack recording
 
 G.A.S.
+
+compressor
+
+leveler
+
+normalization
