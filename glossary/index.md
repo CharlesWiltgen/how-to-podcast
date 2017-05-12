@@ -10,6 +10,8 @@
 
 **gain**
 
+<a name="gas">**GAS**</a> • Gear Acquisition Syndrome
+
 <a name="live-streaming">**live streaming**</a> • A way to distribute content that has nothing to do with podcasting. You can record a livestream of a _show_ and distribute _that_ as a podcast, but anyone who uses the phrase “live podcast” should be pummeled about the head and neck with a cucumber until they use words correctly.
 
 <a name="lufs">**LUFS**</a> • An acronym for “Loudness Units Relative to Full Scale”, all you really need to know is that it’s a standard way to measure how loud something is. For podcasts, the defacto standard is -16 LUFS for stereo or -19 LUFS for mono — both are perceptually equivalent. This matches loudness standards for services like iTunes and Spotify, helping ensure that listeners aren’t subject to wild volume swings as they enjoy different audio content.
