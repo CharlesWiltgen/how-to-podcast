@@ -10,6 +10,8 @@
 
 <a name="metadata">**metadata**</a> • 
 
+<a name="phantom-power">**phantom power**</a> • 
+
 <a name="podcast">**podcast**</a> • A show distributed in an open, standards-based way that we call “podcasting”. Critically, “podcast” doesn’t refer to a particular _kind_ of content but _how it’s delivered_. A good litmus test for “Is this a podcast?” is whether it can be played in Apple Podcasts and other true podcast apps — if it can, it’s a podcast.
 
 <a name="podcast-network">**podcast network**</a> • A podcast network is a collection of podcasts that are produced and/or distributed through a single company, or network. A typical benefit of a podcast network is that the member podcasts can be made available to advertisers as a group, instead of individually.
