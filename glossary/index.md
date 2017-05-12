@@ -8,7 +8,9 @@
 
 <a name="episode">**episode**</a> • The atomic unit of podcasting. A “<a href="#podcast">podcast</a>” is a collection of one or more “episodes”. In the podcast feed, an episode is represented as an `<item>` which includes an `<enclosure>` (a link to the episode’s media file) and metadata about the episode.
 
-**gain**
+<a name="eq">**EQ**</a> • 
+
+<a name="gain">**gain**</a> • 
 
 <a name="gas">**GAS**</a> • Gear Acquisition Syndrome
 
