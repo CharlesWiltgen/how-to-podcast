@@ -1,4 +1,4 @@
 # Growing Your Audience
 
-Growth = product/market fit + letting potential listens for your market know about the product.
+Growth = product/market fit + letting potential listeners/subscribers from that market know about the product.
 
