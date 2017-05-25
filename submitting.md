@@ -2,7 +2,7 @@
 
 To make it easy for people to find you, submit your podcast feed to podcast directories.
 
-At minimum, submit your podcast to iTunes and Stitcher. Most apps use the iTunes podcast directory, while Stitcher has their own (and is quite popular).
+At minimum, submit your podcast to **iTunes** and **Stitcher**. Most apps use the iTunes podcast directory, while Stitcher has their own (and is quite popular).
 
 ### Submit to iTunes
 
