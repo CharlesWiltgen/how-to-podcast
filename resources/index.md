@@ -1,4 +1,4 @@
-Other Resources
+More Resources
 =======
 
 ## GarageBand
