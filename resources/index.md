@@ -1,18 +1,9 @@
-Resources
+Other Resources
 =======
 
 ## GarageBand
 
 * [Use plug-ins in GarageBand to improve podcast sound](https://sixcolors.com/post/2015/08/add-podcasting-plug-ins-in-garageband/) [Six Colors]
-
-## Podcast directories
-
-At minimum, submit your podcast to both **iTunes** and **Stitcher**.
-
-* [Submit podcast to iTunes](https://help.apple.com/itc/podcasts_connect/#/itcd88ea40b9)
-* [Submit podcast to Stitcher](http://www.stitcher.com/content-providers)
-
-For all of the other directories you can submit your podcast, consult [**PodcastPlaces**](http://podcastplaces.com/).
 
 ## Learning
 
