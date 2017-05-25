@@ -27,6 +27,13 @@ Confusion around "fair use" is a constant. Here are resources to help you unders
 * [School of Podcasting](http://schoolofpodcasting.com/) ([iTunes](http://www.schoolofpodcasting.com/itunes))
 * [The Showrunner](http://rainmaker.fm/series/showrunner/) ([RSS](http://rainmaker.fm/series/showrunner/feed/), [iTunes](https://itunes.apple.com/us/podcast/id980796147))
 
+## Printing
+
+### Business cards, postcards, etc.
+
+* [PsPrint](https://www.psprint.com/)
+* [VistaPrint](http://www.vistaprint.com/)
+
 ## Make sharable audio clips
 
 * [Artwork.fm](https://www.artwork.fm/)
