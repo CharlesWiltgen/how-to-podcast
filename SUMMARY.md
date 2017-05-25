@@ -22,8 +22,6 @@
 * [Hosting](hosting.md)
 * [Artwork](artwork.md)
 * [Submit to Directories](submitting.md)
-* [Growing Your Audience](growing-your-audience.md)
-  * [Marketing](marketing.md)
 * [Monetization](monetization.md)
 * [iTunes](itunes.md)
 * [Legal Stuff](legal.md)
@@ -34,6 +32,11 @@
 * [Production](production.md)
 * [Read Me](read-me.md)
 * [Players](players/index.md)
+
+## Marketing
+
+* [Marketing](marketing.md)
+* [Growing Your Audience](growing-your-audience.md)
 
 ## Appendix
 
