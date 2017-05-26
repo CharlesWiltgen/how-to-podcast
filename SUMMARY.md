@@ -38,6 +38,10 @@
 * [Marketing](marketing.md)
 * [Growing Your Audience](growing-your-audience.md)
 
+## Legal
+
+* [Copyright & Fair Use](copyright-fair-use/index.md)
+
 ## Appendix
 
 * [Resources](resources/index.md)
