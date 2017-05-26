@@ -9,13 +9,6 @@ More Resources
 
 * [How Sound](http://transom.org/topics/howsound/) — Articles about audio storytelling
 
-## Fair use
-
-Confusion around "fair use" is a constant. Here are resources to help you understand if your use of copyrighted materials may fall under U.S. copyright law "fair use" exemptions.
-
-* [The Fair Use App: An Interactive Guide for Filmmakers and Video Creators](http://www.newmediarights.org/fairuse/)
-* [Fair Use Checklist](https://copyright.columbia.edu/basics/fair-use/fair-use-checklist.html) by Columbia University Libraries [[direct PDF link](https://copyright.columbia.edu/content/dam/copyright/Precedent%20Docs/fairusechecklist.pdf)]
-
 ## Podcasts about podcasting
 
 * [Ask the Podcast Coach](http://askthepodcastcoach.com/) ([iTunes](http://www.schoolofpodcasting.com/askcoach))
