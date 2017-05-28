@@ -44,12 +44,12 @@ Commercial software generally include a licensed Fraunhofer encoder. Open source
 
 * iTunes
 * Audition
-* iZotope RX 6/RX 6 Advanced
 
 #### Apps known to use LAME
 
 * Audacity
 * Hindenberg
+* iZotope RX 6/RX 6 Advanced
 
 ## Bitrate
 
