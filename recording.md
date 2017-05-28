@@ -41,6 +41,8 @@ I'm Team Audio Interface \(or recorder, although you can't do a mix-minus Skype 
 #### iOS
 
 * [Capture for iPad](http://www.presonus.com/products/Capture-for-iPad)
+* [Spire: Multitrack Music Recorder](https://itunes.apple.com/app/id1013021109) by iZotope (free)
+* [MultiTrack DAW](https://itunes.apple.com/us/app/multitrack-daw/id329322101?mt=8) by Harmonicdog
 
 ## Mixers
 
