@@ -14,6 +14,11 @@
     "simple-page-toc": {
       "maxDepth": 3,
       "skipFirstH1": true
+    },
+    {
+    "plugins": ["styles-sass"],
+    "styles": {
+        "website": "./styles/website.scss"
     }
   }
 }
