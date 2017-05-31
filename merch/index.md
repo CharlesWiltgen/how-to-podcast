@@ -1,4 +1,4 @@
-# Merchandise
+# Merchandise & Printing
 
 | Vendor | Products |
 | ------ | -------- |
