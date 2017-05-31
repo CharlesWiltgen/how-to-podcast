@@ -21,12 +21,10 @@ More Resources
 * [School of Podcasting](http://schoolofpodcasting.com/) ([iTunes](http://www.schoolofpodcasting.com/itunes))
 * [The Showrunner](http://rainmaker.fm/series/showrunner/) ([RSS](http://rainmaker.fm/series/showrunner/feed/), [iTunes](https://itunes.apple.com/us/podcast/id980796147))
 
-## Printing
+## Paid memberships
 
-### Business cards, postcards, etc.
-
-* [PsPrint](https://www.psprint.com/)
-* [VistaPrint](http://www.vistaprint.com/)
+* [Memberful](https://memberful.com/)
+* [Patreon](https://www.patreon.com/)
 
 ## Make sharable audio clips
 
