@@ -1,7 +1,7 @@
 # Merchandise
 
-| Vendor |T-shirts| Other Clothes | Stickers | Printing |
-| ------ |:------:|:-------------:|:--------:|:--------:|
+| Vendor | T-shirts | More Clothes | Stickers | More Printing |
+| ------ |:--------:|:------------:|:--------:|:-------------:|
 | [CafePress](http://www.cafepress.com/) | ⬤ | · | · | · |
 | [Merch by Amazon](https://merch.amazon.com/landing) (ask for invite) | ⬤ | · | · | · |
 | [Printful](https://merch.amazon.com/landing) | ⬤ | ⬤ | ⬤ |- |
