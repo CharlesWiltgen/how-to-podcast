@@ -8,5 +8,5 @@
 | [Redbubble](https://www.redbubble.com/) | ⬤ |
 | [Spreadshirt](https://www.spreadshirt.com/) | ⬤ |
 | [StickerMule](https://www.stickermule.com/) | Stickers, labels, magnets, buttons |
-| [TeePublic](https://www.teepublic.com/) | ⬤ |
-| [Teespring](https://teespring.com/) | ⬤ |
+| [TeePublic](https://www.teepublic.com/) | T-shirts |
+| [Teespring](https://teespring.com/) | T-shirts |
