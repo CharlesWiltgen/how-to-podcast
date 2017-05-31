@@ -32,4 +32,4 @@ More Resources
 * [Auphonic](https://auphonic.com/blog/2017/04/25/audiogram-generator-waveform-videos/)
 * [Clammr](https://www.clammr.com/)
 * [Wavve](https://wavve.video/)
-* [WNYC Audiogram Generator](https://medium.com/@WNYC/socialaudio-e648e8a5f2e9)
+* [WNYC Audiogram Generator](https://medium.com/@WNYC/socialaudio-e648e8a5f2e9) (some assembly required)
