@@ -6,6 +6,8 @@ Confusion around "fair use" is a constant. Here are resources to help you unders
 
 ## Fair Use
 
+Fair use isn’t a right, but a legal defense.
+
 ## Resources
 
 * [Why Can’t Music Be Played in Podcasts?](http://www.amplifimedia.com/blogstein/2017/5/24/why-cant-music-be-played-in-podcasts)
