@@ -57,7 +57,7 @@ pop filter
 
 plosives
 
-mix-minus
+<a name="mix-minus">**mix-minus**</a> • A way of configuring your VoIP/Skype recording setup so that (1) all local participants hear the remote participant, but (2) the remote participant hears everyone *except* (minus!) themselves. This prevents the remote participant from hearing a delayed version of everything they’re saying, which totally messes with their ability to speak.
 
 multitrack recording
 
