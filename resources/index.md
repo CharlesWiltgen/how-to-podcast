@@ -36,3 +36,8 @@ More Resources
 * [Clammr](https://www.clammr.com/)
 * [Wavve](https://wavve.video/)
 * [WNYC Audiogram Generator](https://medium.com/@WNYC/socialaudio-e648e8a5f2e9) (some assembly required)
+
+## Transcription
+
+* **[Rev](https://www.rev.com/)** — 99% accurate transcriptions, $64/hour.
+* **[Trint](https://trint.com/)** — Cheap ($15/hour) machine-assisted transcription.
