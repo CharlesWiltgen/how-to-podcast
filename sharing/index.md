@@ -9,7 +9,6 @@
 [“23 Tools and Resources to Create Images for Social Media”](
 https://blog.bufferapp.com/tools-create-images-for-social-media) [Buffer]
 
-https://blog.bufferapp.com/tools-create-images-for-social-media
 ## Make sharable audio clips
 
 * [Artwork.fm](https://www.artwork.fm/)
