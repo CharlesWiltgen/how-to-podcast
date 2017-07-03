@@ -6,8 +6,7 @@
 * [Buffer Pablo](https://pablo.buffer.com/)
 * [Canva](https://www.canva.com/)
 
-[“23 Tools and Resources to Create Images for Social Media”](
-https://blog.bufferapp.com/tools-create-images-for-social-media) [Buffer]
+[“23 Tools and Resources to Create Images for Social Media”](https://blog.bufferapp.com/tools-create-images-for-social-media) [Buffer]
 
 ## Make sharable audio clips
 
