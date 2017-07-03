@@ -37,6 +37,7 @@
 
 * [Marketing](marketing.md)
 * [Growing Your Audience](growing-your-audience.md)
+* [Sharing](sharing/index.md)
 
 ## Other Stuff
 
