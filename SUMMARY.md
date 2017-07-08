@@ -7,7 +7,7 @@
 
 * [Microphones](mics.md)
 * [Headphones](headphones.md)
-* [Music](music.md)
+* [Music](music/index.md)
 * [Recording](recording.md)
 
 ## Remote Guests & Co-Hosts
