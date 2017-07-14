@@ -12,6 +12,6 @@ Additional tools: [â€œ23 Tools and Resources to Create Images for Social Mediaâ€
 
 * [Artwork.fm](https://www.artwork.fm/)
 * [Auphonic](https://auphonic.com/blog/2017/04/25/audiogram-generator-waveform-videos/)
-* ~~[Clammr](https://www.clammr.com/)~~ *[Clammer is shutting down on 2017/07/02]*
-* [Wavve](https://wavve.video/)
+* ~~[Clammr](https://www.clammr.com/)~~ *[Clammer shut down on 2017/07/02]*
+* [Wavve](http://getwavve.com/)
 * [WNYC Audiogram Generator](https://medium.com/@WNYC/socialaudio-e648e8a5f2e9) (some assembly required)
