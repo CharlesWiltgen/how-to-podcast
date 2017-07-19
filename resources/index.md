@@ -7,10 +7,10 @@ More Resources
 
 ## Learning
 
-* [NPR Training](http://training.npr.org/) — Storytelling tips and best practices
-* [Transom: Techniques](http://transom.org/topics/techniques/) — Practical posts and how-to’s on the craft
-* [Transom: Tools](http://transom.org/topics/tools/) — In-depth reviews of digital recorders, microphones, editing software and more
-* [Podcast101: Creating and Hosting an Audio Podcast](https://itunes.apple.com/us/book/podcast101-creating-hosting/id498143383) by Rob Walch — An iBook by industry expert and VP of Podcaster Relations at Libsyn
+* **[NPR Training](http://training.npr.org/)** — Storytelling tips and best practices
+* **[Transom: Techniques](http://transom.org/topics/techniques/)** — Practical posts and how-to’s on the craft
+* **[Transom: Tools](http://transom.org/topics/tools/)** — In-depth reviews of digital recorders, microphones, editing software and more
+* **[Podcast101: Creating and Hosting an Audio Podcast](https://itunes.apple.com/us/book/podcast101-creating-hosting/id498143383)** by Rob Walch — An iBook by industry expert and VP of Podcaster Relations at Libsyn
 
 ## Podcasts about podcasting
 
@@ -27,8 +27,8 @@ More Resources
 
 ## Paid memberships
 
-* [Memberful](https://memberful.com/)
-* [Patreon](https://www.patreon.com/)
+* **[Memberful](https://memberful.com/)**
+* **[Patreon](https://www.patreon.com/)**
 
 ## Transcription
 
