@@ -19,9 +19,9 @@ You'll find a million articles on the web about content marketing. Here's a list
 
 1. Do you create newsworthy shows?  Apply for inclusion in [**Google News**](https://partnerdash.google.com/partnerdash/d/news#p:id=pfehome).
 
-1. Some podcasts hosts (like [LibSyn](https://www.libsyn.com/custom-mobile-apps/)) allow you to turn your podcast into an app dedicated to your podcast.  This can help people find you via the iTunes and Google app stores.
+1. Some podcasts hosts (like [LibSyn](https://www.libsyn.com/custom-mobile-apps/)) allow you to turn your podcast into an app dedicated to your podcast. This can help people find you via the iTunes and Google app stores.
 
-1. Make business cards.  Good ones — like, [**Moo**](http://moo.com/) good. You never know when you'll meet a potential listener, advertiser or sponsor.  A card is the best way to help someone find you after a meetup, flight, trade show, etc.
+1. Make business cards.  Good ones — like, [**Moo**](http://moo.com/) good. You never know when you'll meet a potential listener, advertiser or sponsor. A card is the best way to help someone find you after a meetup, flight, trade show, etc.
 
 #### Spread infectious enthusiasm
 
@@ -29,7 +29,7 @@ You'll find a million articles on the web about content marketing. Here's a list
 
 1. Join [**LinkedIn**](linkedin.com) groups related to your podcast topic.  Check in regularly and contribute to conversations.  Try to resist plugging your podcast, except when a link to an episode would be a legitimately-helpful resource.
 
-1. Put out episodes regularly.  One per week (or more) is ideal, but one every two weeks is fine.
+1. Put out episodes regularly.  One per week (or more) is ideal, but one every two weeks is fine — consistency trumps all.
 
 1. Make your podcast title more discoverable with keywords.  Bad: *"Close Call"*.  Good: *"Close Call – Funny Phone Calls with Our Neighbors"*.
 
@@ -37,11 +37,9 @@ You'll find a million articles on the web about content marketing. Here's a list
 
 1. Create a community around your podcast's topic.  Ideally, do this as a forum on your site so your podcast's domain reaps the benefit as [Google juice](https://en.wikipedia.org/wiki/Google_juice).
 
-1. Create a page for your podcast on Facebook.
+1. Create a page for your podcast on Facebook. Or better, if your podcast lends itself to community discussions create a Facebook group.
 
-1. Continue 
-
-1. Create a newsletter
+1. Create a newsletter.
 
 https://blog.bufferapp.com/self-promotion-in-social-media
 
