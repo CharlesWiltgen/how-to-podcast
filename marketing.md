@@ -45,15 +45,14 @@ https://blog.bufferapp.com/self-promotion-in-social-media
 
 #### Sharing is caring
 
-Webinars
+1. Hold webinars.
 
-E-Courses
+1. Create online courses.
 
-Transcription (Find people new to eLance)
+1. Transcribe your podcast to help boost your SEO.
 
-Blogs
+1. Start a blog that would attract the same persona(s) that you’re looking to attract to your podcast.
 
-Connect with news reporters
-- Separate LinkedIn account
+1. Connect with reporters.
 
-If you mention products, let them know to retweet
+1. If you mention products, let them know so their social media folks can retweet.
