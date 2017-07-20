@@ -5,13 +5,13 @@ The constant challenge of podcasters is finding and growing their audience, othe
 
 You'll find a million articles on the web about content marketing. Here's a list of ways to reach potential listeners and convert them to subscribers.
 
-## 50 ways to find and grow your audience
+# Ways to find and grow your audience
 
-#### Think about podcast/audience fit
+### Think about podcast/audience fit
 
 1. Know who your audience is, ideally before you even start.  The way to do this is by creating a [**persona**](https://en.wikipedia.org/wiki/Persona#In_marketing), which is an imaginary ideal listener.
 
-#### Be everywhere you can
+### Be everywhere you can
 
 1. Submit your podcast for inclusion in [**iTunes**](https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/publishPodcast), of course.  [**Stitcher**](http://www.stitcher.com/content-providers.php#signup) is a must as well.
 
@@ -23,7 +23,7 @@ You'll find a million articles on the web about content marketing. Here's a list
 
 1. Make business cards.  Good ones — like, [**Moo**](http://moo.com/) good. You never know when you'll meet a potential listener, advertiser or sponsor. A card is the best way to help someone find you after a meetup, flight, trade show, etc.
 
-#### Spread infectious enthusiasm
+### Spread infectious enthusiasm
 
 1. Offer to speak at a [**Meetup**](meetup.com).  If you travel, offer to speak at Meetup groups in cities that you visit. Create your own Meetup related to the topic of your podcast. 
 
@@ -43,7 +43,7 @@ You'll find a million articles on the web about content marketing. Here's a list
 
 https://blog.bufferapp.com/self-promotion-in-social-media
 
-#### Sharing is caring
+### Sharing is caring
 
 1. Hold webinars.
 
