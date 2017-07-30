@@ -2,7 +2,7 @@
 
 You can use music in your podcast if:
 
-* In the public domain, or
+* It’s the public domain, or
 * It has a CreativeCommons (CC) license that’s compatible with your use, or
 * That you otherwise have an explicit license(s) or permission to use
 
