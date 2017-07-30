@@ -1,3 +1,17 @@
+# Using music in your podcast
+
+You can use music in your podcast if:
+
+* You’re positive it’s in the public domain, or
+* It has a CreativeCommons (CC) license that’s compatible with your use, or
+* That you otherwise have an explicit license(s) or permission to use
+
+Because of the way podcasts and music rights work — podcasts requires the same licenses one would need to reproduce and distribute a CD — in practical terms this means you're limited to:
+
+* Public domain music
+* CC-licensed music (with a license compatible with your use)
+* Royalty-free music
+
 # Copyright and Fair Use
 
 Confusion around "fair use" is a constant. Here are resources to help you understand if your use of copyrighted materials may fall under U.S. copyright law "fair use" exemptions.
