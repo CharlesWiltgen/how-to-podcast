@@ -6,11 +6,11 @@
 
 <a name="download">**destructive**</a> • “Destructive” editing means that audio waveforms are changed and overwritten when saved. Modern, non-destructive editing allows you to edit audio without overwriting the original audio data. Audacity is a popular destructive waveform editor. Adobe Audition has a destructive waveform editor, and a non-destructive audio editor.
 
-<a name="download">**download**</a> • 
+<a name="download">**download**</a> • The atomic unit of podcasting metrics — well, at least until Apple rolls out its “listen” metrics. Normally measured to gauge audience size.
 
 <a name="episode">**episode**</a> • The atomic unit of podcasting. A “<a href="#podcast">podcast</a>” is a collection of one or more “episodes”. In the podcast feed, an episode is represented as an `<item>` which includes an `<enclosure>` (a link to the episode’s media file) and metadata about the episode.
 
-<a name="eq">**EQ**</a> • 
+<a name="eq">**EQ**</a> • Short for “equalization”, EQ is the process of adjusting the balance of frequencies in audio. Also see: <a href="https://en.wikipedia.org/wiki/Equalization_(audio)">“Equalization (audio)” on Wikipedia</a>.
 
 <a name="gain">**gain**</a> • 
 
