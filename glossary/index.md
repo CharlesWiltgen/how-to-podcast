@@ -14,7 +14,7 @@
 
 <a name="gain">**gain**</a> • 
 
-<a name="gas">**GAS**</a> • Gear Acquisition Syndrome
+<a name="gas">**GAS**</a> • Gear Acquisition Syndrome. A sickness estimated to affect 3 out of 5 podcasters — 1 out of 5 chronically.
 
 <a name="live-streaming">**live streaming**</a> • A way to distribute content that has nothing to do with podcasting. You can record a livestream of a _show_ and distribute _that_ as a podcast, but anyone who uses the phrase “live podcast” should be pummeled about the head and neck with a cucumber until they use words correctly.
 
