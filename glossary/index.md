@@ -4,7 +4,7 @@
 
 <a name="daw">**DAW**</a> • 
 
-<a name="download">**destructive**</a> • “Destructive” editing is an old-fashioned way of editing audio, where audio waveforms are changed and overwritten when saved. Modern, non-destructive editing allows you to edit audio without overwriting the original audio data.
+<a name="download">**destructive**</a> • “Destructive” editing is an old-fashioned way of editing audio, where audio waveforms are changed and overwritten when saved. Modern, non-destructive editing allows you to edit audio without overwriting the original audio data. Audacity is a destructive waveform editor. 
 
 <a name="download">**download**</a> • 
 
