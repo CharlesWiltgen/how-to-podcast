@@ -4,6 +4,8 @@
 
 <a name="daw">**DAW**</a> • 
 
+<a name="download">**destructive**</a> • “Destructive” editing is and old-fashioned way of editing audio, where audio waveforms are changed and overwritten when saved.
+
 <a name="download">**download**</a> • 
 
 <a name="episode">**episode**</a> • The atomic unit of podcasting. A “<a href="#podcast">podcast</a>” is a collection of one or more “episodes”. In the podcast feed, an episode is represented as an `<item>` which includes an `<enclosure>` (a link to the episode’s media file) and metadata about the episode.
