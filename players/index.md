@@ -6,5 +6,5 @@
 | [WimpyPlayer](http://www.wimpyplayer.com/)              | Free |   |   |
 | ["Make a Podcast Feed Widget"](http://feed.mikle.com/support/make-a-podcast-widget/) | Free |   ||
 | [CoolCastPlayer](http://coolcastplayer.com/) | $99/year | Required |   |
-| [Libsyn](http://coolcastplayer.com/) | Requires plan |   |   |
+| [Libsyn](http://coolcastplayer.com/) | Requires plan |  |   |
 | [Blubrry](http://coolcastplayer.com/) | Requires plan |   |   |
