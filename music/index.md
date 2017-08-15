@@ -36,4 +36,4 @@ Please pay attention to the Terms and Conditions on anything you download, and m
 
 ## Avoid
 
-* **Bensound** — Does not allow music to be used in podcasts (see their [FAQ](http://www.bensound.com/help)).
+* **Bensound** — Does not allow music to be used in podcasts under any available license (see their [FAQ](http://www.bensound.com/help)).
