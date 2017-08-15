@@ -34,3 +34,6 @@ Please pay attention to the Terms and Conditions on anything you download, and m
 
 * **[Looperman](http://www.looperman.com/)** — Royalty-free loops, samples, and acapellas
 
+## Avoid
+
+* **Bensound** — Does not allow music to be used in podcasts (see their [FAQ](http://www.bensound.com/help)).
