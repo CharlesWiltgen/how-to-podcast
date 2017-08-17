@@ -16,6 +16,4 @@ Additional tools: [“23 Tools and Resources to Create Images for Social Media�
 * [WNYC Audiogram Generator — Self-hosted, some assembly required](https://medium.com/@WNYC/socialaudio-e648e8a5f2e9)
 * [WNYC Audiogram Generator — Hosted by SpareMin](https://audiogram.sparemin.com/audiogram/)
 
-https://audiogram.sparemin.com/audiogram/
-
 (If you’re wondering why Clammer wasn't mentioned, they shut down on 2017/07/02.)
