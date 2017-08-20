@@ -2,7 +2,7 @@
 
 <a name="cpm">**CPM**</a> • Advertising term meaning "cost per thousand impressions". In the case of podcasting, "impression" means "unique download". If your ad rate is $25 CPM, and you have 10,000 downloads, you’ll get $250. (Trivia: Why “CPM” instead of “CPT”? “M” = Roman numeral “mille” = 1,000.)
 
-<a name="daw">**DAW**</a> • 
+<a name="daw">**DAW**</a> • An acronym for “Digital Audio Workstation”, this is an audio industry term for software that does a bunch of audio production “stuff” — primarily audio editing, but also pretty much all other production tasks.
 
 <a name="download">**destructive**</a> • “Destructive” editing means that audio waveforms are changed and overwritten when saved. Modern, non-destructive editing allows you to edit audio without overwriting the original audio data. Audacity is a popular destructive waveform editor. Adobe Audition has a destructive waveform editor, and a non-destructive audio editor.
 
@@ -21,6 +21,8 @@
 <a name="lufs">**LUFS**</a> • Short for “Loudness Units Relative to Full Scale”, this is an international standard for measuring how loud something is. For podcasts, the defacto standard is -16 LUFS for stereo or -19 LUFS for mono (both are perceptually equivalent). This matches loudness standards for services like iTunes and Spotify, helping ensure that listeners aren’t subject to wild volume swings as they enjoy different audio content.
 
 <a name="metadata">**metadata**</a> • 
+
+<a name="mix-minus">**mix-minus**</a> • A way of configuring your VoIP/Skype recording setup so that (1) all local participants hear the remote participant, but (2) the remote participant hears everyone *except* (minus!) themselves. This prevents the remote participant from hearing a delayed version of everything they’re saying, which totally messes with their ability to speak.
 
 <a name="phantom-power">**phantom power**</a> • 
 
@@ -58,8 +60,6 @@ shock mount
 pop filter
 
 plosives
-
-<a name="mix-minus">**mix-minus**</a> • A way of configuring your VoIP/Skype recording setup so that (1) all local participants hear the remote participant, but (2) the remote participant hears everyone *except* (minus!) themselves. This prevents the remote participant from hearing a delayed version of everything they’re saying, which totally messes with their ability to speak.
 
 multitrack recording
 
