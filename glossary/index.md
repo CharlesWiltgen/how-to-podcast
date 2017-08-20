@@ -30,6 +30,8 @@
 
 <a name="podcast-network">**podcast network**</a> • A podcast network is a collection of podcasts that are produced and/or distributed through a single company, or network. A typical benefit of a podcast network is that the member podcasts can be made available to advertisers as a group, instead of individually.
 
+<a name="RSS">**RSS**</a> • RSS is a relatively-simple file format that describes a list of things, normally blog posts or (in our case) podcasts. “RSS” is to your podcast what “HTML” is to a web page. When people subscribe to your podcast, they're really subscribing to your show's RSS feed, which is a link to your podcast’s RSS file.
+
 <a name="unique-download">**unique download**</a> • 
 
 
