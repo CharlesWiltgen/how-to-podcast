@@ -10,6 +10,7 @@ More Resources
 * **[Learn How To Podcast 101](http://podcastanswerman.com/learn-how-to-podcast/)** — A video series by “Podcast Answer Man” Cliff Ravenscraft. _[Ignore the advice to use FeedBurner, which no longer recommended.]_
 * **[NPR Training](http://training.npr.org/)** — Storytelling tips and best practices.
 * **[Podcast101: Creating and Hosting an Audio Podcast](https://itunes.apple.com/us/book/podcast101-creating-hosting/id498143383)** by Rob Walch — An iBook by industry expert and VP of Podcaster Relations at Libsyn, a very popular podcast hosting provider.
+* **[Podcasting 101: How to Start a Podcast](http://thepodcastersstudio.com/tps101-podcasting-101-how-to-start-a-podcast/)** by Ray Ortega
 * **[Podcasting Manual by Blubrry](https://create.blubrry.com/manual/)** — A podcasting how to by Blubrry, a popular podcast hosting provider and the creator of PowerPress
 * **[Transom: Techniques](http://transom.org/topics/techniques/)** — Practical posts and how-to’s on the craft.
 * **[Transom: Tools](http://transom.org/topics/tools/)** — In-depth reviews of digital recorders, microphones, editing software and more.
