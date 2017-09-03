@@ -8,6 +8,7 @@
 | [**NYCPodFest**](http://www.nycpodfest.com/) | New York, NY | Apr |
 | [**PodSummit**](http://podsummit.com/) | Calgary, Canada | May |
 | [**Audiocraft**](http://www.audiocraft.com.au/) | Sydney, Australia | Jun |
+| [**RAIN Podcast Business Summit**](http://rainnews.com/podcast-business-summit/) | New York, NY | Jun |
 | [**Podcast Movement**](http://podcastmovement.com/) | Anaheim, CA | Aug |
 | [**Mid-Atlantic Podcast Conference**](http://podcastmidatlantic.com/) | Philadelphia, PA | Sep |
 | [**LA Podcast Festival**](http://www.lapodfest.com/) | Los Angeles, CA | Oct |
