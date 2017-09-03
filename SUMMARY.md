@@ -49,7 +49,7 @@
 
 ## Appendix
 
-* [Conferences](resources/podcasting-shows.md)
+* [Conferences](conferences/index.md)
 * [Resources](resources/index.md)
 * [Glossary](glossary/index.md)
 * [Colophon & Credits](colophon.md)
