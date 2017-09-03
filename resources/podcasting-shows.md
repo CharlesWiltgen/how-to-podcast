@@ -2,6 +2,7 @@
 
 | Show | Location | Date |
 | ---- | -------- | ---- |
+| [**Podfest**](http://podfest.us/) | Orlando, FL | February |
 | [**Podcast Movement**](http://podcastmovement.com/) | Anaheim, CA | August |
 | [**Mid-Atlantic Podcast Conference**](http://podcastmidatlantic.com/) | Philadelphia, PA | September |
 | [**LA Podcast Festival**](http://www.lapodfest.com/) | Los Angeles, CA | October |
