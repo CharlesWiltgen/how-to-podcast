@@ -11,6 +11,7 @@
 | [**RAIN Podcast Business Summit**](http://rainnews.com/podcast-business-summit/) | New York, NY | Jun |
 | [**Podcast Movement**](http://podcastmovement.com/) | Anaheim, CA | Aug |
 | [**Mid-Atlantic Podcast Conference**](http://podcastmidatlantic.com/) | Philadelphia, PA | Sep |
+| [**OzPod**](http://www.abc.net.au/radio/programs/ozpod/) | Sydney, Australia | Sep |
 | [**LA Podcast Festival**](http://www.lapodfest.com/) | Los Angeles, CA | Oct |
 | [**DC Podfest**](http://www.dcpodfest.com/) | Washington, DC | Nov |
 | [**PodCon**](http://podcon.com/) | Seattle, WA | Dec |
