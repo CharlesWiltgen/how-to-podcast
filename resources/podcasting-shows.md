@@ -1,4 +1,4 @@
-# Podcasting Shows
+# Podcasting Conferences
 
 | Show | Location | Date |
 | ---- | -------- | ---- |
