@@ -1,11 +1,16 @@
 {
   "plugins": [
     "autocover",
+    "callouts",
     "edit-link",
     "simple-page-toc"
   ],
   "pluginsConfig": {
     "autocover": {
+    },
+    "callouts":
+    {
+      "showTypeInHeader": false
     },
     "edit-link": {
       "base": "https://github.com/CharlesWiltgen/how-to-podcast/tree/master",
