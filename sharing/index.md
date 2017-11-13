@@ -11,6 +11,7 @@ Additional tools: [â€œ23 Tools and Resources to Create Images for Social Mediaâ€
 ## Make sharable audio clips
 
 * [Artwork.fm](https://www.artwork.fm/)
+* [Audiogram](https://getaudiogram.com//)
 * [Auphonic](https://auphonic.com/blog/2017/04/25/audiogram-generator-waveform-videos/)
 * [Wavve](http://getwavve.com/)
 * [WNYC Audiogram Generator (self-hosted, some assembly required)](https://medium.com/@WNYC/socialaudio-e648e8a5f2e9)
