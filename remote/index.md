@@ -1,10 +1,13 @@
-# Options
+# Overview
 
-Broadly, there are two options for including remote participants while recording a podcast: **VoIP**, and **multi-enders**.
+Broadly, there are two options for including remote participants while recording a podcast:
 
-## VoIP
+* **Live recordings**
+* **Multi-enders**
 
-“Voice over IP” solutions enable voice and/or video calls over the internet.
+## Live recordings
+
+Live recordings mean that all of the participants are recorded live as a single track. Participants may talk to each other with some combination of VoIP, mobile, and good ol' fashioned landline phone calls.
 
 ### Consumer/business VoIP
 
