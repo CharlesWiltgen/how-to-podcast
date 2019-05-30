@@ -19,6 +19,17 @@ The most popular option for self-hosting
 
 (TBD)
 
+## [ZenCast](https://zencast.fm)
+[Free Trial](https://zencast.fm/free-trial)
+
+ZenCast is an all in one solution that allows you to host, publish, distribute and track your podcas.
+
+* No upload limits
+* Podcast website included (with your own domain)
+* Support for multiple podcasts (network)
+* Embedded player
+* iTunes rating/review monitoring
+
 ### LibSyn
 
 (TBD)
